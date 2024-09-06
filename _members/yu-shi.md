@@ -1,6 +1,6 @@
 ---
-name: Yu-Shi
-image: images/photo.jpg
+name: Yu Shi
+image: images/yu.jpg
 role: phd
 group: alum
 links:

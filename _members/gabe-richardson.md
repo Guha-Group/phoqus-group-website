@@ -1,6 +1,6 @@
 ---
-name: John Doe
-image: images/photo.jpg
+name: Gabe Richardson
+image: images/gabe.jpg
 role: phd
 group: alum
 links:

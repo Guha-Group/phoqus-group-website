@@ -1,6 +1,6 @@
 ---
-name: Jack Postlewaite
-image: images/photo.jpg
+name: Prajit Dhara
+image: images/prajit.jpg
 role: phd
 group: alum
 links:

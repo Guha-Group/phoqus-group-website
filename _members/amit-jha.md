@@ -1,6 +1,6 @@
 ---
 name: Amit Jha
-image: images/photo.jpg
+image: images/amit.jpg
 role: phd
 group: alum
 links:

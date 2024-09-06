@@ -1,6 +1,6 @@
 ---
 name: Tiju Cherian John
-image: images/photo.jpg
+image: images/tiju.jpg
 role: phd
 group: alum
 links:

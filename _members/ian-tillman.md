@@ -1,6 +1,6 @@
 ---
 name: Ian Tillman
-image: images/photo.jpg
+image: images/ian.jpg
 role: phd
 group: alum
 links:
