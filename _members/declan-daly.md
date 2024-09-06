@@ -1,6 +1,6 @@
 ---
 name: Declan Daly
-image: images/photo.jpg
+image: images/declan.png
 role: undergrad
 group: alum
 links:
