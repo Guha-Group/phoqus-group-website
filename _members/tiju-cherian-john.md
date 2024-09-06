@@ -1,7 +1,7 @@
 ---
 name: Tiju Cherian John
 image: images/tiju.jpg
-role: postdoc
+role: research
 group: alum
 links:
   github: john-doe
