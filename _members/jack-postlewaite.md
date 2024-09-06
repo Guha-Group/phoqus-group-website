@@ -1,6 +1,6 @@
 ---
 name: Jack Postlewaite
-image: images/photo.jpg
+image: images/jack.jpeg
 role: phd
 group: alum
 links:
