@@ -1,7 +1,7 @@
 ---
 name: Yu Shi
 image: images/yu.jpg
-role: phd
+role: postdoc
 group: alum
 links:
   github: john-doe

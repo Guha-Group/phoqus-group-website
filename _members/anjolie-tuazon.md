@@ -1,7 +1,7 @@
 ---
-name: Chaohan Cui
-image: images/chaohan.jpg
-role: researcher
+name: Anjolie Tuazon
+image: images/gabe.jpg
+role: undergrad
 group: alum
 links:
   github: john-doe
