@@ -1,7 +1,7 @@
 ---
 ---
 
-# Guha-GroupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to the Photonic Quantum Systems (PhoQuS) group website. Our research group, based at the University of Maryland, College Park, investigates fundamental and applied problems relating to the quantum nature of information bearing light.
 
 
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Learn about our research in photonic quantum sensing, communication, networking, and computing.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out our ongoing projects and sponser agencies.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our team members to learn about their work and interests.
 
 {%
   include button.html
