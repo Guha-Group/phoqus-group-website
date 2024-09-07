@@ -26,7 +26,7 @@ Learn about our research in photonic quantum sensing, communication, networking,
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/gmcap.png"
   link="research"
   title="Our Research"
   text=text

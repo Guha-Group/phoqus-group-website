@@ -1,5 +1,15 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: QuaNett
+  subtitle: DARPA
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Change detection
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: PHENOM
+  subtitle: DARPA
   group: featured
   image: images/photo.jpg
   link: https://github.com/
@@ -8,18 +18,8 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Green Machine
+  subtitle: NASA
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
