@@ -1,6 +1,6 @@
 ---
 name: Aqil Sajjad
-image: images/photo.jpg
+image: images/aqil.jpeg
 role: researcher
 affiliation: University of Maryland, College Park
 ---

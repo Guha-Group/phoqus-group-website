@@ -1,6 +1,6 @@
 ---
 name: Ashlesha Patil
-image: images/photo.jpg
+image: images/ashlesha.jpeg
 role: phd
 affiliation: University of Arizona
 ---
