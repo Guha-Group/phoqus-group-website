@@ -34,8 +34,8 @@ Reach out to us in regards to research, media, and project sponsorship.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/gcrb.jpeg"
+  caption="Meinel and Grand Challenges Research Building at the University of Arizona"
 %}
 
 {% endcapture %}
@@ -44,8 +44,8 @@ Reach out to us in regards to research, media, and project sponsorship.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/keb.jpeg"
+  caption="Kim Engineering Building at the University of Maryland, College Park"
 %}
 
 {% endcapture %}

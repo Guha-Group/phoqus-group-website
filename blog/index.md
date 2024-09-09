@@ -5,7 +5,7 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Group Updates and Events
 
 This page coveres general updates for the group, announcments for new research projects, and other relevent updates from the group.
 
