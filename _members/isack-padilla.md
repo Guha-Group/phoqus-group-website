@@ -1,7 +1,8 @@
 ---
 name: Isack Padilla
-image: images/photo.jpg
+image: images/isack.jpeg
 role: phd
+affiliation: University of Arizona
 
 ---
 

@@ -2,6 +2,7 @@
 name: Anjolie Tuazon
 image: images/anjolie.jpg
 role: undergrad
+affiliation: University of Maryland, College Park
 
 ---
 
