@@ -1,7 +1,7 @@
 ---
 name: Emily Van Milligen
 image: images/photo.jpg
-role: undergrad
+role: phd
 group: alum
 links:
   github: john-doe

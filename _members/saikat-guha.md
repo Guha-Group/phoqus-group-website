@@ -3,11 +3,7 @@ name: Saikat Guha
 image: images/saikat.png
 role: pi
 affiliation: University of Maryland, College Park
-# aliases:
-#   - J. Smith
-#   - J Smith
 links:
-  #home-page: https://janesmith.com
   orcid: 0000-0002-2581-4380
 ---
 
