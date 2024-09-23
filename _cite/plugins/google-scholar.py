@@ -3,8 +3,6 @@ from serpapi import GoogleSearch
 from util import *
 from dotenv import load_dotenv
 
-#Load environment variables
-load_dotenv()
 
 def main(entry):
     """
