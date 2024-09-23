@@ -1,7 +1,7 @@
 import os
 from serpapi import GoogleSearch
 from util import *
-from dotenv import load_dotenv
+
 
 
 def main(entry):
