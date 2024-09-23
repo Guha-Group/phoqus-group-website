@@ -14,6 +14,7 @@
   date: '2024-09-01'
   link: https://doi.org/gvbmkx
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/JSAC.2024.3380097
@@ -28,6 +29,7 @@
   date: '2024-07-01'
   link: https://doi.org/gvbmkt
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevResearch.6.013212
@@ -40,6 +42,7 @@
   date: '2024-02-27'
   link: https://doi.org/gvbmkv
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TQE.2024.3366696
@@ -54,6 +57,7 @@
   date: '2024-01-01'
   link: https://doi.org/gvbmkw
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevResearch.5.033149
@@ -65,9 +69,11 @@
   publisher: Physical Review Research
   date: '2023-09-01'
   link: https://doi.org/gvbmkz
-  orcid: 0000-0002-2581-4380
+  orcid: 0000-0002-4672-5117
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
+  prajit-dhara: true
 - id: doi:10.1145/3571809
   title: On the Capacity Region of Bipartite and Tripartite Entanglement Switching
   authors:
@@ -80,6 +86,7 @@
   date: '2023-03-07'
   link: https://doi.org/gvbmk2
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevApplied.19.064015
@@ -94,6 +101,7 @@
   date: '2023-06-05'
   link: https://doi.org/gvbmk3
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.22331/q-2023-05-31-1025
@@ -108,6 +116,7 @@
   date: '2023-05-31'
   link: https://doi.org/gvbmk4
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/JSTSP.2022.3222680
@@ -122,6 +131,7 @@
   date: '2023-03-01'
   link: https://doi.org/gvbmk5
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevA.105.032446
@@ -138,6 +148,7 @@
   date: '2022-03-25'
   link: https://doi.org/gvbmk6
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.22331/q-2021-02-04-392
@@ -160,6 +171,7 @@
   date: '2021-02-04'
   link: https://doi.org/gnx9gq
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TQE.2021.3058058
@@ -173,63 +185,129 @@
   date: '2021-01-01'
   link: https://doi.org/gvbmk7
   orcid: 0000-0002-2581-4380
+  saikat-guha: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1063/5.0219011
+  title: Exploring the possibility of a complex-valued non-Gaussianity measure for
+    quantum states of light
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  - Andrew J. Pizzimenti
+  - Prajit Dhara
+  - Zacharie Van Herstraeten
+  - Sijie Cheng
+  - Christos N. Gagatsos
+  publisher: APL Quantum
+  date: '2024-08-27'
+  link: https://doi.org/g4m9ws
+  orcid: 0000-0002-4672-5117
+  prajit-dhara: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevResearch.6.013055
+  title: Phonon-induced decoherence in color-center qubits
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Prajit Dhara
+  - Saikat Guha
+  publisher: Physical Review Research
+  date: '2024-01-16'
+  link: https://doi.org/g4m9w3
+  orcid: 0000-0002-4672-5117
+  prajit-dhara: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevApplied.19.054029
+  title: Zero-Added-Loss Entangled-Photon Multiplexing for Ground- and Space-Based
+    Quantum Networks
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Kevin C. Chen
+  - Prajit Dhara
+  - Mikkel Heuck
+  - Yuan Lee
+  - Wenhan Dai
+  - Saikat Guha
+  - Dirk Englund
+  publisher: Physical Review Applied
+  date: '2023-05-09'
+  link: https://doi.org/g4m9w5
+  orcid: 0000-0002-4672-5117
+  prajit-dhara: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevA.105.052416
+  title: Coherent manipulation of graph states composed of finite-energy Gottesman-Kitaev-Preskill-encoded
+    qubits
+  authors:
+  - Kaushik P. Seshadreesan
+  - Prajit Dhara
+  - Ashlesha Patil
+  - Liang Jiang
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2022-05-11'
+  link: https://doi.org/g4m9w8
+  orcid: 0000-0002-4672-5117
+  prajit-dhara: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/infocomwkshps54753.2022.9798300
+  title: Optimal Entanglement Distribution using Satellite Based Quantum Networks
+  authors:
+  - Nitish K. Panigrahy
+  - Prajit Dhara
+  - Don Towsley
+  - Saikat Guha
+  - Leandros Tassiulas
+  publisher: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops
+    (INFOCOM WKSHPS)
+  date: '2022-05-02'
+  link: https://doi.org/grbqtw
+  orcid: 0000-0002-4672-5117
+  prajit-dhara: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevApplied.17.034071
+  title: Heralded Multiplexed High-Efficiency Cascaded Source of Dual-Rail Entangled
+    Photon Pairs Using Spontaneous Parametric Down-Conversion
+  authors:
+  - Prajit Dhara
+  - Spencer J. Johnson
+  - Christos N. Gagatsos
+  - Paul G. Kwiat
+  - Saikat Guha
+  publisher: Physical Review Applied
+  date: '2022-03-29'
+  link: https://doi.org/g4m9xc
+  orcid: 0000-0002-4672-5117
+  prajit-dhara: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevA.105.022623
+  title: Multiplexed quantum repeaters based on dual-species trapped-ion systems
+  authors:
+  - Prajit Dhara
+  - Norbert M. Linke
+  - Edo Waks
+  - Saikat Guha
+  - Kaushik P. Seshadreesan
+  publisher: Physical Review A
+  date: '2022-02-25'
+  link: https://doi.org/g4m9xg
+  orcid: 0000-0002-4672-5117
+  prajit-dhara: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevA.104.052612
+  title: Subexponential rate versus distance with time-multiplexed quantum repeaters
+  authors:
+  - Prajit Dhara
+  - Ashlesha Patil
+  - Hari Krovi
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2021-11-19'
+  link: https://doi.org/gnj6vb
+  orcid: 0000-0002-4672-5117
+  prajit-dhara: true
+  plugin: orcid.py
+  file: orcid.yaml
