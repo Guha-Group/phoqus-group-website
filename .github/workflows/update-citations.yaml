@@ -1,5 +1,6 @@
 name: update-citations
 run-name: update citations
+secrets: inherit
 
 on:
   # run when called from another workflow
@@ -26,7 +27,6 @@ jobs:
   update-citations:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    secrets: inherit
 
     steps:
       # for debugging
