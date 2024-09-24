@@ -1,6 +1,5 @@
 name: update-citations
 run-name: update citations
-secrets: inherit
 
 on:
   # run when called from another workflow
@@ -26,6 +25,7 @@ env:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
+    environment: github-pages
     timeout-minutes: 15
 
     steps:
