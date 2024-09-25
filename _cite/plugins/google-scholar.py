@@ -19,7 +19,8 @@ def main(entry):
     params = {
         "engine": "google_scholar_author",
         "api_key": api_key,
-        "num": 50,  # max allowed
+        "sort": "pubdate",
+        "num": 75,  # max allowed
     }
 
     # get id from entry
