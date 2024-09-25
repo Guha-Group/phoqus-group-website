@@ -44,7 +44,8 @@ def main(entry):
         # create source
         year = get_safe(work, "year", "")
         source = {
-            "id": get_safe(work, "citation_id", ""),
+            "google_id": get_safe(work, "citation_id", ""),
+            "id": get_safe(work, "link", ""),
             # api does not provide Manubot-citeable id, so keep citation details
             "title": get_safe(work, "title", ""),
             "authors": list(map(str.strip, get_safe(work, "authors", "").split(","))),
