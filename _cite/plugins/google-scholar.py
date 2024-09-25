@@ -20,7 +20,7 @@ def main(entry):
         "engine": "google_scholar_author",
         "api_key": api_key,
         "sort": "pubdate",
-        "num": "75",  # max allowed
+        "num": 75,  # max allowed
     }
 
     # get id from entry
