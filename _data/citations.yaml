@@ -311,747 +311,1111 @@
   prajit-dhara: true
   plugin: orcid.py
   file: orcid.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:2osOgNQ5qMEC
-  title: Quantum illumination with Gaussian states
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:aXwx4OqTWR4C
+  title: Adaptive Super-Resolution Imaging Without Prior Knowledge Using a Programmable
+    Spatial-Mode Sorter
   authors:
-  - SH Tan
-  - BI Erkmen
-  - V Giovannetti
-  - S Guha
-  - S Lloyd
-  - L Maccone
-  - '...'
-  publisher: Physical review letters 101 (25), 253601, 2008
-  date: '2008-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:2osOgNQ5qMEC
-  google_id: E4JS8pQAAAAJ:2osOgNQ5qMEC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:VL0QpB8kHFEC
-  title: Microwave quantum illumination
-  authors:
-  - S Barzanjeh
-  - S Guha
-  - C Weedbrook
-  - D Vitali
-  - JH Shapiro
-  - S Pirandola
-  publisher: Physical review letters 114 (8), 080503, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:VL0QpB8kHFEC
-  google_id: E4JS8pQAAAAJ:VL0QpB8kHFEC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ZuybSZzF8UAC
-  title: Fundamental rate-loss tradeoff for optical quantum key distribution
-  authors:
-  - M Takeoka
-  - S Guha
-  - MM Wilde
-  publisher: Nature communications 5 (1), 5235, 2014
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ZuybSZzF8UAC
-  google_id: E4JS8pQAAAAJ:ZuybSZzF8UAC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:u5HHmVD_uO8C
-  title: 'Classical capacity of the lossy bosonic channel: The exact solution'
-  authors:
-  - V Giovannetti
-  - S Guha
-  - S Lloyd
-  - L Maccone
-  - JH Shapiro
-  - HP Yuen
-  publisher: Physical review letters 92 (2), 027902, 2004
-  date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:u5HHmVD_uO8C
-  google_id: E4JS8pQAAAAJ:u5HHmVD_uO8C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:TIZ-Mc8IlK0C
-  title: Covert communication in the presence of an uninformed jammer
-  authors:
-  - TV Sobers
-  - BA Bash
-  - S Guha
-  - D Towsley
-  - D Goeckel
-  publisher: IEEE Transactions on Wireless Communications 16 (9), 6193-6206, 2017
-  date: '2017-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:TIZ-Mc8IlK0C
-  google_id: E4JS8pQAAAAJ:TIZ-Mc8IlK0C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:9Nmd_mFXekcC
-  title: 'Hiding information in noise: Fundamental limits of covert wireless communication'
-  authors:
-  - BA Bash
-  - D Goeckel
-  - D Towsley
-  - S Guha
-  publisher: IEEE Communications Magazine 53 (12), 26-31, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:9Nmd_mFXekcC
-  google_id: E4JS8pQAAAAJ:9Nmd_mFXekcC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:kVKjLOQJbwAC
-  title: Development of quantum interconnects (quics) for next-generation information
-    technologies
-  authors:
-  - D Awschalom
-  - KK Berggren
-  - H Bernien
-  - S Bhave
-  - LD Carr
-  - P Davids
-  - '...'
-  publisher: Prx Quantum 2 (1), 017002, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:kVKjLOQJbwAC
-  google_id: E4JS8pQAAAAJ:kVKjLOQJbwAC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ZyBjE3zI-i8C
-  title: Routing entanglement in the quantum internet
-  authors:
-  - M Pant
-  - H Krovi
-  - D Towsley
-  - L Tassiulas
-  - L Jiang
-  - P Basu
-  - D Englund
-  - '...'
-  publisher: npj Quantum Information 5 (1), 25, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ZyBjE3zI-i8C
-  google_id: E4JS8pQAAAAJ:ZyBjE3zI-i8C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:Tyk-4Ss8FVUC
-  title: Gaussian-state quantum-illumination receivers for target detection
-  authors:
-  - S Guha
-  - BI Erkmen
-  publisher: "Physical Review A\u2014Atomic, Molecular, and Optical Physics 80 (5),\
-    \ 052310, 2009"
-  date: '2009-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:Tyk-4Ss8FVUC
-  google_id: E4JS8pQAAAAJ:Tyk-4Ss8FVUC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:9UF2BbDYXHIC
-  title: Blueprint for a scalable photonic fault-tolerant quantum computer
-  authors:
-  - JE Bourassa
-  - RN Alexander
-  - M Vasmer
-  - A Patil
-  - I Tzitrin
-  - T Matsuura
-  - D Su
-  - '...'
-  publisher: Quantum 5, 392, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:9UF2BbDYXHIC
-  google_id: E4JS8pQAAAAJ:9UF2BbDYXHIC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:u-x6o8ySG0sC
-  title: 'Minimum output entropy of bosonic channels: a conjecture'
-  authors:
-  - V Giovannetti
-  - S Guha
-  - S Lloyd
-  - L Maccone
-  - JH Shapiro
-  publisher: "Physical Review A\u2014Atomic, Molecular, and Optical Physics 70 (3),\
-    \ 032315, 2004"
-  date: '2004-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:u-x6o8ySG0sC
-  google_id: E4JS8pQAAAAJ:u-x6o8ySG0sC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:0vYOBEH00j0C
-  title: Covert wireless communication with artificial noise generation
-  authors:
-  - R Soltani
-  - D Goeckel
-  - D Towsley
-  - BA Bash
-  - S Guha
-  publisher: IEEE Transactions on Wireless Communications 17 (11), 7252-7267, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:0vYOBEH00j0C
-  google_id: E4JS8pQAAAAJ:0vYOBEH00j0C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ML0RJ9NH7IQC
-  title: Rate-distance tradeoff and resource costs for all-optical quantum repeaters
-  authors:
-  - M Pant
-  - H Krovi
-  - D Englund
-  - S Guha
-  publisher: Physical Review A 95 (1), 012304, 2017
-  date: '2017-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ML0RJ9NH7IQC
-  google_id: E4JS8pQAAAAJ:ML0RJ9NH7IQC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:kNdYIx-mwKoC
-  title: Structured optical receivers to attain superadditive capacity and the Holevo
-    limit
-  authors:
-  - S Guha
-  publisher: Physical review letters 106 (24), 240502, 2011
-  date: '2011-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:kNdYIx-mwKoC
-  google_id: E4JS8pQAAAAJ:kNdYIx-mwKoC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:epqYDVWIO7EC
-  title: Covert communications when the warden does not know the background noise
-    power
-  authors:
-  - D Goeckel
-  - B Bash
-  - S Guha
-  - D Towsley
-  publisher: IEEE Communications Letters 20 (2), 236-239, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:epqYDVWIO7EC
-  google_id: E4JS8pQAAAAJ:epqYDVWIO7EC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:9vf0nzSNQJEC
-  title: Rate-loss analysis of an efficient quantum repeater architecture
-  authors:
-  - S Guha
-  - H Krovi
-  - CA Fuchs
-  - Z Dutton
-  - JA Slater
-  - C Simon
-  - W Tittel
-  publisher: Physical Review A 92 (2), 022357, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:9vf0nzSNQJEC
-  google_id: E4JS8pQAAAAJ:9vf0nzSNQJEC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:W7OEmFMy1HYC
-  title: Ultimate channel capacity of free-space optical communications
-  authors:
-  - J Shapiro
-  - S Guha
-  - B Erkmen
-  publisher: Journal of Optical Networking 4 (8), 501-516, 2005
-  date: '2005-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:W7OEmFMy1HYC
-  google_id: E4JS8pQAAAAJ:W7OEmFMy1HYC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:0EnyYjriUFMC
-  title: Polar codes for classical-quantum channels
-  authors:
-  - MM Wilde
-  - S Guha
-  publisher: IEEE Transactions on Information Theory 59 (2), 1175-1187, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:0EnyYjriUFMC
-  google_id: E4JS8pQAAAAJ:0EnyYjriUFMC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:zLWjf1WUPmwC
-  title: Quantum-secure covert communication on bosonic channels
-  authors:
-  - BA Bash
-  - AH Gheorghe
-  - M Patel
-  - JL Habif
-  - D Goeckel
-  - D Towsley
-  - S Guha
-  publisher: Nature communications 6 (1), 8626, 2015
-  date: '2015-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:zLWjf1WUPmwC
-  google_id: E4JS8pQAAAAJ:zLWjf1WUPmwC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:9yKSN-GCB0IC
-  title: Convolutional and tail-biting quantum error-correcting codes
-  authors:
-  - GD Forney
-  - M Grassl
-  - S Guha
-  publisher: IEEE transactions on information theory 53 (3), 865-880, 2007
-  date: '2007-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:9yKSN-GCB0IC
-  google_id: E4JS8pQAAAAJ:9yKSN-GCB0IC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:4DMP91E08xMC
-  title: Optical codeword demodulation with error rates below the standard quantum
-    limit using a conditional nulling receiver
-  authors:
-  - J Chen
-  - JL Habif
-  - Z Dutton
-  - R Lazarus
-  - S Guha
-  publisher: Nature Photonics 6 (6), 374-379, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:4DMP91E08xMC
-  google_id: E4JS8pQAAAAJ:4DMP91E08xMC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:5ugPr518TE4C
-  title: The squashed entanglement of a quantum channel
-  authors:
-  - M Takeoka
-  - S Guha
-  - MM Wilde
-  publisher: IEEE Transactions on Information Theory 60 (8), 4987-4998, 2014
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:5ugPr518TE4C
-  google_id: E4JS8pQAAAAJ:5ugPr518TE4C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:00hq1xGbIBsC
-  title: On the stochastic analysis of a quantum entanglement switch
-  authors:
-  - G Vardoyan
-  - S Guha
-  - P Nain
-  - D Towsley
-  publisher: ACM SIGMETRICS Performance Evaluation Review 47 (2), 27-29, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:00hq1xGbIBsC
-  google_id: E4JS8pQAAAAJ:00hq1xGbIBsC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:RYcK_YlVTxYC
-  title: Holevo capacity achieving joint detection receiver
-  authors:
-  - S Guha
-  publisher: US Patent 8,620,166, 2013
-  date: '2013-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:RYcK_YlVTxYC
-  google_id: E4JS8pQAAAAJ:RYcK_YlVTxYC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:d1gkVwhDpl0C
-  title: Bohmian trajectories for photons
-  authors:
-  - P Ghose
-  - AS Majumdar
-  - S Guha
-  - J Sau
-  publisher: Physics Letters A 290 (5-6), 205-213, 2001
-  date: '2001-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:d1gkVwhDpl0C
-  google_id: E4JS8pQAAAAJ:d1gkVwhDpl0C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:Fx13dKtzC7kC
-  title: A single shot coherent Ising machine based on a network of injection-locked
-    multicore fiber lasers
-  authors:
-  - M Babaeian
-  - DT Nguyen
-  - V Demir
-  - M Akbulut
+  - I Ozer
+  - M Grace
   - PA Blanche
-  - Y Kaneda
+  - S Guha
+  publisher: arXiv preprint arXiv:2409.04323, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:aXwx4OqTWR4C
+  google_id: E4JS8pQAAAAJ:aXwx4OqTWR4C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:LwieBGrN4GEC
+  title: Heralded photonic entanglement source
+  authors:
+  - S Guha
+  - P Dhara
+  publisher: US Patent App. 18/291,617, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:LwieBGrN4GEC
+  google_id: E4JS8pQAAAAJ:LwieBGrN4GEC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:YnriW4MgZhwC
+  title: Quantum Network Tomography
+  authors:
+  - M Guedes de Andrade
+  - J Navas
+  - S Guha
+  - "I Monta\xF1o"
+  - M Raymer
+  - B Smith
   - '...'
-  publisher: Nature communications 10 (1), 3516, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:Fx13dKtzC7kC
-  google_id: E4JS8pQAAAAJ:Fx13dKtzC7kC
+  publisher: IEEE Network 38 (5), 114-122, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:YnriW4MgZhwC
+  google_id: E4JS8pQAAAAJ:YnriW4MgZhwC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:edV_OwlUe4UC
-  title: Percolation thresholds for photonic quantum computing
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:JVJ6OkSwpHsC
+  title: Towards quantum-enhanced long-baseline optical/near-IR interferometry
   authors:
-  - M Pant
+  - JK Rajagopal
+  - RM Lau
+  - I Padilla
+  - ST Ridgway
+  - C Cui
+  - B McClinton
+  - '...'
+  publisher: Optical and Infrared Interferometry and Imaging IX 13095, 464-472, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:JVJ6OkSwpHsC
+  google_id: E4JS8pQAAAAJ:JVJ6OkSwpHsC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:IaRkJ05COeQC
+  title: Stabilizer Entanglement Distillation and Efficient Fault-Tolerant Encoder
+  authors:
+  - Y Shi
+  - A Patil
+  - S Guha
+  publisher: arXiv preprint arXiv:2408.06299, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:IaRkJ05COeQC
+  google_id: E4JS8pQAAAAJ:IaRkJ05COeQC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:AbS6eEh_b9AC
+  title: Processing signals using entanglement-assisted communication
+  authors:
+  - S Guha
+  - A Cox
+  - Q Zhuang
+  - C Gagatsos
+  - B Bash
+  publisher: US Patent App. 18/289,884, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:AbS6eEh_b9AC
+  google_id: E4JS8pQAAAAJ:AbS6eEh_b9AC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:p7qoFRH4VUUC
+  title: 'Publisher Correction: Charting quantum horizons to establish a roadmap for
+    microarcsecond astronomy'
+  authors:
+  - RM Lau
+  - A Ashok
+  - J Emms
+  - DR Gies
+  - S Guha
+  - Z Hartman
+  - B McClinton
+  - '...'
+  publisher: Nature Astronomy 8 (8), 1067-1067, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:p7qoFRH4VUUC
+  google_id: E4JS8pQAAAAJ:p7qoFRH4VUUC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:F-1HeU7gMOYC
+  title: Utilizing probabilistic entanglement between sensors in quantum networks
+  authors:
+  - EA Van Milligen
+  - CN Gagatsos
+  - E Kaur
   - D Towsley
-  - D Englund
   - S Guha
-  publisher: Nature communications 10 (1), 1070, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:edV_OwlUe4UC
-  google_id: E4JS8pQAAAAJ:edV_OwlUe4UC
+  publisher: arXiv preprint arXiv:2407.15652, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:F-1HeU7gMOYC
+  google_id: E4JS8pQAAAAJ:F-1HeU7gMOYC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:uJ-U7cs_P_0C
-  title: Practical quantum repeaters with parametric down-conversion sources
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EGhj4itiAA0C
+  title: Spatial mode processing for high-resolution imaging
   authors:
-  - H Krovi
+  - M Grace
   - S Guha
-  - Z Dutton
-  - JA Slater
-  - C Simon
-  - W Tittel
-  publisher: Applied Physics B 122, 1-8, 2016
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:uJ-U7cs_P_0C
-  google_id: E4JS8pQAAAAJ:uJ-U7cs_P_0C
+  - M Neifeld
+  - A Ashok
+  publisher: US Patent App. 18/289,382, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EGhj4itiAA0C
+  google_id: E4JS8pQAAAAJ:EGhj4itiAA0C
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:Qy-rCirNo-8C
-  title: Multi-hop routing in covert wireless networks
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:zBCjByih94YC
+  title: Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial
+    Mode Sorters
   authors:
-  - A Sheikholeslami
-  - M Ghaderi
-  - D Towsley
-  - BA Bash
-  - S Guha
-  - D Goeckel
-  publisher: IEEE Transactions on Wireless Communications 17 (6), 3656-3669, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:Qy-rCirNo-8C
-  google_id: E4JS8pQAAAAJ:Qy-rCirNo-8C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:IjCSPb-OGe4C
-  title: Classical capacity of bosonic broadcast communication and a minimum output
-    entropy conjecture
-  authors:
-  - S Guha
-  - JH Shapiro
-  - BI Erkmen
-  publisher: "Physical Review A\u2014Atomic, Molecular, and Optical Physics 76 (3),\
-    \ 032303, 2007"
-  date: '2007-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:IjCSPb-OGe4C
-  google_id: E4JS8pQAAAAJ:IjCSPb-OGe4C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ufrVoPGSRksC
-  title: LADAR resolution improvement using receivers enhanced with squeezed-vacuum
-    injection and phase-sensitive amplification
-  authors:
-  - Z Dutton
-  - JH Shapiro
-  - S Guha
-  publisher: JOSA B 27 (6), A63-A72, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ufrVoPGSRksC
-  google_id: E4JS8pQAAAAJ:ufrVoPGSRksC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:7CU1mCQUTf4C
-  title: Quantum-optimal detection of one-versus-two incoherent optical sources with
-    arbitrary separation
-  authors:
-  - XM Lu
-  - H Krovi
-  - R Nair
-  - S Guha
-  - JH Shapiro
-  publisher: npj Quantum Information 4 (1), 64, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:7CU1mCQUTf4C
-  google_id: E4JS8pQAAAAJ:7CU1mCQUTf4C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:QxlgOPrhsAcC
-  title: Approaching quantum-limited imaging resolution without prior knowledge of
-    the object location
-  authors:
-  - MR Grace
-  - Z Dutton
+  - N Deshler
+  - I Ozer
   - A Ashok
   - S Guha
-  publisher: JOSA A 37 (8), 1288-1299, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:QxlgOPrhsAcC
-  google_id: E4JS8pQAAAAJ:QxlgOPrhsAcC
+  publisher: arXiv preprint arXiv:2407.12776, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:zBCjByih94YC
+  google_id: E4JS8pQAAAAJ:zBCjByih94YC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:b8wqy9DyMDUC
-  title: Continuous-variable quantum repeater based on quantum scissors and mode multiplexing
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:_09KEOFGu60C
+  title: Modal Entanglement Enhanced Deflectometry
   authors:
-  - KP Seshadreesan
-  - H Krovi
+  - W He
+  - CN Gagatsos
+  - DJ Wilson
   - S Guha
-  publisher: Physical Review Research 2 (1), 013310, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:b8wqy9DyMDUC
-  google_id: E4JS8pQAAAAJ:b8wqy9DyMDUC
+  publisher: Quantum Sensing and Metrology, QTh1G. 2, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:_09KEOFGu60C
+  google_id: E4JS8pQAAAAJ:_09KEOFGu60C
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:dfsIfKJdRG4C
-  title: Quantum enigma machines and the locking capacity of a quantum channel
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:bXvxhPDrUX0C
+  title: Towards Quantum Resolution Limit of Magnetic Field Imaging with Nitrogen-Vacancy
+    Centers
   authors:
+  - N Deshler
+  - A Majumder
+  - K Saha
   - S Guha
-  - P Hayden
-  - H Krovi
-  - S Lloyd
-  - C Lupo
+  publisher: Quantum Sensing and Metrology, QM1D. 3, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:bXvxhPDrUX0C
+  google_id: E4JS8pQAAAAJ:bXvxhPDrUX0C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:ult01sCh7k0C
+  title: Experimental Demonstration of a Quantum-Optimal Direct Imaging Coronagraph
+  authors:
+  - N Deshler
+  - I Ozer
+  - A Ashok
+  - S Guha
+  publisher: Computational Optical Sensing and Imaging, CF1B. 3, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:ult01sCh7k0C
+  google_id: E4JS8pQAAAAJ:ult01sCh7k0C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:P--cqP0FnSgC
+  title: Imaging-based Quantum Optomechanics
+  authors:
+  - CM Pluchar
+  - W He
+  - J Manley
+  - N Deshler
+  - S Guha
+  - DJ Wilson
+  publisher: arXiv preprint arXiv:2407.07060, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:P--cqP0FnSgC
+  google_id: E4JS8pQAAAAJ:P--cqP0FnSgC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:6jAoOr-ogVAC
+  title: Receiver Algorithms to Approach the Quantum Limit of Demodulating Pulse Position
+    Modulation
+  authors:
+  - L Bia
+  - CN Gagatsos
+  - S Guha
+  publisher: 2024 IEEE International Symposium on Information Theory (ISIT), 795-800,
+    2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:6jAoOr-ogVAC
+  google_id: E4JS8pQAAAAJ:6jAoOr-ogVAC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:o_fBUN_Or78C
+  title: Quantum Illumination Advantage for Classification Among an Arbitrary Library
+    of Targets
+  authors:
+  - A Cox
+  - Q Zhuang
   - JH Shapiro
-  - M Takeoka
-  - '...'
-  publisher: Physical Review X 4 (1), 011016, 2014
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:dfsIfKJdRG4C
-  google_id: E4JS8pQAAAAJ:dfsIfKJdRG4C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:IWHjjKOFINEC
-  title: Quantum trade-off coding for bosonic communication
-  authors:
-  - MM Wilde
-  - P Hayden
   - S Guha
-  publisher: "Physical Review A\u2014Atomic, Molecular, and Optical Physics 86 (6),\
-    \ 062306, 2012"
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:IWHjjKOFINEC
-  google_id: E4JS8pQAAAAJ:IWHjjKOFINEC
+  publisher: 2024 IEEE International Symposium on Information Theory (ISIT), 551-556,
+    2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:o_fBUN_Or78C
+  google_id: E4JS8pQAAAAJ:o_fBUN_Or78C
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:tzM49s52ZIMC
-  title: Covert single-hop communication in a wireless network with distributed artificial
-    noise generation
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:M3hCyctIOBoC
+  title: Quantum resolution limit of long-baseline imaging using distributed entanglement
   authors:
-  - R Soltani
-  - B Bash
-  - D Goeckel
+  - I Padilla
+  - A Sajjad
+  - BN Saif
+  - S Guha
+  publisher: arXiv preprint arXiv:2406.16789, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:M3hCyctIOBoC
+  google_id: E4JS8pQAAAAJ:M3hCyctIOBoC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:StPPYsf1FV0C
+  title: Entangling Quantum Memories at High Rate using Gottesman-Kitaev-Preskill
+    Qudits
+  authors:
+  - P Dhara
+  - L Jiang
+  - S Guha
+  publisher: Quantum 2.0, QTh3A. 20, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:StPPYsf1FV0C
+  google_id: E4JS8pQAAAAJ:StPPYsf1FV0C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:FmXltp8y-ZkC
+  title: Entangling quantum memories at channel capacity
+  authors:
+  - S Guha
+  publisher: Bulletin of the American Physical Society, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:FmXltp8y-ZkC
+  google_id: E4JS8pQAAAAJ:FmXltp8y-ZkC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:kFM4V80Y5EsC
+  title: Entangling Quantum Memories at Channel Capacity
+  authors:
+  - P Dhara
+  - L Jiang
+  - S Guha
+  publisher: arXiv preprint arXiv:2406.04272, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:kFM4V80Y5EsC
+  google_id: E4JS8pQAAAAJ:kFM4V80Y5EsC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:BulkYocH2doC
+  title: Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories
+  authors:
+  - P Dhara
+  - L Jiang
+  - S Guha
+  publisher: arXiv preprint arXiv:2406.04275, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:BulkYocH2doC
+  google_id: E4JS8pQAAAAJ:BulkYocH2doC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:-rwTIRUNLawC
+  title: Bipartite entanglement of noisy stabilizer states through the lens of stabilizer
+    codes
+  authors:
+  - K Goodenough
+  - A Sajjad
+  - E Kaur
   - S Guha
   - D Towsley
-  publisher: "2014 52nd Annual Allerton Conference on communication, control, and\
-    \ \u2026, 2014"
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:tzM49s52ZIMC
-  google_id: E4JS8pQAAAAJ:tzM49s52ZIMC
+  publisher: arXiv preprint arXiv:2406.02427, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:-rwTIRUNLawC
+  google_id: E4JS8pQAAAAJ:-rwTIRUNLawC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:3UHJKpZgG5wC
-  title: Asymptotic security of discrete-modulation protocols for continuous-variable
-    quantum key distribution
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:_WP0DvM6eX8C
+  title: Charting quantum horizons to establish a roadmap for microsecond astronomy
+  authors:
+  - RM Lau
+  - A Ashok
+  - J Emms
+  - DR Gies
+  - S Guha
+  - Z Hartman
+  - B McClinton
+  - '...'
+  publisher: Nature Astronomy, 1-2, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:_WP0DvM6eX8C
+  google_id: E4JS8pQAAAAJ:_WP0DvM6eX8C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:hzvVvKpMvx4C
+  title: Quantum Network Tomography
+  authors:
+  - MG De Andrade
+  - J Navas
+  - S Guha
+  - "I Monta\xF1o"
+  - M Raymer
+  - B Smith
+  - '...'
+  publisher: IEEE Network, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:hzvVvKpMvx4C
+  google_id: E4JS8pQAAAAJ:hzvVvKpMvx4C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:jg3FfqxSHJQC
+  title: An Improved Design for All-Photonic Quantum Repeaters
+  authors:
+  - A Patil
+  - S Guha
+  publisher: arXiv preprint arXiv:2405.11768, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:jg3FfqxSHJQC
+  google_id: E4JS8pQAAAAJ:jg3FfqxSHJQC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:_IwLajd9sWMC
+  title: Managing adaptive measurement for high-resolution measurement
+  authors:
+  - KK Lee
+  - M Grace
+  - A Ashok
+  - S Guha
+  publisher: US Patent App. 18/289,232, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:_IwLajd9sWMC
+  google_id: E4JS8pQAAAAJ:_IwLajd9sWMC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lAj_JhtUatoC
+  title: All-photonic GKP-qubit repeater using analog-information-assisted multiplexed
+    entanglement ranking
+  authors:
+  - F Rozpedek
+  - KP Seshadreesan
+  - P Polakos
+  - L Jiang
+  - S Guha
+  publisher: 'CLEO: Fundamental Science, FF1H. 5, 2024'
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lAj_JhtUatoC
+  google_id: E4JS8pQAAAAJ:lAj_JhtUatoC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:GWiaReNCd0YC
+  title: Optimized Entanglement Distribution Among Quantum Memories
+  authors:
+  - JG Richardson
+  - P Dhara
+  - YK Chahine
+  - S Guha
+  publisher: CLEO Technical Conference, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:GWiaReNCd0YC
+  google_id: E4JS8pQAAAAJ:GWiaReNCd0YC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:9LrdxYebArsC
+  title: Entanglement Routing using Quantum Error Correction for Distillation
+  authors:
+  - A Patil
+  - M Pacenti
+  - "B Vasi\u0107"
+  - S Guha
+  - N Rengaswamy
+  publisher: arXiv preprint arXiv:2405.00849, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:9LrdxYebArsC
+  google_id: E4JS8pQAAAAJ:9LrdxYebArsC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:QSG1pgF8pGAC
+  title: Enhanced signal processing using quantum computation
+  authors:
+  - N Rengaswamy
+  - K Seshadreesan
+  - S Guha
+  - H Pfister
+  publisher: US Patent App. 18/273,344, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:QSG1pgF8pGAC
+  google_id: E4JS8pQAAAAJ:QSG1pgF8pGAC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:QxtoOqDH1aQC
+  title: Lower bounds on bipartite entanglement in noisy graph states
+  authors:
+  - A Sajjad
+  - E Kaur
+  - K Goodenough
+  - D Towsley
+  - S Guha
+  publisher: arXiv preprint arXiv:2404.09014, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:QxtoOqDH1aQC
+  google_id: E4JS8pQAAAAJ:QxtoOqDH1aQC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:Y1W0x10ZrwMC
+  title: Maximizing entanglement rates via efficient memory management in flexible
+    quantum switches
+  authors:
+  - P Promponas
+  - V Valls
+  - S Guha
+  - L Tassiulas
+  publisher: IEEE Journal on Selected Areas in Communications, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:Y1W0x10ZrwMC
+  google_id: E4JS8pQAAAAJ:Y1W0x10ZrwMC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:HOg0WoviCygC
+  title: Towards imaging-based quantum optomechanics
+  authors:
+  - CM Pluchar
+  - W He
+  - ME Choi
+  - J Manley
+  - N Deshler
+  - S Guha
+  - DJ Wilson
+  publisher: Quantum Sensing, Imaging, and Precision Metrology II 12912, 205-209,
+    2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:HOg0WoviCygC
+  google_id: E4JS8pQAAAAJ:HOg0WoviCygC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:MStqg_gSLBcC
+  title: Super-resolution imaging without prior knowledge using spatial modes sorting
+  authors:
+  - I Ozer
+  - M Grace
+  - S Guha
+  publisher: Bulletin of the American Physical Society, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:MStqg_gSLBcC
+  google_id: E4JS8pQAAAAJ:MStqg_gSLBcC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:GO5CT2y9xrEC
+  title: Majorization theoretical approach to Gaussian entanglement enhancement via
+    local filtration
+  authors:
+  - Z Van Herstraeten
+  - N Cerf
+  - S Guha
+  - C Gagatsos
+  publisher: Bulletin of the American Physical Society, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:GO5CT2y9xrEC
+  google_id: E4JS8pQAAAAJ:GO5CT2y9xrEC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:5thYEm8kiqcC
+  title: Addressing superresolution imaging with entanglement-assited long-baseline
+    telescopy
+  authors:
+  - I Chavez Padilla
+  - A Sajjad
+  - B Saif
+  - S Guha
+  publisher: Bulletin of the American Physical Society, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:5thYEm8kiqcC
+  google_id: E4JS8pQAAAAJ:5thYEm8kiqcC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:7q08wCQPkLwC
+  title: Demonstration of superadditive communication and nonlocality without entanglement
+    with the Green Machine temporal mode sorter.
+  authors:
+  - C Cui
+  - J Postlewaite
+  - B Saif
+  - L Fan
+  - S Guha
+  publisher: Bulletin of the American Physical Society, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:7q08wCQPkLwC
+  google_id: E4JS8pQAAAAJ:7q08wCQPkLwC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:WYtWvJut7doC
+  title: On the Bipartite Entanglement Capacity of Quantum Networks
+  authors:
+  - G Vardoyan
+  - E Van Milligen
+  - S Guha
+  - S Wehner
+  - D Towsley
+  publisher: IEEE Transactions on Quantum Engineering 5, 1-14, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:WYtWvJut7doC
+  google_id: E4JS8pQAAAAJ:WYtWvJut7doC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:D4n_APcuzvwC
+  title: Gaussian Boson Sampling to Accelerate NP-Complete Vertex-Minor Graph Classification
+  authors:
+  - M Sureka
+  - S Guha
+  publisher: arXiv preprint arXiv:2402.03524, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:D4n_APcuzvwC
+  google_id: E4JS8pQAAAAJ:D4n_APcuzvwC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lYbyOjaXH8MC
+  title: Optimum classical beam position sensing
+  authors:
+  - W He
+  - CN Gagatsos
+  - DJ Wilson
+  - S Guha
+  publisher: arXiv preprint arXiv:2402.00259, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lYbyOjaXH8MC
+  google_id: E4JS8pQAAAAJ:lYbyOjaXH8MC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:NRnkAyzcrGMC
+  title: Resource-efficient and loss-aware photonic graph state preparation using
+    an array of quantum emitters, and application to all-photonic quantum repeaters
+  authors:
+  - E Kaur
+  - A Patil
+  - S Guha
+  publisher: arXiv preprint arXiv:2402.00731, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:NRnkAyzcrGMC
+  google_id: E4JS8pQAAAAJ:NRnkAyzcrGMC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:BHd7YmozNHgC
+  title: Experimental demonstration of quantum-inspired optical symmetric hypothesis
+    testing
+  authors:
+  - SA Wadood
+  - KR Sethuraj
+  - K Liang
+  - MR Grace
+  - G La Rue
+  - S Guha
+  - '...'
+  publisher: Optics Letters 49 (3), 750-753, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:BHd7YmozNHgC
+  google_id: E4JS8pQAAAAJ:BHd7YmozNHgC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:MIUEjqm7qCUC
+  title: Quantum limits of parameter estimation in long-baseline imaging
+  authors:
+  - A Sajjad
+  - MR Grace
+  - S Guha
+  publisher: Physical Review Research 6 (1), 013212, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:MIUEjqm7qCUC
+  google_id: E4JS8pQAAAAJ:MIUEjqm7qCUC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:N7YTE_TVRugC
+  title: Experimental demonstration of quantum-inspired optical symmetric hypothesis
+    testing
+  authors:
+  - S GUHA
+  - AN VAMIVAKAS
+  publisher: ''
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:N7YTE_TVRugC
+  google_id: E4JS8pQAAAAJ:N7YTE_TVRugC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:rVBkUn48wTwC
+  title: Phonon-induced decoherence in color-center qubits
+  authors:
+  - P Dhara
+  - S Guha
+  publisher: Physical Review Research 6 (1), 013055, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:rVBkUn48wTwC
+  google_id: E4JS8pQAAAAJ:rVBkUn48wTwC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EO1llL0aI9sC
+  title: Classical capacity of quantum non-Gaussian attenuator and amplifier channels
+  authors:
+  - Z Van Herstraeten
+  - S Guha
+  - NJ Cerf
+  publisher: arXiv preprint arXiv:2312.15623, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EO1llL0aI9sC
+  google_id: E4JS8pQAAAAJ:EO1llL0aI9sC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:OA9cGvo6324C
+  title: 'Clifford Manipulations of Stabilizer States: A graphical rule book for Clifford
+    unitaries and measurements on cluster states, and application to photonic quantum
+    computing'
+  authors:
+  - A Patil
+  - S Guha
+  publisher: arXiv preprint arXiv:2312.02377, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:OA9cGvo6324C
+  google_id: E4JS8pQAAAAJ:OA9cGvo6324C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EVKlETVVbN8C
+  title: Majorization theoretical approach to entanglement enhancement via local filtration
+  authors:
+  - Z Van Herstraeten
+  - NJ Cerf
+  - S Guha
+  - CN Gagatsos
+  publisher: arXiv preprint arXiv:2312.02066, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EVKlETVVbN8C
+  google_id: E4JS8pQAAAAJ:EVKlETVVbN8C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:JQPmwQThujIC
+  title: Independent Panel Report for Technical Assessment of NASA and External Quantum
+    Sensing Capabilities
+  authors:
+  - J Kitching
+  - P Kumar
+  - D Berkeland
+  - D Braje
+  - J Burke
+  - S Guha
+  - AJ Metcalf
+  - '...'
+  publisher: National Aeronautics and Space Administration, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:JQPmwQThujIC
+  google_id: E4JS8pQAAAAJ:JQPmwQThujIC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:xMZGxf1v-3YC
+  title: Spread-photon architecture for quantum-secure communications
+  authors:
+  - MS Bullock
+  - W Webb
+  - SH Knarr
+  - TC Burt
+  - JA Drakes
+  - VG Bucklew
+  - S Guha
+  - '...'
+  publisher: 2023 IEEE Photonics Conference (IPC), 1-2, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:xMZGxf1v-3YC
+  google_id: E4JS8pQAAAAJ:xMZGxf1v-3YC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:YiZc1oW-E3oC
+  title: Spread Photon Transceiver for Quantum Secure Communications
+  authors:
+  - W Webb
+  - MS Bullock
+  - SH Knarr
+  - TC Burt
+  - JA Drakes
+  - S Guha
+  - BA Bash
+  - '...'
+  publisher: MILCOM 2023-2023 IEEE Military Communications Conference (MILCOM), 103-108,
+    2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:YiZc1oW-E3oC
+  google_id: E4JS8pQAAAAJ:YiZc1oW-E3oC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:V-j82LJCZ3MC
+  title: Zero-Added-Loss Entangled Photon Multiplexing Source
+  authors:
+  - K Chen
+  - P Dhara
+  - S Guha
+  - DR Englund
+  publisher: US Patent App. 18/172,431, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:V-j82LJCZ3MC
+  google_id: E4JS8pQAAAAJ:V-j82LJCZ3MC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:Usae8uB1euoC
+  title: Universal Quantum Illumination Advantage for Stand-off Target Detection
+  authors:
+  - A Cox
+  - S Guha
+  publisher: Laser Science, JW4A. 62, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:Usae8uB1euoC
+  google_id: E4JS8pQAAAAJ:Usae8uB1euoC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:wyoMR1qFDH8C
+  title: Transverse Displacement Sensing with Optimal Structured Illumination
+  authors:
+  - W He
+  - CM Pluchar
+  - I Ozer
+  - A Rubenok
+  - DJ Wilson
+  - S Guha
+  publisher: Frontiers in Optics, FTh3D. 5, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:wyoMR1qFDH8C
+  google_id: E4JS8pQAAAAJ:wyoMR1qFDH8C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:fXCg-C-QWH4C
+  title: 'Superadditive communications with the green machine: a practical demonstration
+    of nonlocality without entanglement'
+  authors:
+  - C Cui
+  - J Postlewaite
+  - BN Saif
+  - L Fan
+  - S Guha
+  publisher: arXiv preprint arXiv:2310.05889, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:fXCg-C-QWH4C
+  google_id: E4JS8pQAAAAJ:fXCg-C-QWH4C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:hKmHnHMtuq0C
+  title: "All-photonic Gottesman-Kitaev-Preskill\xE2\u20AC\u201Cqubit repeater using\
+    \ analog-information-assisted multiplexed entanglement ranking"
+  authors:
+  - KP Seshadreesan
+  - P Polakos
+  - L Jiang
+  - S Guha
+  publisher: Physical Review Research 5 (4), 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:hKmHnHMtuq0C
+  google_id: E4JS8pQAAAAJ:hKmHnHMtuq0C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:oi8PhiKYDwsC
+  title: "All-photonic Gottesman-Kitaev-Preskill\u2013qubit repeater using analog-information-assisted\
+    \ multiplexed entanglement ranking"
+  authors:
+  - "F Rozp\u0119dek"
+  - KP Seshadreesan
+  - P Polakos
+  - L Jiang
+  - S Guha
+  publisher: Physical Review Research 5 (4), 043056, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:oi8PhiKYDwsC
+  google_id: E4JS8pQAAAAJ:oi8PhiKYDwsC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:WTkkuPxyGkUC
+  title: Bayesian minimum mean square error for transmissivity sensing
+  authors:
+  - B Zhou
+  - BA Bash
+  - S Guha
+  - CN Gagatsos
+  publisher: Physical Review Research 5 (4), 043033, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:WTkkuPxyGkUC
+  google_id: E4JS8pQAAAAJ:WTkkuPxyGkUC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:121WXH0ir18C
+  title: Trapped Ion Quantum Repeaters with Entanglement Distillation based on Quantum
+    LDPC Codes
+  authors:
+  - A Kang
+  - S Guha
+  - N Rengaswamy
+  - KP Seshadreesan
+  publisher: "2023 IEEE International Conference on Quantum Computing and Engineering\
+    \ (QCE \u2026, 2023"
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:121WXH0ir18C
+  google_id: E4JS8pQAAAAJ:121WXH0ir18C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:-Rb0Dl3RFGgC
+  title: Distribution of entanglement in two-dimensional square grid network
   authors:
   - E Kaur
   - S Guha
-  - MM Wilde
-  publisher: Physical Review A 103 (1), 012412, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:3UHJKpZgG5wC
-  google_id: E4JS8pQAAAAJ:3UHJKpZgG5wC
+  publisher: "2023 IEEE International Conference on Quantum Computing and Engineering\
+    \ (QCE \u2026, 2023"
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:-Rb0Dl3RFGgC
+  google_id: E4JS8pQAAAAJ:-Rb0Dl3RFGgC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:k_IJM867U9cC
-  title: Polar coding to achieve the Holevo capacity of a pure-loss optical channel
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:D90uR9ClOh8C
+  title: Scalable photonic quantum computing with hybrid resource states
   authors:
+  - JE Bourassa
+  - I Tzitrin
+  - K Sabapathy
+  - G Dauphinais
+  - I Dhand
   - S Guha
-  - MM Wilde
-  publisher: 2012 IEEE International Symposium on Information Theory Proceedings,
-    546-550, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:k_IJM867U9cC
-  google_id: E4JS8pQAAAAJ:k_IJM867U9cC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:pxLfhFzThFYC
-  title: Percolation-based architecture for cluster state creation using photon-mediated
-    entanglement between atomic memories
-  authors:
-  - H Choi
-  - M Pant
-  - S Guha
-  - D Englund
-  publisher: npj Quantum Information 5 (1), 104, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:pxLfhFzThFYC
-  google_id: E4JS8pQAAAAJ:pxLfhFzThFYC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:M3ejUd6NZC8C
-  title: Approaching Helstrom limits to optical pulse-position demodulation using
-    single photon detection and optical feedback
-  authors:
-  - S Guha
-  - JL Habif
-  - M Takeoka
-  publisher: Journal of Modern Optics 58 (3-4), 257-265, 2011
-  date: '2011-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:M3ejUd6NZC8C
-  google_id: E4JS8pQAAAAJ:M3ejUd6NZC8C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:IwGqIHSOC8kC
-  title: Quantum repeaters based on concatenated bosonic and discrete-variable quantum
-    codes
-  authors:
-  - "F Rozp\u0119dek"
-  - K Noh
-  - Q Xu
-  - S Guha
-  - L Jiang
-  publisher: npj Quantum Information 7 (1), 102, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:IwGqIHSOC8kC
-  google_id: E4JS8pQAAAAJ:IwGqIHSOC8kC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:uWiczbcajpAC
-  title: Covert communication over classical-quantum channels
-  authors:
-  - A Sheikholeslami
-  - BA Bash
-  - D Towsley
-  - D Goeckel
-  - S Guha
-  publisher: 2016 IEEE International Symposium on Information Theory (ISIT), 2064-2068,
-    2016
-  date: '2016-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:uWiczbcajpAC
-  google_id: E4JS8pQAAAAJ:uWiczbcajpAC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:Mojj43d5GZwC
-  title: Capacity of optical communication in loss and noise with general quantum
-    Gaussian receivers
-  authors:
-  - M Takeoka
-  - S Guha
-  publisher: Physical Review A 89 (4), 042309, 2014
-  date: '2014-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:Mojj43d5GZwC
-  google_id: E4JS8pQAAAAJ:Mojj43d5GZwC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ns9cj8rnVeAC
-  title: Explicit capacity-achieving receivers for optical communication and quantum
-    reading
-  authors:
-  - MM Wilde
-  - S Guha
-  - SH Tan
-  - S Lloyd
-  publisher: 2012 IEEE International Symposium on Information Theory Proceedings,
-    551-555, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:ns9cj8rnVeAC
-  google_id: E4JS8pQAAAAJ:ns9cj8rnVeAC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:qxL8FJ1GzNcC
-  title: Polar codes for degradable quantum channels
-  authors:
-  - MM Wilde
-  - S Guha
-  publisher: IEEE Transactions on Information Theory 59 (7), 4718-4729, 2013
-  date: '2013-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:qxL8FJ1GzNcC
-  google_id: E4JS8pQAAAAJ:qxL8FJ1GzNcC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:2MdNiwGT7yoC
-  title: Attaining the quantum limit of superresolution in imaging an object's length
-    via predetection spatial-mode sorting
-  authors:
-  - Z Dutton
-  - R Kerviche
-  - A Ashok
-  - S Guha
-  publisher: Physical Review A 99 (3), 033847, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:2MdNiwGT7yoC
-  google_id: E4JS8pQAAAAJ:2MdNiwGT7yoC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:YFjsv_pBGBYC
-  title: Information trade-offs for optical quantum communication
-  authors:
-  - MM Wilde
-  - P Hayden
-  - S Guha
-  publisher: Physical review letters 108 (14), 140501, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:YFjsv_pBGBYC
-  google_id: E4JS8pQAAAAJ:YFjsv_pBGBYC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:eQOLeE2rZwMC
-  title: Capacity of the bosonic wiretap channel and the entropy photon-number inequality
-  authors:
-  - S Guha
-  - JH Shapiro
-  - BI Erkmen
-  publisher: 2008 IEEE International Symposium on Information Theory, 91-95, 2008
-  date: '2008-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:eQOLeE2rZwMC
-  google_id: E4JS8pQAAAAJ:eQOLeE2rZwMC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:tFyepMjQr3wC
-  title: Secret-key distillation across a quantum wiretap channel under restricted
-    eavesdropping
-  authors:
-  - Z Pan
-  - KP Seshadreesan
-  - W Clark
-  - MR Adcock
-  - IB Djordjevic
-  - JH Shapiro
   - '...'
-  publisher: Physical Review Applied 14 (2), 024044, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=50&citation_for_view=E4JS8pQAAAAJ:tFyepMjQr3wC
-  google_id: E4JS8pQAAAAJ:tFyepMjQr3wC
+  publisher: US Patent App. 18/126,807, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:D90uR9ClOh8C
+  google_id: E4JS8pQAAAAJ:D90uR9ClOh8C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:cpgjJtNNFA0C
+  title: Entangling quantum memories via heralded photonic Bell measurement
+  authors:
+  - P Dhara
+  - D Englund
+  - S Guha
+  publisher: Physical Review Research 5 (3), 033149, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:cpgjJtNNFA0C
+  google_id: E4JS8pQAAAAJ:cpgjJtNNFA0C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:X1y8G5kAG8gC
+  title: Entanglement Routing over Networks with Time Multiplexed Repeaters
+  authors:
+  - EA Van Milligen
+  - E Jacobson
+  - A Patil
+  - G Vardoyan
+  - D Towsley
+  - S Guha
+  publisher: arXiv preprint arXiv:2308.15028, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:X1y8G5kAG8gC
+  google_id: E4JS8pQAAAAJ:X1y8G5kAG8gC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:R1TrASrH5esC
+  title: Detecting changes to sub-diffraction objects with quantum-optimal speed and
+    accuracy
+  authors:
+  - MR Grace
+  - S Guha
+  - Z Dutton
+  publisher: Computational Optical Sensing and Imaging, CW4D. 6, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:R1TrASrH5esC
+  google_id: E4JS8pQAAAAJ:R1TrASrH5esC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:3q5vy9RXY8EC
+  title: Bayesian quantum phase estimation with fixed photon states
+  authors:
+  - B Zhou
+  - S Guha
+  - CN Gagatsos
+  publisher: arXiv preprint arXiv:2308.01293, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:3q5vy9RXY8EC
+  google_id: E4JS8pQAAAAJ:3q5vy9RXY8EC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:rCuJAniQoLoC
+  title: Universal Quantum Walk Control Plane for Quantum Networks
+  authors:
+  - MG de Andrade
+  - NK Panigrahy
+  - W Dai
+  - S Guha
+  - D Towsley
+  publisher: arXiv preprint arXiv:2307.06492, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:rCuJAniQoLoC
+  google_id: E4JS8pQAAAAJ:rCuJAniQoLoC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:fSKd39tHJ84C
+  title: A quantum policy and ethics roadmap
+  authors:
+  - E Kiesow Cortez
+  - JR Bambauer
+  - S Guha
+  - S Fleming
+  publisher: Available at SSRN 4507090, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:fSKd39tHJ84C
+  google_id: E4JS8pQAAAAJ:fSKd39tHJ84C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:bYbwfsIO_fQC
+  title: Universal Quantum Walk Control Plane for Quantum Networks
+  authors:
+  - M Guedes de Andrade
+  - NK Panigrahy
+  - W Dai
+  - S Guha
+  - D Towsley
+  publisher: 'arXiv e-prints, arXiv: 2307.06492, 2023'
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:bYbwfsIO_fQC
+  google_id: E4JS8pQAAAAJ:bYbwfsIO_fQC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:aJ-3-MYELVsC
+  title: Tree Cluster State Generation using Percolation
+  authors:
+  - A Patil
+  - S Guha
+  publisher: Quantum 2.0, QTh4A. 3, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:aJ-3-MYELVsC
+  google_id: E4JS8pQAAAAJ:aJ-3-MYELVsC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:R8TPKZP7usQC
+  title: Noise Modeling for Entanglement-Swapping Quantum Networks
+  authors:
+  - SJ Johnson
+  - P Dhara
+  - A Lohrmann
+  - M Mohageg
+  - S Guha
+  - PG Kwiat
+  publisher: Quantum 2.0, QTu3A. 30, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:R8TPKZP7usQC
+  google_id: E4JS8pQAAAAJ:R8TPKZP7usQC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:VFGfXyYpp08C
+  title: Realization of a Modular Super-Additive Optical Receiver
+  authors:
+  - J Postlewaite
+  - C Cui
+  - S Choura
+  - YY Wu
+  - B Saif
+  - L Fan
+  - S Guha
+  publisher: Quantum 2.0, QTu3A. 24, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:VFGfXyYpp08C
+  google_id: E4JS8pQAAAAJ:VFGfXyYpp08C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:T0nwzvlCxs8C
+  title: Entanglement distribution in two-dimensional square grid network
+  authors:
+  - E Kaur
+  - S Guha
+  publisher: arXiv preprint arXiv:2306.03319, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:T0nwzvlCxs8C
+  google_id: E4JS8pQAAAAJ:T0nwzvlCxs8C
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:ae0xyBWlIcIC
+  title: Transceiver Designs Approaching the Entanglement-Assisted Communication Capacity
+  authors:
+  - A Cox
+  - Q Zhuang
+  - CN Gagatsos
+  - B Bash
+  - S Guha
+  publisher: Physical Review Applied 19 (6), 064015, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:ae0xyBWlIcIC
+  google_id: E4JS8pQAAAAJ:ae0xyBWlIcIC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:n2kG1_zAmykC
+  title: Linear optics and photodetection achieve near-optimal unambiguous coherent
+    state discrimination
+  authors:
+  - JS Sidhu
+  - MS Bullock
+  - S Guha
+  - C Lupo
+  publisher: Quantum 7, 1025, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:n2kG1_zAmykC
+  google_id: E4JS8pQAAAAJ:n2kG1_zAmykC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:rsrKZ8bNWIsC
+  title: Entanglement-assisted multi-aperture pulse-compression radar for angle resolving
+    detection
+  authors:
+  - BH Wu
+  - S Guha
+  - Q Zhuang
+  publisher: Quantum Science and Technology 8 (3), 035016, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=75&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:rsrKZ8bNWIsC
+  google_id: E4JS8pQAAAAJ:rsrKZ8bNWIsC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
