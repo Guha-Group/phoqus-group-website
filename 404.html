@@ -326,28 +326,35 @@
         
           <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 400 120">
   <defs>
-    <filter id="glow">
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <fegaussianblur stddeviation="2.5" result="coloredBlur"></fegaussianblur>
       <femerge>
         <femergenode in="coloredBlur"></femergenode>
         <femergenode in="SourceGraphic"></femergenode>
       </femerge>
     </filter>
+    <lineargradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4ecdc4">
+        <animate attributename="stop-color" values="#4ecdc4; #45b7d1; #ff6b6b; #feca57; #4ecdc4" dur="8s" repeatcount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#45b7d1">
+        <animate attributename="stop-color" values="#45b7d1; #ff6b6b; #feca57; #4ecdc4; #45b7d1" dur="8s" repeatcount="indefinite"></animate>
+      </stop>
+    </lineargradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="400" height="120" fill="#1a1a2e"></rect>
+  <!-- Translucent background -->
+  <rect width="400" height="120" fill="rgba(26, 26, 46, 0.6)"></rect>
   
   <!-- Letters -->
   <g id="letters" font-family="'Montserrat', sans-serif" font-weight="900" font-size="72" text-anchor="middle">
-    <text x="200" y="80" fill="#e0e0e0" filter="url(#glow)">
+    <text x="200" y="80" fill="url(#textGradient)" filter="url(#glow)">
       <tspan>P</tspan>
       <tspan dx="-2">h</tspan>
       <tspan dx="-2">o</tspan>
       <tspan dx="-2">Q</tspan>
       <tspan dx="-2">u</tspan>
       <tspan dx="-2">S</tspan>
-      <animate attributename="fill" dur="8s" repeatcount="indefinite" values="#e0e0e0;#ff6b6b;#4ecdc4;#45b7d1;#e0e0e0" begin="0s"></animate>
     </text>
   </g>
   
@@ -371,6 +378,16 @@
     <!-- Yellow photon -->
     <circle r="4" fill="#feca57" filter="url(#glow)">
       <animatemotion dur="4s" repeatcount="indefinite" path="M -10 100 Q 200 50, 410 100" begin="3s"></animatemotion>
+    </circle>
+    
+    <!-- Orange photon -->
+    <circle r="4" fill="#ffa500" filter="url(#glow)">
+      <animatemotion dur="4s" repeatcount="indefinite" path="M 410 90 Q 200 60, -10 30" begin="4s"></animatemotion>
+    </circle>
+    
+    <!-- Purple photon -->
+    <circle r="4" fill="#9b59b6" filter="url(#glow)">
+      <animatemotion dur="4s" repeatcount="indefinite" path="M 0 130 Q 200 60, 400 -10" begin="5s"></animatemotion>
     </circle>
   </g>
 </svg>
