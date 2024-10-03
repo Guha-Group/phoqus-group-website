@@ -1,1 +1,1 @@
-Sitemap: http://phoqus.us/sitemap.xml
+Sitemap: https://phoqus.us/sitemap.xml
