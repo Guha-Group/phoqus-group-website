@@ -1,6 +1,8 @@
 ---
 name: Zihao Gong
 image: images/photo.jpg
-role: undergrad
+role: postdoc
 affiliation: University of Maryland, College Park
 ---
+
+I am currently a postdoctoral researcher at the University of Maryland. I earned my Ph.D. in Electrical and Computer Engineering from the University of Arizona. My research focuses on quantum sensing and quantum communication. I hope my theoretical work is both mathematically rigorous and experimentally feasible
