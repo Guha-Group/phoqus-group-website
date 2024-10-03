@@ -1,6 +1,6 @@
 ---
 name: Zihao Gong
-image: images/photo.jpg
+image: images/zihao.jpeg
 role: postdoc
 affiliation: University of Maryland, College Park
 ---
