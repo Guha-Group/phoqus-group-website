@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the Photonic Quantum Systems (PhoQuS) group website. Our research group, based at the University of Maryland, College Park, investigates fundamental and applied problems relating to the quantum nature of information bearing light.
+Welcome to the Photonic Quantum Systems (PhoQuS) group at the University of Maryland, College Park, led by Prof. Saikat Guha. We investigate fundamental and applied problems relating to the quantum nature of information bearing light.
 
 
 
