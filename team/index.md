@@ -15,7 +15,7 @@ Our team consists of members from both the University of Maryland and the Univer
 
 ## Administration and Research Staff
 
-{% include list.html data="members" component="portrait" filters="role: (coordinator|researcher)" %}
+{% include list.html data="members" component="portrait" filters="role: (coordinator|researcher|postdoc)" %}
 
 ## Students
 
