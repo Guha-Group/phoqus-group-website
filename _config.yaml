@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: Photonic Quantum Systems Group.
+title: Photonic Quantum Systems Group
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@Guha-GroupDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Guha-GroupDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: Guha-GroupDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: Guha-GroupDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: jackpost@umd.edu
+  orcid: 0000-0002-2581-4380
+  google-scholar: E4JS8pQAAAAJ
+  github: guha-group
+  # twitter: 
+  # youtube: 
 
 ### jekyll settings
 
