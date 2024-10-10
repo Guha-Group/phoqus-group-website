@@ -9,16 +9,25 @@ nav:
 
 Our team consists of members from both the University of Maryland and the University of Arizona. Find out more about our research group here.
 
-{% include section.html %}
+## Principal Investigator
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+## Administration and Research Staff
+
+{% include list.html data="members" component="portrait" filters="role: (coordinator|researcher)" %}
+
+## Students
+
+{% include list.html data="members" component="portrait" filters="role: (phd|undergrad)" %}
+
+## Alumni
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team thrives on collaboration across disciplines and institutions, bringing together innovative ideas and diverse perspectives to tackle the challenges of photonic quantum systems. Whether you’re interested in joining us or learning more about our research, we encourage you to explore the exciting work we’re doing.
 
 {% include section.html %}
 
