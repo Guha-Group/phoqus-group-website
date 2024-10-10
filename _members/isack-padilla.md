@@ -1,9 +1,9 @@
 ---
 name: Isack Padilla
 image: images/isack.jpeg
-role: phd
+role: alumni
 affiliation: University of Arizona
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Isack is a Ph.D student researching quantum enhanced long-baseline interferometry under professor Kanu Sinha

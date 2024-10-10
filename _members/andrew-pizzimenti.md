@@ -1,7 +1,7 @@
 ---
 name: Andrew Pizzimenti
 image: images/andrew.jpeg
-role: phd
+role: alumni
 affiliation: University of Arizona
 ---
 

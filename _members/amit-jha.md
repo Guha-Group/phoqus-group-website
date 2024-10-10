@@ -1,7 +1,7 @@
 ---
 name: Amit Jha
 image: images/amit.jpg
-role: phd
+role: alumni
 affiliation: University of Arizona
 ---
 

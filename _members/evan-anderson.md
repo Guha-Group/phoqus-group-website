@@ -1,7 +1,7 @@
 ---
 name: Evan Anderson
 image: images/evan.jpeg
-role: phd
+role: alumni
 affiliation: University of Arizona
 ---
 
