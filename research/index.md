@@ -15,11 +15,11 @@ We are interested in evaluating the fundamental performance limits in these appl
 
 {% include section.html %}
 
-## Highlighted
+<!-- ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
-{% include section.html %}
+{% include section.html %} -->
 
 ## All
 
