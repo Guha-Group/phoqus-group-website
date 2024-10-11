@@ -51,7 +51,7 @@ Intro to quantum sensing
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Quantum sensing"
   flip=true
   style="bare"
   text=text
