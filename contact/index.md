@@ -12,7 +12,7 @@ Reach out to us in regards to research, media, and project sponsorship.
 {%
   include button.html
   type="email"
-  text="smalani@umd.edu
+  text="smalani@umd.edu"
   link="smalani@umd.edu"
 %}
 {%
