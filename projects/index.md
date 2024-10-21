@@ -15,12 +15,12 @@ This page shows ongoing and completed projects and the sponsor agency. You can a
 
 {% include section.html %}
 
-## Featured
+## Active
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## Upcoming
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
