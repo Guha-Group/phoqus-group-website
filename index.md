@@ -28,7 +28,7 @@ Quantum networking and communication aim to create secure, high-speed communicat
   include feature.html
   image="images/qn_temp.jpeg"
   link="research"
-  title="Our Research"
+  title="Quantum Networking and Communication"
   text=text
 %}
 
@@ -50,7 +50,7 @@ Quantum sensing uses the principles of quantum mechanics to achieve ultra-precis
 {%
   include feature.html
   image="images/qs_temp.jpeg"
-  link="projects"
+  link="research"
   title="Quantum sensing"
   flip=true
   style="bare"
@@ -75,7 +75,7 @@ Photonic quantum computing harnesses the unique properties of light to perform c
 {%
   include feature.html
   image="images/qc_temp.jpeg"
-  link="team"
+  link="research"
   title="Quantum Computing"
   text=text
 %}
