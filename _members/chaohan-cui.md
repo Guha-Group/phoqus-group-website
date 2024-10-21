@@ -1,7 +1,7 @@
 ---
 name: Chaohan Cui
 image: images/chaohan.jpg
-role: researcher
+role: faculty
 affiliation: University of Maryland, College Park
 ---
 
