@@ -311,6 +311,38 @@
   prajit-dhara: true
   plugin: orcid.py
   file: orcid.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:AE81f6nWjdQC
+  title: 'Multi-aperture telescopes at the quantum limit of superresolution imaging:
+    Detecting subRayleigh object near a star'
+  authors:
+  - AK Jha
+  - S Fleming
+  - N Deshler
+  - A Sajjad
+  - M Neifeld
+  - A Ashok
+  - S Guha
+  publisher: Acta Astronautica, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:AE81f6nWjdQC
+  google_id: E4JS8pQAAAAJ:AE81f6nWjdQC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lYbyOjaXH8MC
+  title: Optimum classical beam-position sensing
+  authors:
+  - W He
+  - CN Gagatsos
+  - DJ Wilson
+  - S Guha
+  publisher: Physical Review Applied 22 (4), L041004, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lYbyOjaXH8MC
+  google_id: E4JS8pQAAAAJ:lYbyOjaXH8MC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:aXwx4OqTWR4C
   title: Adaptive Super-Resolution Imaging Without Prior Knowledge Using a Programmable
     Spatial-Mode Sorter
@@ -885,20 +917,6 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:D4n_APcuzvwC
   google_id: E4JS8pQAAAAJ:D4n_APcuzvwC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lYbyOjaXH8MC
-  title: Optimum classical beam position sensing
-  authors:
-  - W He
-  - CN Gagatsos
-  - DJ Wilson
-  - S Guha
-  publisher: arXiv preprint arXiv:2402.00259, 2024
-  date: '2024-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lYbyOjaXH8MC
-  google_id: E4JS8pQAAAAJ:lYbyOjaXH8MC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1777,20 +1795,6 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:Sg-YnEhjH50C
   google_id: E4JS8pQAAAAJ:Sg-YnEhjH50C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:xXdmTUQ9lisC
-  title: Quantum-limited Optical Super-resolution Imaging of Multiple Point-sources
-  authors:
-  - KK Lee
-  - C Gagatsos
-  - S Guha
-  - A Ashok
-  publisher: Computational Optical Sensing and Imaging, CW3B. 2, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:xXdmTUQ9lisC
-  google_id: E4JS8pQAAAAJ:xXdmTUQ9lisC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
