@@ -11,46 +11,46 @@ Welcome to the Photonic Quantum Systems (PhoQuS) group at the University of Mary
 
 {% capture text %}
 
-Introduction to quantum networking and communicaiton
+Quantum networking and communication aim to create secure, high-speed communication channels by using quantum states for information transfer. Unlike classical systems, quantum networks can provide unbreakable security through quantum key distribution and allow for the development of quantum internet protocols. This technology will enable seamless, secure communication across large distances, laying the foundation for a global quantum internet.
 
-{%
+<!-- {%
   include button.html
   link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%}
+%} -->
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/gmcap.png"
+  image="images/qn_temp.jpeg"
   link="research"
-  title="Our Research"
+  title="Quantum Networking and Communication"
   text=text
 %}
 
 {% capture text %}
 
-Intro to quantum sensing
+Quantum sensing uses the principles of quantum mechanics to achieve ultra-precise measurements that surpass classical limits. By exploiting quantum states like entanglement and coherence, quantum sensors can detect minute changes in physical quantities such as time, magnetic fields, or gravitational waves. These advancements promise to transform industries ranging from healthcare to navigation and environmental monitoring.
 
-{%
+<!-- {%
   include button.html
   link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%}
+%} -->
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
+  image="images/qs_temp.jpeg"
+  link="research"
   title="Quantum sensing"
   flip=true
   style="bare"
@@ -59,7 +59,7 @@ Intro to quantum sensing
 
 {% capture text %}
 
-Intro to quantum computing
+Photonic quantum computing harnesses the unique properties of light to perform computations that are fundamentally different from classical methods. By encoding information in photons, we can achieve high-speed operations and leverage quantum phenomena like superposition and entanglement to solve complex problems more efficiently. This approach has the potential to revolutionize fields such as cryptography, material science, and artificial intelligence.
 
 <!-- {%
   include button.html
@@ -74,8 +74,8 @@ Intro to quantum computing
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
+  image="images/qc_temp.jpeg"
+  link="research"
   title="Quantum Computing"
   text=text
 %}
