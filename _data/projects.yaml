@@ -2,7 +2,7 @@
   subtitle: DARPA
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://phoqus.us/projects/quanett
   description: Change detection
   repo: greenelab/lab-website-template
   tags:
@@ -21,17 +21,17 @@
 - title: Green Machine
   subtitle: NASA
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://phoqus.us/projects/greenmachine
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
+- title: Inspire
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://phoqus.us/projects/inspire
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
