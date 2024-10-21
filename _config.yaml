@@ -34,17 +34,16 @@ defaults:
       type: "posts"
     values:
       layout: post
-  # markdown files in /projects
-  - scope:
-      path: "projects"
-    values:
-      layout: post
+
 collections:
   # generate page for each member
   members:
     output: true
   # generate page for each post
   posts:
+    output: true
+  # generate page for each post
+  projects:
     output: true
 
 # jekyll plugins
