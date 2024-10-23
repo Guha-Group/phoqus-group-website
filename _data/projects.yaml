@@ -20,7 +20,7 @@
 
 - title: Optical Green Machine Receiver
   subtitle: NASA
-  gropu: featured
+  group: featured
   image: images/gmcap.png
   link: https://phoqus.us/projects/optical-green-machine-receiver
   description: An experimental realization of a linear optical receiver for photon-starved communication systems.
@@ -41,10 +41,20 @@
 
 - title: Inspire
   subtitle: a subtitle
-  group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Investigating quantum resources for understanding neuronal processing.
   repo: Guha-Group
   tags:
     - software
+
+- title: Spatial Mode Sorting
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Active Mode Sorting of spatial modes with a programmable spatial light modulator and static mode sorting with a mode sorter.
+  repo: Guha-Group
+  tags:
+    - software
+
+
