@@ -42,7 +42,7 @@
 - title: Inspire
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://phoqus.us/projects/inspire
   description: Investigating quantum resources for understanding neuronal processing.
   repo: Guha-Group
   tags:
@@ -50,8 +50,9 @@
 
 - title: Spatial Mode Sorting
   subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://phoqus.us/projects/spatial-mode-sorting
   description: Active Mode Sorting of spatial modes with a programmable spatial light modulator and static mode sorting with a mode sorter.
   repo: Guha-Group
   tags:
