@@ -3,18 +3,18 @@
   group: featured
   image: images/quanet.png
   link: https://phoqus.us/projects/quanett
-  description: Change detection
-  repo: greenelab/lab-website-template
+  description: Using quantum photonic resources to detect changes in network topology and routing.
+  repo: Guha-Group
   tags:
     - resource
 
 - title: PHENOM
   subtitle: DARPA
   group: featured
-  image: images/photo.jpg
+  image: images/phenom.jpg
   link: https://phoqus.us/projects/darpa/phenom
   description: Analysis, simulation, and experimental implementation of photonic quantum states useful in sensing applications.
-  repo: greenelab/lab-website-template
+  repo: Guha-Gropu
   tags:
     - resource
 
@@ -32,19 +32,19 @@
 - title: Center for Quantum Networks
   subtitle: NSF
   group: featured
-  image: images/photo.jpg
-  link: https://phoqus.us/projects/inspire
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/cqn.png
+  link: https://phoqus.us/projects/cqn
+  description: Gen-IV Engineering Research Center dedicated to development of fundamental research for a quantum-enhanced internet.
+  repo: Guha-Group
   tags:
     - software
 
-- title: Cool Web Server
+- title: Inspire
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: Guha-Group
   tags:
     - software
