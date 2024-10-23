@@ -1,7 +1,7 @@
 - title: QuaNett
   subtitle: DARPA
   group: featured
-  image: images/photo.jpg
+  image: images/quanet.png
   link: https://phoqus.us/projects/quanett
   description: Change detection
   repo: greenelab/lab-website-template
@@ -12,14 +12,15 @@
   subtitle: DARPA
   group: featured
   image: images/photo.jpg
-  link: https://phoqus.us/projects/darpa
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://phoqus.us/projects/darpa/phenom
+  description: Analysis, simulation, and experimental implementation of photonic quantum states useful in sensing applications.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
 - title: Optical Green Machine Receiver
   subtitle: NASA
+  gropu: featured
   image: images/gmcap.png
   link: https://phoqus.us/projects/optical-green-machine-receiver
   description: An experimental realization of a linear optical receiver for photon-starved communication systems.
@@ -30,6 +31,7 @@
 
 - title: Center for Quantum Networks
   subtitle: NSF
+  group: featured
   image: images/photo.jpg
   link: https://phoqus.us/projects/inspire
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -39,6 +41,7 @@
 
 - title: Cool Web Server
   subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
