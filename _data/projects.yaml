@@ -58,4 +58,13 @@
   tags:
     - software
 
+- title: AFOSR
+  subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  link: https://phoqus.us/projects/afosr
+  description: 
+  repo: Guha-Group
+  tags:
+    - software
 
