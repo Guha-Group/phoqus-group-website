@@ -1,6 +1,6 @@
 ---
 name: Michael Grace
-image: images/photo.jpg
+image: images/michael-grace.jpeg
 role: alumni
 affiliation: Raytheon, BBN
 ---
