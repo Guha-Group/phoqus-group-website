@@ -1,7 +1,7 @@
 ---
 title: Projects
 nav:
-  order: 2
+  order: 3
   tooltip: Software, datasets, and more
 ---
 
@@ -9,18 +9,22 @@ nav:
 
 This page shows our upcoming, current and past sponsored research projects.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, resource, communications, sensing, computing" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Active
+## Current
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
 ## Upcoming
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+## Past
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
