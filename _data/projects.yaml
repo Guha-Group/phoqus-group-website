@@ -41,6 +41,7 @@
 
 - title: Inspire
   subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
   link: https://phoqus.us/projects/inspire
   description: Investigating quantum resources for understanding neuronal processing.

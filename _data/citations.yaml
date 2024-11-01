@@ -311,6 +311,37 @@
   prajit-dhara: true
   plugin: orcid.py
   file: orcid.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:aSKcRT6rTsQC
+  title: Low-Dimensional Solid-State Single-Photon Emitters
+  authors:
+  - J Chen
+  - C Cui
+  - B Lawrie
+  - Y Xue
+  - S Guha
+  - M Eichenfield
+  - H Zhao
+  - X Yan
+  publisher: arXiv preprint arXiv:2410.22106, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:aSKcRT6rTsQC
+  google_id: E4JS8pQAAAAJ:aSKcRT6rTsQC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:3q5vy9RXY8EC
+  title: Bayesian quantum phase estimation with fixed photon states
+  authors:
+  - B Zhou
+  - S Guha
+  - CN Gagatsos
+  publisher: Quantum Information Processing 23 (11), 366, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:3q5vy9RXY8EC
+  google_id: E4JS8pQAAAAJ:3q5vy9RXY8EC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:AE81f6nWjdQC
   title: 'Multi-aperture telescopes at the quantum limit of superresolution imaging:
     Detecting subRayleigh object near a star'
@@ -340,6 +371,20 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:lYbyOjaXH8MC
   google_id: E4JS8pQAAAAJ:lYbyOjaXH8MC
+  gsid: E4JS8pQAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EVKlETVVbN8C
+  title: Majorization theoretical approach to entanglement enhancement via local filtration
+  authors:
+  - Z Van Herstraeten
+  - NJ Cerf
+  - S Guha
+  - CN Gagatsos
+  publisher: Physical Review A 110 (4), 042430, 2024
+  date: '2024-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EVKlETVVbN8C
+  google_id: E4JS8pQAAAAJ:EVKlETVVbN8C
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1017,20 +1062,6 @@
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EVKlETVVbN8C
-  title: Majorization theoretical approach to entanglement enhancement via local filtration
-  authors:
-  - Z Van Herstraeten
-  - NJ Cerf
-  - S Guha
-  - CN Gagatsos
-  publisher: arXiv preprint arXiv:2312.02066, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:EVKlETVVbN8C
-  google_id: E4JS8pQAAAAJ:EVKlETVVbN8C
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:JQPmwQThujIC
   title: Independent Panel Report for Technical Assessment of NASA and External Quantum
     Sensing Capabilities
@@ -1276,19 +1307,6 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:R1TrASrH5esC
   google_id: E4JS8pQAAAAJ:R1TrASrH5esC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:3q5vy9RXY8EC
-  title: Bayesian quantum phase estimation with fixed photon states
-  authors:
-  - B Zhou
-  - S Guha
-  - CN Gagatsos
-  publisher: arXiv preprint arXiv:2308.01293, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:3q5vy9RXY8EC
-  google_id: E4JS8pQAAAAJ:3q5vy9RXY8EC
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1782,19 +1800,6 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:YXeC4bxG7-IC
   google_id: E4JS8pQAAAAJ:YXeC4bxG7-IC
-  gsid: E4JS8pQAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:Sg-YnEhjH50C
-  title: Quantum Limits of Optical Communication
-  authors:
-  - B Saif
-  - N Barghouty
-  - S Guha
-  publisher: NASA-CSIRO Optical/Quantum Workshop, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E4JS8pQAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=E4JS8pQAAAAJ:Sg-YnEhjH50C
-  google_id: E4JS8pQAAAAJ:Sg-YnEhjH50C
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
