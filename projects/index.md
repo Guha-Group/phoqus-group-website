@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-This page shows ongoing and completed projects and the sponsor agency. You can also find links to collaborator groups.
+This page shows our upcoming, current and past sponsored research projects.
 
 {% include tags.html tags="publication, resource, website" %}
 

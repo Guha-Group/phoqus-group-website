@@ -1,0 +1,9 @@
+---
+title: Performance Integrated Quantum Scalable Internet
+subtitle: ORNL
+---
+The proposed project will assess and develop the network architectures and communications protocols needed to build and operate quantum networks for US Department of Energy (DOE) quantum computing and sensing systems. The effort will focus on performance-based entanglement distribution and teleportation operations. Our solutions will be flexible enough to support multiple encoding types (e.g., qubits, qudits, and continuous variables) and multiple degrees of freedom (e.g., polarization, time bins, and amplitude/phase). The proposed work encompasses the following new technical focus areas:
+- Architectures to support hierarchical network composition with quantum, conventional, and hybrid ele- ments, including photon sources, detectors, memories, error mitigation, links, repeaters, and routers to support performance estimation and optimization at multiple levels of the quantum network hierarchy.
+- A novel quantum-classical network tomography with hierarchical aggregation and decomposition to sup- port Bayesian estimation and machine learning, based on physics-informed knowledge that determines prior distributions, for performance estimation, and quantum transport protocols design and operation.
+- Flow-based quantum transport protocols that use buffers, loss detection and recovery mechanisms, and conventional communications based on connection and process state estimation provided by network tomography to implement throughput optimization for entanglement distribution and teleportation.
+The crosscutting areas include the development of a combination of quantum network architectures, entan- glement paths, protocols, analytics, simulations, and physical experiments to support the technical focus areas. Experimentation, verification, and validation of the proposed research will leverage and build upon current or previously supported test beds and their components.
