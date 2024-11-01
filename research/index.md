@@ -13,13 +13,13 @@ Our work entails applications where light is used to extract, carry and process 
 
 We are interested in evaluating the fundamental performance limits in these applications, by treating information-bearing light as a quantum mechanical object. We are also interested in designing, evaluating and building proof-of-concept systems in our laboratory that aim to approach such quantum-limited performance, which often involves innovations spanning multiple disciplines such as information and estimation theory, quantum optics, physics of atomic systems, error correction theory, and network theory.
 
-<!-- {% include section.html %} -->
+<!-- {% include section.html %}
 
 <!-- ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
-{% include section.html %} -->
+{% include section.html %} 
 
 ## All
 
