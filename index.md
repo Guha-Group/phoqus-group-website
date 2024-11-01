@@ -34,7 +34,7 @@ Quantum networking and communication aim to create secure, high-speed communicat
 
 {% capture text %}
 
-Quantum sensing uses the principles of quantum mechanics to achieve ultra-precise measurements that surpass classical limits. By exploiting quantum states like entanglement and coherence, quantum sensors can detect minute changes in physical quantities such as time, magnetic fields, or gravitational waves. These advancements promise to transform industries ranging from healthcare to navigation and environmental monitoring.
+Quantum photonic sensing uses the principles of quantum mechanics to achieve ultra-precise measurements that surpass classical limits. By exploiting quantum states like entanglement and coherence, quantum sensors can detect minute changes in physical quantities such as time, magnetic fields, or gravitational waves. These advancements promise to transform industries ranging from healthcare to navigation and environmental monitoring.
 
 <!-- {%
   include button.html
