@@ -69,3 +69,14 @@
   tags:
     - software
 
+
+- title: Performance Integrated Quantum Scalable Internet (PiQSci)
+  subtitle: Oak Ridge National Laboratories (ORNL), DoE
+  group: featured
+  image: images/piqsci_web.png
+  link: https://phoqus.us/projects/piqsci
+  description: In this project, we assess and develop the network architectures and communications protocols needed to build and operate quantum networks for US Department of Energy (DOE) quantum computing and sensing systems.
+  repo: Guha-Group
+  tags:
+    - resource
+    - publication
