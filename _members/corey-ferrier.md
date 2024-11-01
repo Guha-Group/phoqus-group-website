@@ -1,6 +1,6 @@
 ---
 name: Corey Ferrier
-image: images/corey.jpeg
+image: images/corey.jpg
 role: phd
 affiliation: University of Maryland, College Park
 ---
