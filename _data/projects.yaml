@@ -6,7 +6,7 @@
   description: Using quantum photonic resources to detect changes in network topology and routing.
   repo: Guha-Group
   tags:
-    - resource
+    - 
 
 - title: PHENOM
   subtitle: DARPA
@@ -14,9 +14,9 @@
   image: images/phenom.jpg
   link: https://phoqus.us/projects/darpa/phenom
   description: Analysis, simulation, and experimental implementation of photonic quantum states useful in sensing applications.
-  repo: Guha-Gropu
+  repo: Guha-Group
   tags:
-    - resource
+    - sensing
 
 - title: Optical Green Machine Receiver
   subtitle: NASA
@@ -26,8 +26,7 @@
   description: An experimental realization of a linear optical receiver for photon-starved communication systems.
   repo: Guha-Group
   tags:
-    - resource
-    - publication
+    - communications
 
 - title: Center for Quantum Networks
   subtitle: NSF
@@ -37,7 +36,7 @@
   description: Gen-IV Engineering Research Center dedicated to development of fundamental research for a quantum-enhanced internet.
   repo: Guha-Group
   tags:
-    - software
+    - resource
 
 - title: Inspire
   subtitle: a subtitle
@@ -47,7 +46,7 @@
   description: Investigating quantum resources for understanding neuronal processing.
   repo: Guha-Group
   tags:
-    - software
+    - computing
 
 - title: Spatial Mode Sorting
   subtitle: a subtitle
@@ -57,7 +56,7 @@
   description: Active Mode Sorting of spatial modes with a programmable spatial light modulator and static mode sorting with a mode sorter.
   repo: Guha-Group
   tags:
-    - software
+    - sensing
 
 - title: AFOSR
   subtitle: a subtitle
@@ -67,7 +66,7 @@
   description: 
   repo: Guha-Group
   tags:
-    - software
+    
 
 
 - title: Performance Integrated Quantum Scalable Internet (PiQSci)
@@ -78,5 +77,5 @@
   description: In this project, we assess and develop the network architectures and communications protocols needed to build and operate quantum networks for US Department of Energy (DOE) quantum computing and sensing systems.
   repo: Guha-Group
   tags:
-    - resource
-    - publication
+    - communications
+    
