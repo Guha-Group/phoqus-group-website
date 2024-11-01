@@ -20,7 +20,8 @@
 .card-image img {
   aspect-ratio: 3/2;
   object-fit: cover;
-  width: 100%;
+  max-width: 75%;
+  padding: 10px;
 }
 
 .card-text {
