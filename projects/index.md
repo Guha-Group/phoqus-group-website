@@ -9,7 +9,7 @@ nav:
 
 This page shows our upcoming, current and past sponsored research projects.
 
-{% include tags.html tags="communications, sensing, computing" %}
+{% include tags.html tags="Communications, Sensing, Computing" %}
 
 {% include search-info.html %}
 
