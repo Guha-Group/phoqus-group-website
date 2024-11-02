@@ -9,9 +9,13 @@ nav:
 
 Our team consists of members from both the University of Maryland and the University of Arizona. Find out more about our research group here.
 
+## Principal Investigator
+
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+
 ## Faculty
 
-{% include list.html data="members" component="portrait" filters="role: pi|faculty" %}
+{% include list.html data="members" component="portrait" filters="role: faculty" %}
 
 ## Administration and Research Staff
 
