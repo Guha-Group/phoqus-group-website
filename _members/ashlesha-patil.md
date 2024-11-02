@@ -2,7 +2,7 @@
 name: Ashlesha Patil
 image: images/ashlesha.png
 role: alumni
-affiliation: University of Arizona, PsiQuantum
+affiliation: Former PhD student, Scientist at PsiQuantum
 ---
 
 Ashlesha Patil received an Integrated Masters Degree (B.Tech + M.Tech) in Electrical Engineering with specialization in Microelectronics from IIT Bombay, India. She worked on quantum transport in semiconductors and quantum sensing using nitrogen-vacancy centers in diamond at IIT Bombay.
