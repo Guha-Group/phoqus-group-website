@@ -21,6 +21,7 @@
   aspect-ratio: 3/2;
   object-fit: contain;
   max-width: 100%;
+  margin: 5px;
 }
 
 .card-text {
