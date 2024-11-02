@@ -1,7 +1,6 @@
 ---
 title: PhoQuS Group & CQN at Quantum World Congress 2024
 image: images/qsc.png
-author: Jack Postlewaite
 tags: general
 ---
 

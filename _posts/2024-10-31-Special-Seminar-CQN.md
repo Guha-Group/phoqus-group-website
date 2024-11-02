@@ -1,7 +1,6 @@
 ---
 title: Special Seminar - Isaac Harris
 image: images/isaac-harris-seminar.png
-author: Jack Postlewaite
 tags: general
 ---
 

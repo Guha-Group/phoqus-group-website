@@ -1,7 +1,6 @@
 ---
 title: New Group Website
-image: images/photo.jpg
-author: Jack Postlewaite
+image: images/icon.png
 tags: general
 ---
 
