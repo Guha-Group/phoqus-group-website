@@ -1,4 +1,4 @@
-- title: QuaNET
+- title: Quantum Augmented Networks (QuaNET)
   subtitle: DARPA
   group: featured
   image: images/quanet.png
@@ -9,12 +9,12 @@
     - communications
     - sensing
 
-- title: PHENOM
+- title: Photon-Efficient Nanoscale Optical Metrology (PHENOM)
   subtitle: DARPA
   group: featured
-  image: images/phenom.jpg
+  image: images/phenom.png
   link: https://phoqus.us/projects/darpa/phenom
-  description: Analysis, simulation, and experimental implementation of photonic quantum states useful in sensing applications.
+  description: Generation of many-photon entangled states using atomic emitters 
   repo: Guha-Group
   tags:
     - sensing
@@ -29,7 +29,7 @@
   tags:
     - communications
 
-- title: Center for Quantum Networks
+- title: Center for Quantum Networks (CQN)
   subtitle: NSF
   group: featured
   image: images/cqn.png
