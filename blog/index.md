@@ -2,7 +2,7 @@
 title: Updates
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Group updates, events, and announcements
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Group Updates and Events

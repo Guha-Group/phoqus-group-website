@@ -2,7 +2,7 @@
 title: Projects
 nav:
   order: 3
-  tooltip: Software, datasets, and more
+  tooltip: Sponsored research projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
@@ -25,6 +25,10 @@ This page shows our upcoming, current and past sponsored research projects.
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
 
+{% include section.html %}
+
 ## Past
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: past " style="small" %}
+
+
