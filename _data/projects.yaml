@@ -1,12 +1,13 @@
-- title: QuaNett
+- title: QuaNET
   subtitle: DARPA
   group: featured
   image: images/quanet.png
-  link: https://phoqus.us/projects/quanett
-  description: Using quantum photonic resources to detect changes in network topology and routing.
+  link: https://phoqus.us/projects/quanet
+  description: Using squeezing and entangled photons in the physical layer for enhancing security, privacy and resilience of an optical communications network. 
   repo: Guha-Group
   tags:
-    - 
+    - communications
+    - sensing
 
 - title: PHENOM
   subtitle: DARPA
@@ -36,7 +37,7 @@
   description: Gen-IV Engineering Research Center dedicated to development of fundamental research for a quantum-enhanced internet.
   repo: Guha-Group
   tags:
-    - resource
+    - communications
 
 - title: Inspire
   subtitle: a subtitle
