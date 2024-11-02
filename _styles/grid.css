@@ -33,7 +33,7 @@
 }
 .grid[data-style=square] img {
   aspect-ratio: 1/1;
-  object-fit: cover;
+  object-fit: contain;
   max-width: unset;
   max-height: unset;
 }
