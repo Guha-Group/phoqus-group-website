@@ -78,7 +78,7 @@ search:
   tooltip: Search
 
 form:
-  icon: <i class="fa-brands fa-wpforms"></i>
+  icon: fa-brands fa-wpforms
   text: Form
   tooltip: Form
 
