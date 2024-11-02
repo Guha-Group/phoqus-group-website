@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
@@ -55,15 +55,18 @@ Reach out to us in regards to research, media, and project sponsorship.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-That atoms and the vacuum were the beginning of the universe; and that everything else existed only in opinion. - Democritus
+> That atoms and the vacuum were the beginning of the universe; and that everything else existed only in opinion.
+Democritus
 {% endcapture %}
 
 {% capture col2 %}
-The true logic of this world is to be found in the theory of probability. - James Clerk Maxwell
+> The true logic of this world is to be found in the theory of probability. 
+James Clerk Maxwell
 {% endcapture %}
 
 {% capture col3 %}
-The Infinite! No other question has ever moved so profoundly the spirit of man. - David Hilbert
+> The Infinite! No other question has ever moved so profoundly the spirit of man. 
+David Hilbert
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
