@@ -6,4 +6,4 @@ affiliation: University of Arizona
 
 ---
 
-Isack is a Ph.D student researching quantum enhanced long-baseline interferometry under professor Kanu Sinha
+Isack is a Ph.D student researching quantum enhanced long-baseline interferometry under professor Kanu Sinha.
