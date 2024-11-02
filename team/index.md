@@ -17,12 +17,6 @@ Our team consists of members from both the University of Maryland and the Univer
 
 {% include list.html data="members" component="portrait" filters="role: faculty" %}
 
-{% include section.html dark=true %}
-
-We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives. We want to push the frontier of photonic quantum information and train a new generation of researchers and engineers.
-
-{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
-
 ## Administration and Research Staff
 
 {% include list.html data="members" component="portrait" filters="role: (coordinator|researcher|postdoc)" %}
@@ -30,6 +24,13 @@ We work with a wide range of outstanding groups from around the world, and we're
 ## Students
 
 {% include list.html data="members" component="portrait" filters="role: (phd|undergrad)" %}
+
+{% include section.html dark=true %}
+
+We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives. We want to push the frontier of photonic quantum information and train a new generation of researchers and engineers.
+
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
+
 
 ## Alumni
 
