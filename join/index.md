@@ -11,14 +11,14 @@ Job postings for postoctoral researchers, graduate students, and undergraduate s
 
 {%
   include button.html
-  type="email"
+  type="form"
   text="Graduate/Undergraduate Student Application"
   link="https://forms.gle/NbmNW6iRiEUEyQ4J6"
 %}
 
 {%
   include button.html
-  type="email"
+  type="form"
   text="Postdoc Application"
   link="https://forms.gle/SZ7QVfwTRMbfGQCEA"
 %}
@@ -29,7 +29,7 @@ Job postings for postoctoral researchers, graduate students, and undergraduate s
 
 {% include search-box.html %}
 
-{% include tags.html tags=site.tags %}
+{% include tags.html tags="Postdoc, Grad Student, Undergraduate Student" %}
 
 {% include search-info.html %}
 

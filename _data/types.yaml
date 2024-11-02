@@ -77,6 +77,11 @@ search:
   text: Search
   tooltip: Search
 
+form:
+  icon: <i class="fa-brands fa-wpforms"></i>
+  text: Form
+  tooltip: Form
+
 # social media
 
 orcid:
