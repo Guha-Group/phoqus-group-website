@@ -1,5 +1,5 @@
 ---
-name: Wenhua
+name: Wenhua He
 image: images/wenhua.jpg
 role: alumni
 affiliation: University of Arizona
