@@ -28,6 +28,7 @@ We are interested in exploring new insights and potential foundational connectio
   include feature.html
   image="images/qc_temp.jpeg"
   link="research"
+  flip=true
   title="Quantum Information Theory"
   text=text
 %}
