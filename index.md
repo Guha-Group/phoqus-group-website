@@ -28,13 +28,13 @@ We explore multiple roles that the quantum theory of light plays in data communi
   include feature.html
   image="images/qn_temp.jpeg"
   link="research"
-  title="Quantum Networking and Communication"
+  title="Quantum Networking and Communications"
   text=text
 %}
 
 {% capture text %}
 
-Quantum photonic sensing uses the principles of quantum mechanics to achieve ultra-precise measurements that surpass classical limits. By exploiting quantum states like entanglement and coherence, quantum sensors can detect minute changes in physical quantities such as time, magnetic fields, or gravitational waves. These advancements promise to transform industries ranging from healthcare to navigation and environmental monitoring.
+Quantum sensing uses the principles of quantum mechanics to achieve ultra-precise measurements that surpass classical limits. By exploiting quantum phenomena such as entanglement and coherent superpositions of states, quantum sensors can detect minute changes in physical quantities such as time, strain, magnetic fields, or gravitational waves. These advancements promise to transform industries ranging from healthcare to navigation and environmental monitoring. Our research spans the following broad topics: (1) Imaging: we study the [quantum limits](https://ieeexplore.ieee.org/document/8006566) of the precision of parameter estimation in passive imaging of information-bearing incoherent thermal radiation field, especially in the regime where the scene features of interest are far smaller than the [Rayleigh resolution limit](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-37-8-1288&id=433687). Our research includes the theory and design of reconfigurable [spatial mode sorters](https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2022-JTh3A.28) to achieve quantum-limited resolution, with applications to [discriminating objects](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.180502) from a library, [localizing](https://ieeexplore.ieee.org/document/9919344) a cluster of point emitters, [exo-planet detection](https://arxiv.org/abs/2407.12776), quickest [detection of change](https://opg.optica.org/view_article.cfm?pdfKey=4020f6f8-7568-4979-89f8d2b769966894_541652) in an object, imaging [extended objects](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.033847), and imaging complex scenes with [long-base telescopes](https://arxiv.org/abs/2406.16789) that brings together techniques from modal imaging and entanglement assisted sensing. (2) Sensing: we study the use of squeezed light and [multi-mode entanglement](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033114) derived from squeezing and other non-classical optical resources for quantum-enhanced parameter estimation, and its applications to various areas such as [fiber-optic gyroscopes](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.034065), [beam deflectometry](https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2022-JW3A.24) and [quantum radar](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10619544). 
 
 <!-- {%
   include button.html
@@ -51,7 +51,7 @@ Quantum photonic sensing uses the principles of quantum mechanics to achieve ult
   include feature.html
   image="images/qs_temp.jpeg"
   link="research"
-  title="Quantum sensing"
+  title="Quantum sensing and imaging"
   flip=true
   style="bare"
   text=text
@@ -59,7 +59,7 @@ Quantum photonic sensing uses the principles of quantum mechanics to achieve ult
 
 {% capture text %}
 
-Photonic quantum computing harnesses the unique properties of light to perform computations that are fundamentally different from classical methods. By encoding information in photons, we can achieve high-speed operations and leverage quantum phenomena like superposition and entanglement to solve complex problems more efficiently. This approach has the potential to revolutionize fields such as cryptography, material science, and artificial intelligence.
+We are deeply interested in exploring the foundational connections between quantum estimation theory and quantum information theory.
 
 <!-- {%
   include button.html
@@ -76,6 +76,6 @@ Photonic quantum computing harnesses the unique properties of light to perform c
   include feature.html
   image="images/qc_temp.jpeg"
   link="research"
-  title="Quantum Computing"
+  title="Quantum Information Theory"
   text=text
 %}
