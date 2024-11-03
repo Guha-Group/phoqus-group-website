@@ -2,7 +2,7 @@
 name: Saikat Guha
 image: images/saikat.png
 role: pi
-affiliation: University of Maryland, College Park
+affiliation: University of Maryland
 links:
   orcid: 0000-0002-2581-4380
 ---
