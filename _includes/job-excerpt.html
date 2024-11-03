@@ -8,8 +8,8 @@
   {% assign post = include %}
 {% endif %}
 
-<div class="post-excerpt-container">
-  <div class="post-excerpt">
+<div class="job-excerpt-container">
+  <div class="job-excerpt">
     {% assign url = post.url %}
     {% assign title = post.title %}
     {% assign image = post.image %}
@@ -29,7 +29,7 @@
       </a>
     {% endif %}
 
-    <div class="post-excerpt-text">
+    <div class="job-excerpt-text">
       <a href="{{ url | relative_url }}">{{ title }}</a>
 
       {%

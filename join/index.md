@@ -33,4 +33,4 @@ Job postings for postoctoral researchers, graduate students, and undergraduate s
 
 {% include search-info.html %}
 
-{% include list.html data="joinus" component="job-excerpt" %}
+{% include list.html data="jobs" component="job-excerpt" %}

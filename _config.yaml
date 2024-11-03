@@ -39,6 +39,10 @@ defaults:
       type: "projects"
     values:
       layout: projects
+  - scope:
+      type: "join"
+    values:
+      layout: join
 
 collections:
   # generate page for each member
@@ -49,6 +53,8 @@ collections:
     output: true
   # generate page for each post
   projects:
+    output: true
+  join:
     output: true
 
 # jekyll plugins
