@@ -1,4 +1,7 @@
 ---
-title: PHENOM
+title: Photon-Efficient Nanoscale Optical Metrology (PHENOM)
 ---
 
+Funded under DARPA's PhENOM program, our project, titled ``Quantum optical neural networks for error-corrected quantum metrology" --- led by Prof. Edo Waks (PI) and Prof. Saikat Guha (co-PI) --- proposes to investigate the design, analysis and production of loss-tolerant metrologically-powerful many-mode photonic entangled-state probes for DoD-relevant problems, using atomic-emitter arrays, a reconfigurable temporal mode unitary transformer, single-photon non-linearities, and tools from quantum machine learning. 
+
+We are developing a new method to achieve loss-corrected quantum metrology that leverages two new concepts: (1) The use of multi-mode bosonic error correction codes, of both continuous and discrete-variable flavors, to develop entangled multi-photon quantum states that support error correction for photon loss, while exhibiting quantum-enhanced phase sensitivity, and (2) To encode and measure these ``codes", we will use a machine learning approach combined with a single-photon nonlinearity pioneered by the Waks group based on a spin-qubit in a quantum dot.  The nonlinearity will be employed in a Quantum Optical Neural Network (QONN) that will be trained to implement the aforesaid bosonic codes. We will combine this with the work of the Guha group on error correction for loss errors, loss-aware resource-efficient preparation photonic entangled states, and the generalized Green Machine time-bin unitary, to generate massively entangled many photon states that are programmable for a wide variety of DoD relevant metrology applications.
