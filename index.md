@@ -54,7 +54,7 @@ We explore multiple roles that the quantum theory of light plays in data communi
   include feature.html
   image="images/qn_temp.jpeg"
   link="research"
-  title="Quantum Networking and Communications"
+  title="Quantum Communications and Networking"
   text=text
 %}
 
@@ -77,7 +77,7 @@ Quantum sensing uses the principles of quantum mechanics to achieve ultra-precis
   include feature.html
   image="images/qs_temp.jpeg"
   link="research"
-  title="Quantum sensing and imaging"
+  title="Quantum Sensing and Imaging"
   flip=true
   style="bare"
   text=text
