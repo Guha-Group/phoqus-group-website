@@ -14,7 +14,7 @@
   group: featured
   image: images/phenom.png
   link: https://phoqus.us/projects/phenom
-  description: Generation of many-photon entangled states using atomic emitters 
+  description: Generation of many-photon entangled states using atomic emitters that act as codes for photon loss but exhibit quantum-enhanced phase sensitivity.
   repo: Guha-Group
   tags:
     - sensing
