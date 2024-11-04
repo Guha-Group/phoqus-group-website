@@ -22,14 +22,14 @@ Job postings for postoctoral researchers, graduate students, and undergraduate s
   text="Postdoc Application"
   link="https://forms.gle/SZ7QVfwTRMbfGQCEA"
 %}
+
+{% include section.html %}
+
+## Active Job Postings
 {% include tags.html tags="Postdoc, Grad Student, Undergraduate Student" %}
 
 {% include search-box.html %}
 
 {% include search-info.html %}
-
-{% include section.html %}
-
-## Active Job Postings
 
 {% include list.html data="jobs" component="job-excerpt" %}
