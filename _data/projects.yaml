@@ -19,6 +19,16 @@
   tags:
     - sensing
 
+- title: Optimizing Entanglement to attain Quantum Limit of Long-Baseline Imaging
+  subtitle: AFOSR
+  group: featured
+  image: images/afosr.png
+  link: https://phoqus.us/projects/afosr-lb
+  description: Investigation of the use of distributed entanglement to enhance the performance of an array of passive and/or active sensors.
+  repo: Guha-Group
+  tags:
+    - sensing
+
 - title: Optical Green Machine Receiver
   subtitle: NASA
   group: featured
@@ -50,22 +60,22 @@
     - sensing
     - communications
 
-- title: Spatial Mode Sorting
-  subtitle: a subtitle
+- title: Spatial Mode Sorting for super-resolution object recognition
+  subtitle: RTX
   group: featured
-  image: images/photo.jpg
+  image: images/superresolution.jpg
   link: https://phoqus.us/projects/spatial-mode-sorting
-  description: Active Mode Sorting of spatial modes with a programmable spatial light modulator and static mode sorting with a mode sorter.
+  description: Reconfigurable sorting of spatial modes with programmable multi-plane light conversion (MPLC) built using spatial light modulators, for enhanced object recognition with space-domain awareness applications.
   repo: Guha-Group
   tags:
     - sensing
 
-- title: AFOSR
-  subtitle: a subtitle
+- title: Ultra low-overhead photonic quantum computation using a squeezing-amplified weak cross-Kerr modulation
+  subtitle: AFOSR
   group: featured
-  image: images/photo.jpg
+  image: images/kerr.png
   link: https://phoqus.us/projects/afosr
-  description: 
+  description: To design a parametric control protocol to realize the currently-unrealizable implementation of a two-mode optical cross-Kerr interaction at low input photon number levels—by iterated application of quantum squeezing operations for a fast and loss-mitigated accrual of weak photonic cross-Kerr phase.
   repo: Guha-Group
   tags:
     
