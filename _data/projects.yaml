@@ -32,22 +32,23 @@
 - title: Center for Quantum Networks (CQN)
   subtitle: NSF
   group: featured
-  image: images/cqn.png
+  image: images/cqn-internet.png
   link: https://phoqus.us/projects/cqn
-  description: Gen-IV Engineering Research Center dedicated to development of fundamental research for a quantum-enhanced internet.
+  description: Gen-IV Engineering Research Center (ERC) dedicated to the development of the full-stack future quantum internet.
   repo: Guha-Group
   tags:
     - communications
 
-- title: Inspire
-  subtitle: a subtitle
+- title: Intensity-Squeezed Photonic Integration for Revolutionary Detectors (INSPIRE)
+  subtitle: DARPA
   group: featured
-  image: images/photo.jpg
+  image: images/inspired.png
   link: https://phoqus.us/projects/inspire
-  description: Investigating quantum resources for understanding neuronal processing.
+  description: Developing on-chip squeezed light sources for sensor applications that could generate upwards of 20dB of continuous-wave squeezed light at optical frequencies.
   repo: Guha-Group
   tags:
-    - computing
+    - sensing
+    - communications
 
 - title: Spatial Mode Sorting
   subtitle: a subtitle
