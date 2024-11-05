@@ -21,7 +21,7 @@
 
 - title: Optical Green Machine Receiver
   subtitle: NASA
-  group: featured
+  group: past
   image: images/gmcap.png
   link: https://phoqus.us/projects/optical-green-machine-receiver
   description: An experimental realization of a linear optical receiver for photon-starved communication systems.
