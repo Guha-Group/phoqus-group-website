@@ -1,5 +1,17 @@
 ---
-title: CQN
+title: Center for Quantum Networks (CQN)
 subtitle: National Science Foundation (NSF)
 ---
-hi
+
+The [Center for Quantum Networks](www.cqn-erc.org) (CQN) is an Engineering Research Center (ERC) aiming to develop the entire technology stack to upgrade the internet to reliably carry quantum data across the globe, serving diverse applications across many user groups simultaneously. CQN was founded by Prof. Saikat Guha as PI/Director in 2020, with a team involving 20+ faculty across 10 university campuses. CQN remains head-quartered at the Unviersity of Arizona (with Prof. Matt Eichenfield as co-Director now with Prof. Guha), with core partner universities that include MIT (PI: Prof. Dirk Englund), UMD (PI: Prof. Saikat Guha), UMass Amherst (PI: Prof. Don Towsley) and Harvard University (PI: Prof. Marko Loncar). 
+
+CQN's research spans the entire technology stack---theory and experiments included---underlying quantum networking. At the highest level, CQN aspires to build the first viable and scalable quantum repeater, which will enable long-range high-speed transport of quantum data packets, and the entire network protocol stack from the physical layer to the application layer, to support future-compatible scalable quantum networking whose use cases will have widespread societal impact. CQN's research includes:
+
+- Novel spin-based memories (e.g., molecular qubit memories being developed by Prof. Danna Freedman at MIT),
+- Scalable fabrication of color centers in diamond (Prof. Englund, MIT; Prof. Matt Eichenfield, UArizona), and associated design of photonic cavities (Prof. Marko Loncar, Harvard; Prof. Ryan Camacho, BYU), nuclear-spin-mediated quantum logic gates (Prof. Mikhail Lukin, Harvard), quantum frequency conversion (Prof. Loncar, Englund, Prof. Julia Mundy, Harvard, and Prof. Brian Smith of University of Oregon), scalable cryo-electronic digital processing within the repeater (Prof. Karl Berggren, MIT), and diamond annealing (Prof. Tina Brower Thomas, Howard University),
+- The zero-added-loss-multimplexing ([ZALM](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.054029)) source as a mediator of high-bandwidth entanglement generation across a network link; analysis and design: Prof. Mike Raymer, U. Oregon, Prof. Jeff Shapiro, MIT; Experimental build including frequency and temporal mode conversion: Prof. Brian Smith, U. Oregon and Dr. Franco Wong, MIT. 
+- Error correction and entanglement distillation at the link level and at the network level (Profs. Narayanan Rengaswamy and Bane Vasic, UArizona, Prof. Stefan Krastanov, UMass Amherst; Prof. Saikat Guha, UMD).
+- Quantum repeater architecture and analysis (Prof. Liang Jiang, U. Chicago, Prof. Guha, UMD, Prof. Filip Rozpedek, UMass Amherst, Prof. Don Towsley, UMass Amherst), and 
+- Quantum networking: algorithms and protocols for routing, scheduling, tomography (Prof. Don Towsley, UMass Amherst, Prof. Ines Montano, NAU, Prof. Saikat Guha, UMD, Prof. Gayane Vardoyan, UMass Amherst)
+
+CQN's innovation ecosystem---comprising of the [QED-C](https://quantumconsortium.org/) and 20+ industry members, aspires to spur new technology industries and a competitive marketplace of quantum service providers and application developers some day. CQN's Education and Workforce Development (EWD) program engages the entire spectrum of US students spanning K-12, undergraduate students, graduate students, and post-graduate practioners in the field. CQN's Diversity and Culture of Inclusion (DCI) program is a unique initiative aimed at creating a program execution framework and way-of-life across the entire center to inculcate a culture of inclusion that can become a role model for STEM Science and Engineering research centers across the country.
