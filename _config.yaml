@@ -8,7 +8,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: jackpost@umd.edu
+  email: smalani@umd.edu
   orcid: 0000-0002-2581-4380
   google-scholar: E4JS8pQAAAAJ
   github: guha-group
@@ -39,10 +39,11 @@ defaults:
       type: "projects"
     values:
       layout: projects
+  # markdown files in /_jobs
   - scope:
-      type: "join"
+      type: "jobs"
     values:
-      layout: join
+      layout: jobs
 
 collections:
   # generate page for each member
@@ -54,7 +55,8 @@ collections:
   # generate page for each post
   projects:
     output: true
-  join:
+  # generate page for each job
+  jobs:
     output: true
 
 # jekyll plugins
