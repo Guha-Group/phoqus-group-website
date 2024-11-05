@@ -1,6 +1,7 @@
 - title: Example Job Posting
-  link: https://phoqus.us/projects/blank_job
+  link: https://phoqus.us/jobs/blank-job
+  image: images/fallback.svg
   description: Example of a blank job.
   repo: Guha-Group
   tags:
-    - Postdoc
+    - postdoc

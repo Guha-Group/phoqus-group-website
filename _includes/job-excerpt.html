@@ -10,14 +10,14 @@
 
 <div class="job-excerpt-container">
   <div class="job-excerpt">
-    {% assign url = post.url %}
+    {% assign url = post.link %}
     {% assign title = post.title %}
     {% assign image = post.image %}
 
     {% if image %}
       <a
         href="{{ url | relative_url }}"
-        class="post-excerpt-image"
+        class="job-excerpt-image"
         aria-label="{{ title | default: "excerpt link" }}"
       >
         <img
@@ -33,7 +33,7 @@
       <a href="{{ url | relative_url }}">{{ title }}</a>
 
       {%
-        include post-info.html
+        include job-info.html
         author=post.author
         published=post.date
         updated=post.last_modified_at
