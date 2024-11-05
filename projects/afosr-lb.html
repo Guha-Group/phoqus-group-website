@@ -515,9 +515,19 @@
 -->
 
 
-<p>Photonic systems make for promising scalable, fault-tolerant quantum computers due to their ability to operate at room temperature, and the ability to rapidly increase the number of qubits. However, the gates applied on photonic qubits are probabilistic, requiring millions of physical photons to encode a logical qubit in order to make it fault-tolerant, making these systems extremely resource intensive. To realize universal quantum computing with photonic qubits, we need single qubit gates and the CZ gate [1]. Since all single qubit gates can be realized deterministically with an optical beamsplitter, the CZ gate is the crucial missing piece. Photonic quantum computing using probabilistic gates can work, but require a near-deterministic source of small entangled resource states such as 3-photon GHZ states [2]. Creating GHZ states using single photons and linear optical elements must again rely on probabilistic operations, and hence require massively multiplexed systems, leading to large resource overheads. The only way to dramatically reduce the amount of resources is through the development of deterministic two-qubit universal gates, i.e., optical circuit modules that produce the expected output with probability one, as opposed to successfully producing the output only a fraction of the time. To achieve such a gate, we can utilize the cross-Kerr optical effect. A cross-Kerr gate mixes two optical beams in a nonlinear medium, and results in an optical phase n to be applied to one beam if there are n photons in the other beam. Such a gate can entangle two photonic qubits. More specifically, a cross-Kerr effect of -phase, i.e., = is strong enough to be used as a controlled-phase, or the two-qubit CZ gate, but realized in a deterministic fashion. However, the cross-Kerr effect available in realistic photonic platforms is very weak, and as a result by the time a cross-Kerr effect of -phase is accrued, optical losses render the resulting gate useless [3].</p>
+<p>This project addresses fundamental research on one of the potentially-strongest use-cases of distributed entanglement—that of enhancing the performance of a network of sensors trying to work together to solve one task—specifically in the context of long-baseline imaging. This ambitious project brings together two lines of research our group has led in recent years–receiver designs to attain quantum limits of passive imaging (funded primarily by DARPA), and entanglement-enhanced photonic sensors (funded primarily by ONR)—to develop a thorough fundamental understanding, and practical system designs, for entanglement enhanced long-baseline imaging at the quantum-performance limit. Our research objectives are broken into three tasks, as described below.</p>
 
-<p>The act of photodetection, i.e., converting an optical signal into an electronic signal, must add a minimum amount of noise whose statistics is governed by quantum mechanics. Detecting the field amplitude of a laser light pulse accrues such quantum noise whose variance is the same no matter which quadrature—e.g., the real or the imaginary complex of the complex-valued amplitude—of the field is detected. A nonlinear optical material can be pumped by a laser to generate a pulse of squeezed light, which has a property wherein the noise variance in the measurement of one field quadrature can be suppressed at the expense of increasing another. It has been shown recently, that sandwiching squeezing operations—iteratively along real and imaginary  field quadratures—interspersed with  a weakly-nonlinear optical effect, can in turn amplify that nonlinearity; far quicker than just repeated application of that weak nonlinearity, thereby circumventing a rapid loss accrual [4]. In this project, we will explore the theoretical underpinnings of sandwiching the weak cross-Kerr effect with appropriately-phased optical squeezers, to amplify the effective cross-Kerr phase more efficiently to achieve a low-loss-phase cross-Kerr (i.e., a CZ) gate. We expect this to vastly reduce the resource overhead needed to realize fault-tolerant quantum computing.</p>
+<ul>
+  <li>
+    <p>Task 1 - Entanglement assisted general distributed parameter estimation: We explore the use of distributed multi-site entanglement and local quantum operations and measurements, and classical communications among sensor sites, to attain the quantum limits of estimation accuracy of any predefined parameter that is a global function of the locally-collected light by the sensors. This theory is then applied to find the specific entanglement necessary and the local operations and classical communications (LOCC) algorithms, to attain – for long-baseline imaging – a recently-quantified fundamental quantum limit, for a general passive imaging parameter detection and estimation task involving incoherent broadband radiation, by a long-baseline telescope system (of given telescope diameters and baseline geometry) in the traditionally unresolvable sub-Rayleigh regime.</p>
+  </li>
+  <li>
+    <p>Task 2 - Practical design and performance evaluation of entanglement enhanced long-baseline interferometric imaging: We will design a system that approaches the quantum limit evaluated in Task 1 – for passive imaging problems of interest to the USAF – such as discriminating prior-known objects under dimly-lit conditions with applications to GEO object detection and earth-based remote sensing – but with that system built with readily available quantum technology, e.g., spontaneous parametric downconversion (SPDC)-based photonic entanglement sources, Silicon vacancy color-center based quantum memories [being built for quantum repeater development for long-distance entanglement distribution as part of the NSF-ERC Center for Quantum Networks (CQN)], volumetric spatial mode sorters (being designed and built in our group using a spatial light modulator (SLM)), optical fibers, switches, and shot-noise-limited single photon detectors. This task will quantify, for real-life imaging and object detection/estimation problems, how much actual improved performance could an entanglement-assisted system afford, as compared with a traditional interferometric-based long-baseline imaging system.</p>
+  </li>
+  <li>
+    <p>Task 3 - Experimental proof-of-concept validation of concept: In this task, we will demonstrate, time and resources permitting, quantum enhanced multi-aperture image-data detection and estimation, in a proof-of-concept emulated laboratory experiment, for a two-aperture setting for a simple problem such as estimating the angular separation between two pointlike incoherent emitters. This experiment will employ SLM-based mode sorters we have built, and a programmable nanophotonic linear-optical processor attached to a HG-basis mode sorter purchased from CaiLabs.</p>
+  </li>
+</ul>
   </section>
 
   
@@ -535,17 +545,12 @@
 <div class="post-nav">
   <span>
     
-      <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
-      <a href="/projects/afosr-lb.html">
-        AFOSR
-      </a>
-    
   </span>
   <span>
     
       Next post <i class="icon fa-solid fa-angle-right"></i><br>
-      <a href="/projects/cqn.html">
-        Center for Quantum Networks (CQN)
+      <a href="/projects/afosr.html">
+        AFOSR
       </a>
     
   </span>
