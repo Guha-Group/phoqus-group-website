@@ -1,6 +1,6 @@
 ---
-title: AFOSR
-subtitle: Optimizing Entanglement to attain Quantum Limit of Long-Baseline Imaging
+title: Optimizing Entanglement to attain Quantum Limit of Long-Baseline Imaging
+subtitle: AFOSR
 ---
 
 This project addresses fundamental research on one of the potentially-strongest use-cases of distributed entanglement---that of enhancing the performance of a network of sensors trying to work together to solve one task---specifically in the context of long-baseline imaging. This ambitious project brings together two lines of research our group has led in recent years--receiver designs to attain quantum limits of passive imaging (funded primarily by DARPA), and entanglement-enhanced photonic sensors (funded primarily by ONR)---to develop a thorough fundamental understanding, and practical system designs, for entanglement enhanced long-baseline imaging at the quantum-performance limit. Our research objectives are broken into three tasks, as described below.
