@@ -39,21 +39,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Optical Green Machine Receiver | Photonic Quantum Systems Group</title>
+<title>Approaching superadditive capacity for space communication with high-speed structured optical receivers | Photonic Quantum Systems Group</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Optical Green Machine Receiver">
+<meta name="title" content="Approaching superadditive capacity for space communication with high-speed structured optical receivers">
 <meta name="description" content="">
 
-<meta property="og:title" content="Optical Green Machine Receiver">
+<meta property="og:title" content="Approaching superadditive capacity for space communication with high-speed structured optical receivers">
 <meta property="og:site_title" content="Photonic Quantum Systems Group">
 <meta property="og:description" content="">
 <meta property="og:url" content="https://phoqus.us">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Optical Green Machine Receiver">
+<meta property="twitter:title" content="Approaching superadditive capacity for space communication with high-speed structured optical receivers">
 <meta property="twitter:description" content="">
 <meta property="twitter:url" content="https://phoqus.us">
 <meta property="twitter:card" content="summary_large_image">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Optical Green Machine Receiver",
+    "name": "Approaching superadditive capacity for space communication with high-speed structured optical receivers",
     "description": "",
-    "headline": "Optical Green Machine Receiver",
+    "headline": "Approaching superadditive capacity for space communication with high-speed structured optical receivers",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -489,7 +489,7 @@
 -->
 
 
-<h1 class="center">Optical Green Machine Receiver</h1>
+<h1 class="center">Approaching superadditive capacity for space communication with high-speed structured optical receivers</h1>
 
 <div class="post-info">
   
@@ -515,7 +515,33 @@
 -->
 
 
-<p>hi</p>
+<p>Optical receivers can benefit immensely from pre-processing of input light prior to detection, as the detection introduces irreversible noise to the information embedded in optical signals  [1,2]. Such information loss is irreversible and cannot be recovered by signal post-processing in the classical domain. Therefore, structured optical receivers, which process optical signals before detection, can potentially show significant advantages in extracting information from optical signals  [3]. In particular, the advantage provided by structured optical receivers can increase as the quality of optical signal decreases with lower power and higher noise.</p>
+
+<p>This methodology has seen great potential for space communication. Given the large bandwidth and high pointing accuracy, optical communication is highly preferred over the traditional microwave communication  [4]. Still, the intrinsic divergence of optical beams over long distances in space determines that the received optical signal will always be in the photon-starving regime (the average received photon number per channel use is much smaller than one)  [5]. Stray light and daylight operation will also introduce strong background noise  [6], which contaminates optical signals. Such low-power and high-noise features make space communications the ideal application case for structured optical receivers.
+The Holevo limit determines the upper bound to the Shannon capacity of one physical communication channel when the modulation alphabet is composed of quantum states  [7]. To obtain the Helovo limit under practical conditions, the proper choice of the modulation format and codeword protocol (mapping between information alphabet and quantum states) is necessary. Moreover, joint detection over long codeword blocks using structured optical receivers is required  [8–10]. By using joint detection, higher communication capacity can be obtained compared with simple single-block measurement. The improvement of the communication channel with structured optical receivers is referred as superadditivity  [11].</p>
+
+<p>In this project, we propose to conduct a comprehensive study of superadditive capacity from both theoretical and experimental perspectives. We will design and build explicit modulation format, code-words, and structured optical receivers to demonstrate superadditive capacity. We will follow our recent theoretical proposal where superadditive capacity can be obtained with the standard binary-phase-shift keying (BPSK) modulation format and Hadamard code-words  [12]. However, we will incorporate experimental imperfections into the theoretical model, including optical loss, crosstalk, phase drift, detector dark count, etc. This will provide guidelines for device metrics to reach superadditive capacity experimentally. We will further explore a new design for the structured optical receiver, which is resource-efficient and technology-ready. A high-speed reconfigurable fiber-optic interferometer will be built to realize the unitary transformation in the time domain. This converts the Hadamard code-words with BPSK modulation into the standard pulse position modulation (PPM) format, which will be directly detected by superconducting nanowire single-photon detectors (SNSPD) with high efficiency, low noise, and high speed. Our novel design of structured optical receivers can potentially operate with multi-gigahertz rates, which is orders of magnitude higher than previous designs  [12,13]. With the novel structured optical receiver, we will measure the achievable communication capacity and compare it with the capacity obtained using simple single-block direct detection. This will experimentally prove the superadditive behavior of structured optical receivers.</p>
+
+<p>[1]	C. W. Helstrom, Quantum Detection and Estimation Theory, Journal of Statistical Physics 1, 231 (1969).
+[2]	J. Shapiro, Quantum Noise and Excess Noise in Optical Homodyne and Heterodyne Receivers, IEEE Journal of Quantum Electronics 21, 237 (1985).
+[3]	K. Banaszek, L. Kunz, M. Jachura, and M. Jarzyna, Quantum Limits in Optical Communications, J. Lightwave Technol. 38, 2741 (2020).
+[4]	M. Toyoshima, W. R. Leeb, H. Kunimori, and T. Takano, Comparison of Microwave and Light Wave Communication Systems in Space Applications, OE 46, 015003 (2007).
+[5]	B. Moision and W. Farr, Range Dependence of the Optical Communications Channel, 10 (n.d.).
+[6]	C. Leinert and D. Klüppelberg, Stray Light Suppression in Optical Space Experiments, Appl. Opt., AO 13, 556 (1974).
+[7]	A. S. Holevo, Bounds for the Quantity of Information Transmitted by a Quantum Communication Channel, Problemy Peredachi Informatsii 9, 3 (1973).
+[8]	S. Guha, Z. Dutton, and J. H. Shapiro, On Quantum Limit of Optical Communications: Concatenated Codes and Joint-Detection Receivers, in 2011 IEEE International Symposium on Information Theory Proceedings (2011), pp. 274–278.
+[9]	J. Chen, J. L. Habif, Z. Dutton, R. Lazarus, and S. Guha, Optical Codeword Demodulation with Error Rates below the Standard Quantum Limit Using a Conditional Nulling Receiver, Nature Photonics 6, 374 (2012).
+[10]	M. Takeoka and S. Guha, Capacity of Optical Communication in Loss and Noise with General Quantum Gaussian Receivers, Physical Review A 89, 042309 (2014).
+[11]	M. Sasaki, K. Kato, M. Izutsu, and O. Hirota, Quantum Channels Showing Superadditivity in Classical Capacity, Phys. Rev. A 58, 146 (1998).
+[12]	S. Guha, Structured Optical Receivers to Attain Superadditive Capacity and the Holevo Limit, Phys. Rev. Lett. 106, 240502 (2011).
+[13]	K. Banaszek and M. Jachura, Structured Optical Receivers for Efficient Deep-Space Communication, (2017).
+[14]	V. Giovannetti, S. Guha, S. Lloyd, L. Maccone, J. H. Shapiro, and H. P. Yuen, Classical Capacity of the Lossy Bosonic Channel: The Exact Solution, Phys. Rev. Lett. 92, 027902 (2004).
+[15]	S. J. Dolinar, An Optimum Receiver for the Binary Coherent State Quantum Channel, Research Laboratory of Electronics, MIT, Quarterly Progress Report 11, 115 (1973).
+[16]	R. W. Boyd, Nonlinear Optics (Academic press, 2020).
+[17]	W. R. Hook and R. P. Hilberg, Lossless KD*P Pockels Cell for High-Power Q Switching, Appl. Opt., AO 10, 1179 (1971).
+[18]	Pockels Cells, https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6149.
+[19]	E. L. Wooten et al., A Review of Lithium Niobate Modulators for Fiber-Optic Communications Systems, IEEE Journal of Selected Topics in Quantum Electronics 6, 69 (2000).
+[20]	1x2 and 2x2 Dual-Output Modulators, https://www.eospace.com/1x2-and-2x2-dual-output-modulator.</p>
   </section>
 
   
