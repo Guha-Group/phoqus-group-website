@@ -78,8 +78,7 @@
   description: To design a parametric control protocol to realize the currently-unrealizable implementation of a two-mode optical cross-Kerr interaction at low input photon number levels—by iterated application of quantum squeezing operations for a fast and loss-mitigated accrual of weak photonic cross-Kerr phase.
   repo: Guha-Group
   tags:
-    
-
+    - computing
 
 - title: Performance Integrated Quantum Scalable Internet (PiQSci)
   subtitle: Oak Ridge National Laboratories (ORNL), DoE
