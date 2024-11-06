@@ -29,12 +29,12 @@
   tags:
     - sensing
 
-- title: Optical Green Machine Receiver
+- title: Green Machine Receiver for Superadditive Communications
   subtitle: NASA
   group: past
-  image: images/gmcap.png
+  image: images/greenmachine.png
   link: https://phoqus.us/projects/optical-green-machine-receiver
-  description: An experimental realization of a linear optical receiver for photon-starved communication systems.
+  description: An experimental realization of a quantum-inspired linear-optical joint-detection receiver for reduced peak power transmission over a deep space lasercom link in a photon-starved regime.
   repo: Guha-Group
   tags:
     - communications
