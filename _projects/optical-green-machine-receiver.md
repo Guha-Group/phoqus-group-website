@@ -10,23 +10,23 @@ The Holevo limit determines the upper bound to the Shannon capacity of one physi
 In this project, we propose to conduct a comprehensive study of superadditive capacity from both theoretical and experimental perspectives. We will design and build explicit modulation format, code-words, and structured optical receivers to demonstrate superadditive capacity. We will follow our recent theoretical proposal where superadditive capacity can be obtained with the standard binary-phase-shift keying (BPSK) modulation format and Hadamard code-words  [12]. However, we will incorporate experimental imperfections into the theoretical model, including optical loss, crosstalk, phase drift, detector dark count, etc. This will provide guidelines for device metrics to reach superadditive capacity experimentally. We will further explore a new design for the structured optical receiver, which is resource-efficient and technology-ready. A high-speed reconfigurable fiber-optic interferometer will be built to realize the unitary transformation in the time domain. This converts the Hadamard code-words with BPSK modulation into the standard pulse position modulation (PPM) format, which will be directly detected by superconducting nanowire single-photon detectors (SNSPD) with high efficiency, low noise, and high speed. Our novel design of structured optical receivers can potentially operate with multi-gigahertz rates, which is orders of magnitude higher than previous designs  [12,13]. With the novel structured optical receiver, we will measure the achievable communication capacity and compare it with the capacity obtained using simple single-block direct detection. This will experimentally prove the superadditive behavior of structured optical receivers.
 
 
-[1]	C. W. Helstrom, Quantum Detection and Estimation Theory, Journal of Statistical Physics 1, 231 (1969).
-[2]	J. Shapiro, Quantum Noise and Excess Noise in Optical Homodyne and Heterodyne Receivers, IEEE Journal of Quantum Electronics 21, 237 (1985).
-[3]	K. Banaszek, L. Kunz, M. Jachura, and M. Jarzyna, Quantum Limits in Optical Communications, J. Lightwave Technol. 38, 2741 (2020).
-[4]	M. Toyoshima, W. R. Leeb, H. Kunimori, and T. Takano, Comparison of Microwave and Light Wave Communication Systems in Space Applications, OE 46, 015003 (2007).
-[5]	B. Moision and W. Farr, Range Dependence of the Optical Communications Channel, 10 (n.d.).
-[6]	C. Leinert and D. Klüppelberg, Stray Light Suppression in Optical Space Experiments, Appl. Opt., AO 13, 556 (1974).
-[7]	A. S. Holevo, Bounds for the Quantity of Information Transmitted by a Quantum Communication Channel, Problemy Peredachi Informatsii 9, 3 (1973).
-[8]	S. Guha, Z. Dutton, and J. H. Shapiro, On Quantum Limit of Optical Communications: Concatenated Codes and Joint-Detection Receivers, in 2011 IEEE International Symposium on Information Theory Proceedings (2011), pp. 274–278.
-[9]	J. Chen, J. L. Habif, Z. Dutton, R. Lazarus, and S. Guha, Optical Codeword Demodulation with Error Rates below the Standard Quantum Limit Using a Conditional Nulling Receiver, Nature Photonics 6, 374 (2012).
-[10]	M. Takeoka and S. Guha, Capacity of Optical Communication in Loss and Noise with General Quantum Gaussian Receivers, Physical Review A 89, 042309 (2014).
-[11]	M. Sasaki, K. Kato, M. Izutsu, and O. Hirota, Quantum Channels Showing Superadditivity in Classical Capacity, Phys. Rev. A 58, 146 (1998).
-[12]	S. Guha, Structured Optical Receivers to Attain Superadditive Capacity and the Holevo Limit, Phys. Rev. Lett. 106, 240502 (2011).
-[13]	K. Banaszek and M. Jachura, Structured Optical Receivers for Efficient Deep-Space Communication, (2017).
-[14]	V. Giovannetti, S. Guha, S. Lloyd, L. Maccone, J. H. Shapiro, and H. P. Yuen, Classical Capacity of the Lossy Bosonic Channel: The Exact Solution, Phys. Rev. Lett. 92, 027902 (2004).
-[15]	S. J. Dolinar, An Optimum Receiver for the Binary Coherent State Quantum Channel, Research Laboratory of Electronics, MIT, Quarterly Progress Report 11, 115 (1973).
-[16]	R. W. Boyd, Nonlinear Optics (Academic press, 2020).
-[17]	W. R. Hook and R. P. Hilberg, Lossless KD*P Pockels Cell for High-Power Q Switching, Appl. Opt., AO 10, 1179 (1971).
-[18]	Pockels Cells, https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6149.
-[19]	E. L. Wooten et al., A Review of Lithium Niobate Modulators for Fiber-Optic Communications Systems, IEEE Journal of Selected Topics in Quantum Electronics 6, 69 (2000).
-[20]	1x2 and 2x2 Dual-Output Modulators, https://www.eospace.com/1x2-and-2x2-dual-output-modulator.
+- [1]	C. W. Helstrom, Quantum Detection and Estimation Theory, Journal of Statistical Physics 1, 231 (1969).
+- [2]	J. Shapiro, Quantum Noise and Excess Noise in Optical Homodyne and Heterodyne Receivers, IEEE Journal of Quantum Electronics 21, 237 (1985).
+- [3]	K. Banaszek, L. Kunz, M. Jachura, and M. Jarzyna, Quantum Limits in Optical Communications, J. Lightwave Technol. 38, 2741 (2020).
+- [4]	M. Toyoshima, W. R. Leeb, H. Kunimori, and T. Takano, Comparison of Microwave and Light Wave Communication Systems in Space Applications, OE 46, 015003 (2007).
+- [5]	B. Moision and W. Farr, Range Dependence of the Optical Communications Channel, 10 (n.d.).
+- [6]	C. Leinert and D. Klüppelberg, Stray Light Suppression in Optical Space Experiments, Appl. Opt., AO 13, 556 (1974).
+- [7]	A. S. Holevo, Bounds for the Quantity of Information Transmitted by a Quantum Communication Channel, Problemy Peredachi Informatsii 9, 3 (1973).
+- [8]	S. Guha, Z. Dutton, and J. H. Shapiro, On Quantum Limit of Optical Communications: Concatenated Codes and Joint-Detection Receivers, in 2011 IEEE International Symposium on Information Theory Proceedings (2011), pp. 274–278.
+- [9]	J. Chen, J. L. Habif, Z. Dutton, R. Lazarus, and S. Guha, Optical Codeword Demodulation with Error Rates below the Standard Quantum Limit Using a Conditional Nulling Receiver, Nature Photonics 6, 374 (2012).
+- [10]	M. Takeoka and S. Guha, Capacity of Optical Communication in Loss and Noise with General Quantum Gaussian Receivers, Physical Review A 89, 042309 (2014).
+- [11]	M. Sasaki, K. Kato, M. Izutsu, and O. Hirota, Quantum Channels Showing Superadditivity in Classical Capacity, Phys. Rev. A 58, 146 (1998).
+- [12]	S. Guha, Structured Optical Receivers to Attain Superadditive Capacity and the Holevo Limit, Phys. Rev. Lett. 106, 240502 (2011).
+- [13]	K. Banaszek and M. Jachura, Structured Optical Receivers for Efficient Deep-Space Communication, (2017).
+- [14]	V. Giovannetti, S. Guha, S. Lloyd, L. Maccone, J. H. Shapiro, and H. P. Yuen, Classical Capacity of the Lossy Bosonic Channel: The Exact Solution, Phys. Rev. Lett. 92, 027902 (2004).
+- [15]	S. J. Dolinar, An Optimum Receiver for the Binary Coherent State Quantum Channel, Research Laboratory of Electronics, MIT, Quarterly Progress Report 11, 115 (1973).
+- [16]	R. W. Boyd, Nonlinear Optics (Academic press, 2020).
+- [17]	W. R. Hook and R. P. Hilberg, Lossless KD*P Pockels Cell for High-Power Q Switching, Appl. Opt., AO 10, 1179 (1971).
+- [18]	Pockels Cells, https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6149.
+- [19]	E. L. Wooten et al., A Review of Lithium Niobate Modulators for Fiber-Optic Communications Systems, IEEE Journal of Selected Topics in Quantum Electronics 6, 69 (2000).
+- [20]	1x2 and 2x2 Dual-Output Modulators, https://www.eospace.com/1x2-and-2x2-dual-output-modulator.
