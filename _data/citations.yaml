@@ -1803,3 +1803,17 @@
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: doi:10.48550/arxiv.2407.07060
+  title: Imaging-based Quantum Optomechanics
+  authors:
+  - Christian M. Pluchar
+  - Wenhua He
+  - Jack Manley
+  - Nicolas Deshler
+  - Saikat Guha
+  - Dalziel J. Wilson
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj53
+  plugin: sources.py
+  file: sources.yaml
