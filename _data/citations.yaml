@@ -87,8 +87,8 @@
   link: https://doi.org/gvbmk2
   orcid: 0000-0002-2581-4380
   saikat-guha: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1103/PhysRevApplied.19.064015
   title: Transceiver Designs Approaching the Entanglement-Assisted Communication Capacity
   authors:
@@ -117,8 +117,8 @@
   link: https://doi.org/gvbmk4
   orcid: 0000-0002-2581-4380
   saikat-guha: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/JSTSP.2022.3222680
   title: Quantum-Enhanced Transmittance Sensing
   authors:
@@ -264,8 +264,8 @@
   link: https://doi.org/grbqtw
   orcid: 0000-0002-4672-5117
   prajit-dhara: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1103/PhysRevApplied.17.034071
   title: Heralded Multiplexed High-Efficiency Cascaded Source of Dual-Rail Entangled
     Photon Pairs Using Spontaneous Parametric Down-Conversion
@@ -1803,20 +1803,6 @@
   gsid: E4JS8pQAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: doi:10.48550/arxiv.2407.07060
-  title: Imaging-based Quantum Optomechanics
-  authors:
-  - Christian M. Pluchar
-  - Wenhua He
-  - Jack Manley
-  - Nicolas Deshler
-  - Saikat Guha
-  - Dalziel J. Wilson
-  publisher: arXiv
-  date: '2024-01-01'
-  link: https://doi.org/g8qj53
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/s11128-024-04576-7
   title: Bayesian quantum phase estimation with fixed photon states
   authors:
@@ -1976,5 +1962,1145 @@
   publisher: 2024 IEEE International Symposium on Information Theory (ISIT)
   date: '2024-07-07'
   link: https://doi.org/g8qj6h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2407.07060
+  title: Imaging-based Quantum Optomechanics
+  authors:
+  - Christian M. Pluchar
+  - Wenhua He
+  - Jack Manley
+  - Nicolas Deshler
+  - Saikat Guha
+  - Dalziel J. Wilson
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj53
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2407.06302
+  title: Towards quantum-enhanced long-baseline optical/near-IR interferometry
+  authors:
+  - Jayadev K. Rajagopal
+  - Ryan M. Lau
+  - Isack Padilla
+  - Stephen T. Ridgway
+  - Chaohan Cui
+  - Brittany McClinton
+  - Aqil Sajjad
+  - Stuartt Corder
+  - Mark Rawlings
+  - Fredrik Rantakyro
+  - J. Gabriel Richardson
+  - Amit Ashok
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41550-024-02325-5
+  title: 'Publisher Correction: Charting quantum horizons to establish a roadmap for
+    microarcsecond astronomy'
+  authors:
+  - Ryan M. Lau
+  - Amit Ashok
+  - Julie Emms
+  - Douglas R. Gies
+  - Saikat Guha
+  - Zachary Hartman
+  - Brittany McClinton
+  - John Monnier
+  - Jayadev K. Rajagopal
+  - J. Gabriel Richardson
+  - Stephen T. Ridgway
+  - Joel Sanchez-Bermudez
+  - Gail Schaefer
+  - Brian J. Smith
+  - Aziza Suleymanzade
+  publisher: Nature Astronomy
+  date: '2024-06-28'
+  link: https://doi.org/g8qj6m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2406.16789
+  title: Quantum resolution limit of long-baseline imaging using distributed entanglement
+  authors:
+  - Isack Padilla
+  - Aqil Sajjad
+  - Babak N. Saif
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2406.04272
+  title: Entangling Quantum Memories at Channel Capacity
+  authors:
+  - Prajit Dhara
+  - Liang Jiang
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2406.04275
+  title: Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories
+  authors:
+  - Prajit Dhara
+  - Liang Jiang
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2406.02427
+  title: Bipartite entanglement of noisy stabilizer states through the lens of stabilizer
+    codes
+  authors:
+  - Kenneth Goodenough
+  - Aqil Sajjad
+  - Eneet Kaur
+  - Saikat Guha
+  - Don Towsley
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41550-024-02297-6
+  title: Charting quantum horizons to establish a roadmap for microarcsecond astronomy
+  authors:
+  - Ryan M. Lau
+  - Amit Ashok
+  - Julie Emms
+  - Douglas R. Gies
+  - Saikat Guha
+  - Zachary Hartman
+  - Brittany McClinton
+  - John Monnier
+  - Jayadev K. Rajagopal
+  - J. Gabriel Richardson
+  - Stephen T. Ridgway
+  - Joel Sanchez-Bermudez
+  - Gail Schaefer
+  - Brian J. Smith
+  - Aziza Suleymanzade
+  publisher: Nature Astronomy
+  date: '2024-05-30'
+  link: https://doi.org/g8qj6s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/mnet.2024.3403805
+  title: Quantum Network Tomography
+  authors:
+  - Matheus Guedes de Andrade
+  - Jake Navas
+  - Saikat Guha
+  - "In\xE8s Monta\xF1o"
+  - Michael Raymer
+  - Brian Smith
+  - Don Towsley
+  publisher: IEEE Network
+  date: '2024-09-01'
+  link: https://doi.org/gvbmkx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2405.11396
+  title: Quantum Network Tomography
+  authors:
+  - Matheus Guedes de Andrade
+  - Jake Navas
+  - Saikat Guha
+  - "In\xE8s Monta\xF1o"
+  - Michael Raymer
+  - Brian Smith
+  - Don Towsley
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2404.09014
+  title: Lower bounds on bipartite entanglement in noisy graph states
+  authors:
+  - Aqil Sajjad
+  - Eneet Kaur
+  - Kenneth Goodenough
+  - Don Towsley
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/jsac.2024.3380097
+  title: Maximizing Entanglement Rates via Efficient Memory Management in Flexible
+    Quantum Switches
+  authors:
+  - Panagiotis Promponas
+  - "V\xEDctor Valls"
+  - Saikat Guha
+  - Leandros Tassiulas
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2024-07-01'
+  link: https://doi.org/gvbmkt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.3001998
+  title: Towards imaging-based quantum optomechanics
+  authors:
+  - Christian M. Pluchar
+  - Wenhua He
+  - Morgan Choi
+  - Jack Manley
+  - Nico Deshler
+  - Saikat Guha
+  - Dalziel J. Wilson
+  publisher: Quantum Sensing, Imaging, and Precision Metrology II
+  date: '2024-03-13'
+  link: https://doi.org/g8qj6w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tqe.2024.3366696
+  title: On the Bipartite Entanglement Capacity of Quantum Networks
+  authors:
+  - Gayane Vardoyan
+  - Emily van Milligen
+  - Saikat Guha
+  - Stephanie Wehner
+  - Don Towsley
+  publisher: IEEE Transactions on Quantum Engineering
+  date: '2024-01-01'
+  link: https://doi.org/gvbmkw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevresearch.6.013212
+  title: Quantum limits of parameter estimation in long-baseline imaging
+  authors:
+  - Aqil Sajjad
+  - Michael R. Grace
+  - Saikat Guha
+  publisher: Physical Review Research
+  date: '2024-02-27'
+  link: https://doi.org/gvbmkv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2402.00731
+  title: Resource-efficient and loss-aware photonic graph state preparation using
+    an array of quantum emitters, and application to all-photonic quantum repeaters
+  authors:
+  - Eneet Kaur
+  - Ashlesha Patil
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/ol.512320
+  title: Experimental demonstration of quantum-inspired optical symmetric hypothesis
+    testing
+  authors:
+  - S. A. Wadood
+  - K. R. Sethuraj
+  - Kevin Liang
+  - Michael R. Grace
+  - Gavin La Rue
+  - Saikat Guha
+  - A. N. Vamivakas
+  publisher: Optics Letters
+  date: '2024-01-31'
+  link: https://doi.org/g8qj6z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2402.00259
+  title: Optimum classical beam position sensing
+  authors:
+  - Wenhua He
+  - Christos N. Gagatsos
+  - Dalziel J. Wilson
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj62
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevresearch.6.013055
+  title: Phonon-induced decoherence in color-center qubits
+  authors:
+  - Prajit Dhara
+  - Saikat Guha
+  publisher: Physical Review Research
+  date: '2024-01-16'
+  link: https://doi.org/g4m9w3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cosi.2024.cf1b.3
+  title: Experimental Demonstration of a Quantum-Optimal Direct Imaging Coronagraph
+  authors:
+  - Nico Deshler
+  - Itay Ozer
+  - Amit Ashok
+  - Saikat Guha
+  publisher: Optica Imaging Congress 2024 (3D, AOMS, COSI, ISA, pcAOP)
+  date: '2024-01-01'
+  link: https://doi.org/g8qj63
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/quantum.2024.qth3a.20
+  title: Entangling Quantum Memories at High Rate using Gottesman-Kitaev-Preskill
+    Qudits
+  authors:
+  - Prajit Dhara
+  - Liang Jiang
+  - Saikat Guha
+  publisher: Quantum 2.0 Conference and Exhibition
+  date: '2024-01-01'
+  link: https://doi.org/g8qj64
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/quantum.2024.qm5a.4
+  title: All-photonic GKP-qubit repeater using analog-information-assisted multiplexed
+    entanglement ranking
+  authors:
+  - Filip Rozpedek
+  - Kaushik P. Seshadreesan
+  - Paul Polakos
+  - Liang Jiang
+  - Saikat Guha
+  publisher: Quantum 2.0 Conference and Exhibition
+  date: '2024-01-01'
+  link: https://doi.org/g8qj65
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cleo_fs.2024.ff1h.5
+  title: All-photonic GKP-qubit repeater using analog-information-assisted multiplexed
+    entanglement ranking
+  authors:
+  - Filip Rozpedek
+  - Kaushik P. Seshadreesan
+  - Paul Polakos
+  - Liang Jiang
+  - Saikat Guha
+  publisher: CLEO 2024
+  date: '2024-01-01'
+  link: https://doi.org/g8qj66
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2312.15623
+  title: Classical capacity of quantum non-Gaussian attenuator and amplifier channels
+  authors:
+  - Zacharie Van Herstraeten
+  - Saikat Guha
+  - Nicolas J. Cerf
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj67
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2312.02066
+  title: Majorization theoretical approach to entanglement enhancement via local filtration
+  authors:
+  - Zacharie Van Herstraeten
+  - Nicolas J. Cerf
+  - Saikat Guha
+  - Christos N. Gagatsos
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj68
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ipc57732.2023.10360759
+  title: Spread-photon architecture for quantum-secure communications
+  authors:
+  - Michael S. Bullock
+  - Wesley Webb
+  - Samuel H. Knarr
+  - Timothy C. Burt
+  - James A. Drakes
+  - Victor G. Bucklew
+  - Saikat Guha
+  - Boulat A. Bash
+  publisher: 2023 IEEE Photonics Conference (IPC)
+  date: '2023-11-12'
+  link: https://doi.org/g8qj69
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/milcom58377.2023.10356367
+  title: Spread Photon Transceiver for Quantum Secure Communications
+  authors:
+  - Wesley Webb
+  - Michael S. Bullock
+  - Samuel H. Knarr
+  - Timothy C. Burt
+  - Jim A. Drakes
+  - Saikat Guha
+  - Boulat A. Bash
+  - Victor G. Bucklew
+  publisher: MILCOM 2023 - 2023 IEEE Military Communications Conference (MILCOM)
+  date: '2023-10-30'
+  link: https://doi.org/g8qj7b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2310.05889
+  title: 'Superadditive Communication with the Green Machine: A Practical Demonstration
+    of Nonlocality without Entanglement'
+  authors:
+  - Chaohan Cui
+  - Jack Postlewaite
+  - Babak N. Saif
+  - Linran Fan
+  - Saikat Guha
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevresearch.5.043033
+  title: Bayesian minimum mean square error for transmissivity sensing
+  authors:
+  - Boyu Zhou
+  - Boulat A. Bash
+  - Saikat Guha
+  - Christos N. Gagatsos
+  publisher: Physical Review Research
+  date: '2023-10-11'
+  link: https://doi.org/g8qj7d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevresearch.5.043056
+  title: "All-photonic Gottesman-Kitaev-Preskill\u2013qubit repeater using analog-information-assisted\
+    \ multiplexed entanglement ranking"
+  authors:
+  - "Filip Rozp\u0119dek"
+  - Kaushik P. Seshadreesan
+  - Paul Polakos
+  - Liang Jiang
+  - Saikat Guha
+  publisher: Physical Review Research
+  date: '2023-10-18'
+  link: https://doi.org/g8qj7f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevresearch.5.033149
+  title: Entangling quantum memories via heralded photonic Bell measurement
+  authors:
+  - Prajit Dhara
+  - Dirk Englund
+  - Saikat Guha
+  publisher: Physical Review Research
+  date: '2023-09-01'
+  link: https://doi.org/gvbmkz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2308.15028
+  title: Entanglement Routing over Networks with Time Multiplexed Repeaters
+  authors:
+  - Emily A Van Milligen
+  - Eliana Jacobson
+  - Ashlesha Patil
+  - Gayane Vardoyan
+  - Don Towsley
+  - Saikat Guha
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2308.07262
+  title: Detecting changes to sub-diffraction objects with quantum-optimal speed and
+    accuracy
+  authors:
+  - Michael R Grace
+  - Saikat Guha
+  - Zachary Dutton
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2308.01293
+  title: Bayesian quantum phase estimation with fixed photon states
+  authors:
+  - Boyu Zhou
+  - Saikat Guha
+  - Christos N. Gagatsos
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2307.06492
+  title: Universal Quantum Walk Control Plane for Quantum Networks
+  authors:
+  - Matheus Guedes de Andrade
+  - Nitish K. Panigrahy
+  - Wenhan Dai
+  - Saikat Guha
+  - Don Towsley
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2307.04477
+  title: On the Bipartite Entanglement Capacity of Quantum Networks
+  authors:
+  - Gayane Vardoyan
+  - Emily van Milligen
+  - Saikat Guha
+  - Stephanie Wehner
+  - Don Towsley
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2306.03319
+  title: Entanglement distribution in two-dimensional square grid network
+  authors:
+  - Eneet Kaur
+  - Saikat Guha
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevapplied.19.064015
+  title: Transceiver Designs Approaching the Entanglement-Assisted Communication Capacity
+  authors:
+  - Ali Cox
+  - Quntao Zhuang
+  - Christos N. Gagatsos
+  - Boulat Bash
+  - Saikat Guha
+  publisher: Physical Review Applied
+  date: '2023-06-05'
+  link: https://doi.org/gvbmk3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/2058-9565/acd13f
+  title: Entanglement-assisted multi-aperture pulse-compression radar for angle resolving
+    detection
+  authors:
+  - Bo-Han Wu
+  - Saikat Guha
+  - Quntao Zhuang
+  publisher: Quantum Science and Technology
+  date: '2023-05-16'
+  link: https://doi.org/g8qj7p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2305.05049
+  title: Phonon-Induced Decoherence in Color-Center Qubits
+  authors:
+  - Prajit Dhara
+  - Saikat Guha
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2305.03848
+  title: Quantum limits of parameter estimation in long-baseline imaging
+  authors:
+  - Aqil Sajjad
+  - Michael R Grace
+  - Saikat Guha
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevapplied.19.054029
+  title: Zero-Added-Loss Entangled-Photon Multiplexing for Ground- and Space-Based
+    Quantum Networks
+  authors:
+  - Kevin C. Chen
+  - Prajit Dhara
+  - Mikkel Heuck
+  - Yuan Lee
+  - Wenhan Dai
+  - Saikat Guha
+  - Dirk Englund
+  publisher: Physical Review Applied
+  date: '2023-05-09'
+  link: https://doi.org/g4m9w5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2304.05539
+  title: Bayesian minimum mean square error for transmissivity sensing
+  authors:
+  - Boyu Zhou
+  - Boulat A. Bash
+  - Saikat Guha
+  - Christos N. Gagatsos
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2303.14923
+  title: All-photonic GKP-qubit repeater using analog-information-assisted multiplexed
+    entanglement ranking
+  authors:
+  - "Filip Rozp\u0119dek"
+  - Kaushik P. Seshadreesan
+  - Paul Polakos
+  - Liang Jiang
+  - Saikat Guha
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2303.03453
+  title: Entangling Quantum Memories via Heralded Photonic Bell Measurement
+  authors:
+  - Prajit Dhara
+  - Dirk Englund
+  - Saikat Guha
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/qce57702.2023.00131
+  title: Trapped Ion Quantum Repeaters with Entanglement Distillation based on Quantum
+    LDPC Codes
+  authors:
+  - Ann Kang
+  - Saikat Guha
+  - Narayanan Rengaswamy
+  - Kaushik P. Seshadreesan
+  publisher: 2023 IEEE International Conference on Quantum Computing and Engineering
+    (QCE)
+  date: '2023-09-17'
+  link: https://doi.org/g8qj7w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/qce57702.2023.00130
+  title: Distribution of entanglement in two-dimensional square grid network
+  authors:
+  - Eneet Kaur
+  - Saikat Guha
+  publisher: 2023 IEEE International Conference on Quantum Computing and Engineering
+    (QCE)
+  date: '2023-09-17'
+  link: https://doi.org/g8qj7x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/quantum.2023.qm4c.7
+  title: Entangling Quantum Memories via Heralded Photonic Bell Measurement
+  authors:
+  - Prajit Dhara
+  - Dirk R. Englund
+  - Saikat Guha
+  publisher: Optica Quantum 2.0 Conference and Exhibition
+  date: '2023-01-01'
+  link: https://doi.org/g8qj7z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/quantum.2023.qtu3a.24
+  title: Realization of a Modular Super-Additive Optical Receiver
+  authors:
+  - Jack Postlewaite
+  - Chaohan Cui
+  - Samar Choura
+  - YiYun Wu
+  - Babak Saif
+  - Linran Fan
+  - Saikat Guha
+  publisher: Optica Quantum 2.0 Conference and Exhibition
+  date: '2023-01-01'
+  link: https://doi.org/g8qj72
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/quantum.2023.qtu3a.30
+  title: Noise Modeling for Entanglement-Swapping Quantum Networks
+  authors:
+  - Spencer J. Johnson
+  - Prajit Dhara
+  - Alexander Lohrmann
+  - Makan Mohageg
+  - Saikat Guha
+  - Paul G. Kwiat
+  publisher: Optica Quantum 2.0 Conference and Exhibition
+  date: '2023-01-01'
+  link: https://doi.org/g8qj73
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cosi.2023.cw4d.6
+  title: Detecting Changes to Sub-Diffraction Objects with Quantum-Optimal Speed and
+    Accuracy
+  authors:
+  - Michael R Grace
+  - Saikat Guha
+  - Zachary Dutton
+  publisher: Optica Imaging Congress (3D, COSI, DH, FLatOptics, IS, pcAOP)
+  date: '2023-01-01'
+  link: https://doi.org/g8qj74
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/fio.2023.fth3d.5
+  title: Transverse Displacement Sensing with Optimal Structured Illumination
+  authors:
+  - Wenhua He
+  - Christian M. Pluchar
+  - Itay Ozer
+  - Allison Rubenok
+  - Dalziel J. Wilson
+  - Saikat Guha
+  publisher: Frontiers in Optics + Laser Science 2023 (FiO, LS)
+  date: '2023-01-01'
+  link: https://doi.org/g8qj75
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41377-022-01039-5
+  title: Quantum receiver enhanced by adaptive learning
+  authors:
+  - Chaohan Cui
+  - William Horrocks
+  - Shuhong Hao
+  - Saikat Guha
+  - Nasser Peyghambarian
+  - Quntao Zhuang
+  - Zheshen Zhang
+  publisher: 'Light: Science &amp; Applications'
+  date: '2022-12-08'
+  link: https://doi.org/grghfr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2212.01784
+  title: On the Analysis of a Multipartite Entanglement Distribution Switch
+  authors:
+  - Philippe Nain
+  - Gayane Vardoyan
+  - Saikat Guha
+  - Don Towsley
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj76
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.106.062611
+  title: Supporting multiple entanglement flows through a continuous-variable quantum
+    repeater
+  authors:
+  - Ian J. Tillman
+  - Allison Rubenok
+  - Saikat Guha
+  - Kaushik P. Seshadreesan
+  publisher: Physical Review A
+  date: '2022-12-16'
+  link: https://doi.org/g8qj77
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/jstsp.2022.3222680
+  title: Quantum-Enhanced Transmittance Sensing
+  authors:
+  - Zihao Gong
+  - Nathaniel Rodriguez
+  - Christos N. Gagatsos
+  - Saikat Guha
+  - Boulat A. Bash
+  publisher: IEEE Journal of Selected Topics in Signal Processing
+  date: '2023-03-01'
+  link: https://doi.org/gvbmk5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/itw54588.2022.9965836
+  title: Perturbation Theory for Quantum Information
+  authors:
+  - Michael R. Grace
+  - Saikat Guha
+  publisher: 2022 IEEE Information Theory Workshop (ITW)
+  date: '2022-11-01'
+  link: https://doi.org/g8qj78
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevlett.129.180502
+  title: Identifying Objects at the Quantum Limit for Superresolution Imaging
+  authors:
+  - Michael R. Grace
+  - Saikat Guha
+  publisher: Physical Review Letters
+  date: '2022-10-25'
+  link: https://doi.org/g8qj79
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2210.11465
+  title: Measurement-based Quantum Computation as a Tangram Puzzle
+  authors:
+  - Ashlesha Patil
+  - Yosef P. Jacobson
+  - Don Towsley
+  - Saikat Guha
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/jstsp.2022.3214774
+  title: Quantum-Inspired Multi-Parameter Adaptive Bayesian Estimation for Sensing
+    and Imaging
+  authors:
+  - Kwan Kit Lee
+  - Christos N. Gagatsos
+  - Saikat Guha
+  - Amit Ashok
+  publisher: IEEE Journal of Selected Topics in Signal Processing
+  date: '2023-03-01'
+  link: https://doi.org/gq5p7j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.106.032613
+  title: Demonstration of a quantum advantage by a joint detection receiver for optical
+    communication using quantum belief propagation on a trapped-ion device
+  authors:
+  - Conor Delaney
+  - Kaushik P. Seshadreesan
+  - Ian MacCormack
+  - Alexey Galda
+  - Saikat Guha
+  - Prineha Narang
+  publisher: Physical Review A
+  date: '2022-09-28'
+  link: https://doi.org/g8qj8c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2208.07979
+  title: Transceiver designs to attain the entanglement assisted communications capacity
+  authors:
+  - Ali Cox
+  - Quntao Zhuang
+  - Christos Gagatsos
+  - Boulat Bash
+  - Saikat Guha
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2208.06447
+  title: Quantum-Enhanced Transmittance Sensing
+  authors:
+  - Zihao Gong
+  - Nathaniel Rodriguez
+  - Christos N. Gagatsos
+  - Saikat Guha
+  - Boulat A. Bash
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2207.10881
+  title: Entanglement-assisted multi-aperture pulse-compression radar for angle resolving
+    detection
+  authors:
+  - Bo-Han Wu
+  - Saikat Guha
+  - Quntao Zhuang
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevlett.129.010501
+  title: Demonstration of Entanglement-Enhanced Covert Sensing
+  authors:
+  - Shuhong Hao
+  - Haowei Shi
+  - Christos N. Gagatsos
+  - Mayank Mishra
+  - Boulat Bash
+  - Ivan Djordjevic
+  - Saikat Guha
+  - Quntao Zhuang
+  - Zheshen Zhang
+  publisher: Physical Review Letters
+  date: '2022-06-27'
+  link: https://doi.org/g8qj8h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.26226/m.6275705966d5dcf63a31146f
+  title: Multiplexed quantum repeaters based on dual-species trapped-ion systems
+  authors:
+  - Kaushik Parasuram Seshadreesan
+  - Prajit Dhara
+  - Norbert Linke
+  - Edo Waks
+  - Saikat Guha
+  publisher: Morressier
+  date: '2022-06-09'
+  link: https://doi.org/g8qj8j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2206.03670
+  title: Zero-Added-Loss Entangled Photon Multiplexing for Ground- and Space-Based
+    Quantum Networks
+  authors:
+  - Kevin C. Chen
+  - Prajit Dhara
+  - Mikkel Heuck
+  - Yuan Lee
+  - Wenhan Dai
+  - Saikat Guha
+  - Dirk Englund
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2206.02920
+  title: Quantum Network Tomography with Multi-party State Distribution
+  authors:
+  - Matheus Guedes de Andrade
+  - "Jaime D\xEDas"
+  - Jake Navas
+  - Saikat Guha
+  - "In\xE8s Monta\xF1o"
+  - Brian Smith
+  - Michael Raymer
+  - Don Towsley
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2205.12890
+  title: Demonstration of Entanglement-Enhanced Covert Sensing
+  authors:
+  - Shuhong Hao
+  - Haowei Shi
+  - Christos N. Gagatsos
+  - Mayank Mishra
+  - Boulat Bash
+  - Ivan Djordjevic
+  - Saikat Guha
+  - Quntao Zhuang
+  - Zheshen Zhang
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2205.12354
+  title: Optimal Entanglement Distribution using Satellite Based Quantum Networks
+  authors:
+  - Nitish K. Panigrahy
+  - Prajit Dhara
+  - Don Towsley
+  - Saikat Guha
+  - Leandros Tassiulas
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2205.07755
+  title: Quantum Receiver Enhanced by Adaptive Learning
+  authors:
+  - Chaohan Cui
+  - William Horrocks
+  - Shuhong Hao
+  - Saikat Guha
+  - N. Peyghambarian
+  - Quntao Zhuang
+  - Zheshen Zhang
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41534-022-00536-0
+  title: Entanglement generation in a quantum network at distance-independent rate
+  authors:
+  - Ashlesha Patil
+  - Mihir Pant
+  - Dirk Englund
+  - Don Towsley
+  - Saikat Guha
+  publisher: npj Quantum Information
+  date: '2022-05-06'
+  link: https://doi.org/g8qj8r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.105.052416
+  title: Coherent manipulation of graph states composed of finite-energy Gottesman-Kitaev-Preskill-encoded
+    qubits
+  authors:
+  - Kaushik P. Seshadreesan
+  - Prajit Dhara
+  - Ashlesha Patil
+  - Liang Jiang
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2022-05-11'
+  link: https://doi.org/g4m9w8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3529113.3529141
+  title: On the Capacity Region of Bipartite and Tripartite Entanglement Switching
+  authors:
+  - Gayane Vardoyan
+  - Saikat Guha
+  - Philippe Nain
+  - Don Towsley
+  publisher: ACM SIGMETRICS Performance Evaluation Review
+  date: '2022-03-22'
+  link: https://doi.org/g8qj8s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2203.07965
+  title: Supporting multiple entanglement flows through a continuous-variable quantum
+    repeater
+  authors:
+  - Ian J. Tillman
+  - Allison Rubenok
+  - Saikat Guha
+  - Kaushik P. Seshadreesan
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.2616955
+  title: 'The Center for Quantum Networks, part I: building a quantum network using
+    spins and photons'
+  authors:
+  - Dirk R. Englund
+  - Saikat Guha
+  publisher: Quantum Computing, Communication, and Simulation II
+  date: '2022-03-09'
+  link: https://doi.org/g8qj8v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.105.032446
+  title: Demonstration of quantum-limited discrimination of multicopy pure versus
+    mixed states
+  authors:
+  - Arunkumar Jagannathan
+  - Michael Grace
+  - Olivia Brasher
+  - Jeffrey H. Shapiro
+  - Saikat Guha
+  - Jonathan L. Habif
+  publisher: Physical Review A
+  date: '2022-03-25'
+  link: https://doi.org/gvbmk6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevapplied.17.034071
+  title: Heralded Multiplexed High-Efficiency Cascaded Source of Dual-Rail Entangled
+    Photon Pairs Using Spontaneous Parametric Down-Conversion
+  authors:
+  - Prajit Dhara
+  - Spencer J. Johnson
+  - Christos N. Gagatsos
+  - Paul G. Kwiat
+  - Saikat Guha
+  publisher: Physical Review Applied
+  date: '2022-03-29'
+  link: https://doi.org/g4m9xc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2202.09980
+  title: Quantum Multi-Parameter Adaptive Bayesian Estimation and Application to Super-Resolution
+    Imaging
+  authors:
+  - Kwan Kit Lee
+  - Christos Gagatsos
+  - Saikat Guha
+  - Amit Ashok
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/g8qj8w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.105.022623
+  title: Multiplexed quantum repeaters based on dual-species trapped-ion systems
+  authors:
+  - Prajit Dhara
+  - Norbert M. Linke
+  - Edo Waks
+  - Saikat Guha
+  - Kaushik P. Seshadreesan
+  publisher: Physical Review A
+  date: '2022-02-25'
+  link: https://doi.org/g4m9xg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/qce53715.2022.00124
+  title: Measurement-Based Quantum Computing as a Tangram Puzzle
+  authors:
+  - Ashlesha Patil
+  - Yosef Jacobson
+  - Don Towsley
+  - Saikat Guha
+  publisher: 2022 IEEE International Conference on Quantum Computing and Engineering
+    (QCE)
+  date: '2022-09-01'
+  link: https://doi.org/g8qj8x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/qce53715.2022.00061
+  title: Quantum Network Tomography with Multi-party State Distribution
+  authors:
+  - Matheus Guedes De Andrade
+  - Jaime Diaz
+  - Jake Navas
+  - Saikat Guha
+  - Ines Montano
+  - Brian Smith
+  - Michael Raymer
+  - Don Towsley
+  publisher: 2022 IEEE International Conference on Quantum Computing and Engineering
+    (QCE)
+  date: '2022-09-01'
+  link: https://doi.org/g8qj8z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11134-021-09731-w
+  title: Analysis of a tripartite entanglement distribution switch
+  authors:
+  - Philippe Nain
+  - Gayane Vardoyan
+  - Saikat Guha
+  - Don Towsley
+  publisher: Queueing Systems
+  date: '2022-01-20'
+  link: https://doi.org/g8qj82
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cleo_qels.2022.ff4a.2
+  title: Quantum Receiver Enhanced by Adaptive Learning
+  authors:
+  - Chaohan Cui
+  - William Horrocks
+  - Saikat Guha
+  - N. Peyghambarian
+  - Quntao Zhuang
+  - Zheshen Zhang
+  publisher: Conference on Lasers and Electro-Optics
+  date: '2022-01-01'
+  link: https://doi.org/g8qj83
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cosi.2022.cw3b.2
+  title: Quantum-limited Optical Super-resolution Imaging of Multiple Point-sources
+  authors:
+  - Kwan Kit Lee
+  - Christos Gagatsos
+  - Saikat Guha
+  - Amit Ashok
+  publisher: Imaging and Applied Optics Congress 2022 (3D, AOA, COSI, ISA, pcAOP)
+  date: '2022-01-01'
+  link: https://doi.org/g8qj84
   plugin: sources.py
   file: sources.yaml
