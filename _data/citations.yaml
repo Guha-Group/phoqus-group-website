@@ -6263,3 +6263,371 @@
   link: https://doi.org/bdkh22
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/arxiv.1001.2447
+  title: 'PPM demodulation: On approaching fundamental limits of optical communications'
+  authors:
+  - Saikat Guha
+  - Jonathan L. Habif
+  - Masahiro Takeoka
+  publisher: arXiv
+  date: '2010-01-01'
+  link: https://doi.org/g8qkhv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-88-470-1501-2_5
+  title: Economic Applications of Quantum Information Processing
+  authors:
+  - Tad Hogg
+  - David A. Fattal
+  - Kay-Yut Chen
+  - Saikat Guha
+  publisher: New Economic Windows
+  date: '2010-01-01'
+  link: https://doi.org/cvwdw5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cleo.2010.ctupp7
+  title: Optical Resolution Enhancement with Phase-Sensitive Preamplification
+  authors:
+  - Oo-Kaw Lim
+  - Gideon Alon
+  - Zachary Dutton
+  - Saikat Guha
+  - Michael Vasilyev
+  - Prem Kumar
+  publisher: Conference on Lasers and Electro-Optics 2010
+  date: '2010-01-01'
+  link: https://doi.org/g8qkhw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.0911.0950
+  title: Gaussian-state quantum-illumination receivers for target detection
+  authors:
+  - Saikat Guha
+  - Baris I. Erkmen
+  publisher: arXiv
+  date: '2009-01-01'
+  link: https://doi.org/g8qkhx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.80.052310
+  title: Gaussian-state quantum-illumination receivers for target detection
+  authors:
+  - Saikat Guha
+  - Baris I. Erkmen
+  publisher: Physical Review A
+  date: '2009-11-10'
+  link: https://doi.org/bjdgtc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2009.5205594
+  title: Receiver design to harness quantum illumination advantage
+  authors:
+  - Saikat Guha
+  publisher: 2009 IEEE International Symposium on Information Theory
+  date: '2009-06-01'
+  link: https://doi.org/fgqxzb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.0902.2932
+  title: Receiver Design to Harness Quantum Illumination Advantage
+  authors:
+  - Saikat Guha
+  publisher: arXiv
+  date: '2009-01-01'
+  link: https://doi.org/g8qkhz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevlett.101.253601
+  title: Quantum Illumination with Gaussian States
+  authors:
+  - Si-Hui Tan
+  - Baris I. Erkmen
+  - Vittorio Giovannetti
+  - Saikat Guha
+  - Seth Lloyd
+  - Lorenzo Maccone
+  - Stefano Pirandola
+  - Jeffrey H. Shapiro
+  publisher: Physical Review Letters
+  date: '2008-12-18'
+  link: https://doi.org/cpvmf4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.0810.0534
+  title: Quantum Illumination with Gaussian States
+  authors:
+  - Si-Hui Tan
+  - Baris I. Erkmen
+  - Vittorio Giovannetti
+  - Saikat Guha
+  - Seth Lloyd
+  - Lorenzo Maccone
+  - Stefano Pirandola
+  - Jeffrey H. Shapiro
+  publisher: arXiv
+  date: '2008-01-01'
+  link: https://doi.org/g8qkh2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/s0219749908004183
+  title: 'QUANTUM AUCTIONS USING ADIABATIC EVOLUTION: THE CORRUPT AUCTIONEER AND CIRCUIT
+    IMPLEMENTATIONS'
+  authors:
+  - SAIKAT GUHA
+  - TAD HOGG
+  - DAVID FATTAL
+  - TIMOTHY SPILLER
+  - RAYMOND G. BEAUSOLEIL
+  publisher: International Journal of Quantum Information
+  date: '2008-08-01'
+  link: https://doi.org/bmqgnn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2008.4594954
+  title: Capacity of the bosonic wiretap channel and the Entropy Photon-Number Inequality
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Baris I. Erkmen
+  publisher: 2008 IEEE International Symposium on Information Theory
+  date: '2008-07-01'
+  link: https://doi.org/bnqkfr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.0801.0841
+  title: Capacity of the Bosonic Wiretap Channel and the Entropy Photon-Number Inequality
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Baris I. Erkmen
+  publisher: arXiv
+  date: '2008-01-01'
+  link: https://doi.org/g8qkh3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ita.2008.4601037
+  title: The Entropy Photon-Number Inequality and its consequences
+  authors:
+  - Saikat Guha
+  - Baris I. Erkmen
+  - Jeffrey H. Shapiro
+  publisher: 2008 Information Theory and Applications Workshop
+  date: '2008-01-01'
+  link: https://doi.org/c52zx3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/icqi.2008.qtub6
+  title: 'Quantum Illumination: Enhanced Background-Limited Target Detection by Means
+    of Entanglement'
+  authors:
+  - Si-Hui Tan
+  - Baris I. Erkmen
+  - Vittorio Giovannetti
+  - Saikat Guha
+  - Seth Lloyd
+  - Lorenzo Maccone
+  - Jeffrey H. Shapiro
+  publisher: International Conference on Quantum Information
+  date: '2008-01-01'
+  link: https://doi.org/g8qkh4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.0710.5666
+  title: The Entropy Photon-Number Inequality and its Consequences
+  authors:
+  - Saikat Guha
+  - Baris I. Erkmen
+  - Jeffrey H. Shapiro
+  publisher: arXiv
+  date: '2007-01-01'
+  link: https://doi.org/g8qkh5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.76.032303
+  title: Classical capacity of bosonic broadcast communication and a minimum output
+    entropy conjecture
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Baris I. Erkmen
+  publisher: Physical Review A
+  date: '2007-09-04'
+  link: https://doi.org/bgm579
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.0707.2051
+  title: 'Quantum Auctions using Adiabatic Evolution: The Corrupt Auctioneer and Circuit
+    Implementations'
+  authors:
+  - Saikat Guha
+  - Tad Hogg
+  - David Fattal
+  - Timothy Spiller
+  - Raymond G. Beausoleil
+  publisher: arXiv
+  date: '2007-01-01'
+  link: https://doi.org/g8qkh6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.0706.3416
+  title: Classical capacity of bosonic broadcast communication and a new minimum output
+    entropy conjecture
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Baris I. Erkmen
+  publisher: arXiv
+  date: '2007-01-01'
+  link: https://doi.org/g8qkh7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2007.4557498
+  title: Classical Information Capacity of the Bosonic Broadcast Channel
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  publisher: 2007 IEEE International Symposium on Information Theory
+  date: '2007-06-01'
+  link: https://doi.org/bs5xdr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tit.2006.890698
+  title: Convolutional and Tail-Biting Quantum Error-Correcting Codes
+  authors:
+  - G. David Forney
+  - Markus Grassl
+  - Saikat Guha
+  publisher: IEEE Transactions on Information Theory
+  date: '2007-03-01'
+  link: https://doi.org/fvd6fq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.quant-ph/0511016
+  title: Convolutional and tail-biting quantum error-correcting codes
+  authors:
+  - G. David Forney,
+  - Markus Grassl
+  - Saikat Guha
+  publisher: arXiv
+  date: '2005-01-01'
+  link: https://doi.org/g8qkh8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.609331
+  title: Classical communication in the presence of quantum Gaussian noise (Invited
+    Paper)
+  authors:
+  - Jeffrey H. Shapiro
+  - Brent J. Yen
+  - Saikat Guha
+  - Baris I. Erkmen
+  publisher: SPIE Proceedings
+  date: '2005-05-23'
+  link: https://doi.org/c8mpkb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/s0219749905000657
+  title: MINIMUM OUTPUT ENTROPY OF A GAUSSIAN BOSONIC CHANNEL
+  authors:
+  - VITTORIO GIOVANNETTI
+  - LORENZO MACCONE
+  - SAIKAT GUHA
+  - SETH LLOYD
+  - JEFFREY H. SHAPIRO
+  - BRENT J. YEN
+  publisher: International Journal of Quantum Information
+  date: '2005-03-01'
+  link: https://doi.org/cmrcwh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.quant-ph/0501099
+  title: Simple Rate-1/3 Convolutional and Tail-Biting Quantum Error-Correcting Codes
+  authors:
+  - G. David Forney,
+  - Saikat Guha
+  publisher: arXiv
+  date: '2005-01-01'
+  link: https://doi.org/g8qkh9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2005.1523495
+  title: Simple rate-1/3 convolutional and tail-biting quantum error-correcting codes
+  authors:
+  - G.D. Forney
+  - S. Guha
+  publisher: Proceedings. International Symposium on Information Theory, 2005. ISIT
+    2005.
+  date: '2005-01-01'
+  link: https://doi.org/c3tzs2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/jon.4.000501
+  title: Ultimate channel capacity of free-space optical communications [Invited]
+  authors:
+  - Jeffrey H. Shapiro
+  - Saikat Guha
+  - Baris I. Erkmen
+  publisher: Journal of Optical Networking
+  date: '2005-01-01'
+  link: https://doi.org/dt4pkh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.1834373
+  title: Minimum Bosonic Channel Output Entropies
+  authors:
+  - Vittorio Giovannetti
+  publisher: AIP Conference Proceedings
+  date: '2004-01-01'
+  link: https://doi.org/dv5kvv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.1834372
+  title: Capacity of Bosonic Communications
+  authors:
+  - Jeffrey H. Shapiro
+  publisher: AIP Conference Proceedings
+  date: '2004-01-01'
+  link: https://doi.org/dmb8pj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.70.032315
+  title: 'Minimum output entropy of bosonic channels: A conjecture'
+  authors:
+  - Vittorio Giovannetti
+  - Saikat Guha
+  - Seth Lloyd
+  - Lorenzo Maccone
+  - Jeffrey H. Shapiro
+  publisher: Physical Review A
+  date: '2004-09-21'
+  link: https://doi.org/dbvcht
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.quant-ph/0404005
+  title: 'Minimum output entropy of bosonic channels: a conjecture'
+  authors:
+  - Vittorio Giovannetti
+  - Saikat Guha
+  - Seth Lloyd
+  - Lorenzo Maccone
+  - Jeffrey H. Shapiro
+  publisher: arXiv
+  date: '2004-01-01'
+  link: https://doi.org/g8qkjb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.quant-ph/0308012
+  title: 'Classical capacity of the lossy bosonic channel: the exact solution'
+  authors:
+  - Vittorio Giovannetti
+  - Saikat Guha
+  - Seth Lloyd
+  - Lorenzo Maccone
+  - Jeffrey H. Shapiro
+  - Horace P. Yuen
+  publisher: arXiv
+  date: '2003-01-01'
+  link: https://doi.org/g8qkjc
+  plugin: sources.py
+  file: sources.yaml
