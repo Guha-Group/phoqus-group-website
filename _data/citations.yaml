@@ -4399,3 +4399,616 @@
   link: https://doi.org/gq38cp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1103/physreva.99.032302
+  title: Boosting linear-optical Bell measurement success probability with predetection
+    squeezing and imperfect photon-number-resolving detectors
+  authors:
+  - Thomas Kilmer
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2019-03-01'
+  link: https://doi.org/g6dpdb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.99.033847
+  title: Attaining the quantum limit of superresolution in imaging an object's length
+    via predetection spatial-mode sorting
+  authors:
+  - Zachary Dutton
+  - Ronan Kerviche
+  - Amit Ashok
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2019-03-25'
+  link: https://doi.org/gfxjg4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1902.01460
+  title: Efficient representation of Gaussian states for multi-mode non-Gaussian quantum
+    state engineering via subtraction of arbitrary number of photons
+  authors:
+  - Christos Gagatsos
+  - Saikat Guha
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/g8qkc7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1901.10099
+  title: Asymptotic security of discrete-modulation protocols for continuous-variable
+    quantum key distribution
+  authors:
+  - Eneet Kaur
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/g8qkc8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/allerton.2019.8919793
+  title: Fundamental Limits of Quantum-Secure Covert Communication over Bosonic Channels
+  authors:
+  - Michael S. Bullock
+  - Christos N. Gagatsos
+  - Saikat Guha
+  - Boulat A. Bash
+  publisher: 2019 57th Annual Allerton Conference on Communication, Control, and Computing
+    (Allerton)
+  date: '2019-09-01'
+  link: https://doi.org/g8qkc9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1901.06786
+  title: On the Capacity Region of Bipartite and Tripartite Entanglement Switching
+  authors:
+  - Gayane Vardoyan
+  - Philippe Nain
+  - Saikat Guha
+  - Don Towsley
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/g8qkdb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3308809.3308871
+  title: On a Class of Stochastic Multilayer Networks
+  authors:
+  - Bo Jiang
+  - Philippe Nain
+  - Don Towsley
+  - Saikat Guha
+  publisher: ACM SIGMETRICS Performance Evaluation Review
+  date: '2019-01-17'
+  link: https://doi.org/g8qkdc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1812.10743
+  title: Covert sensing using floodlight illumination
+  authors:
+  - Christos N. Gagatsos
+  - Boulat A. Bash
+  - Animesh Datta
+  - Zheshen Zhang
+  - Saikat Guha
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41534-018-0114-y
+  title: Quantum-optimal detection of one-versus-two incoherent optical sources with
+    arbitrary separation
+  authors:
+  - Xiao-Ming Lu
+  - Hari Krovi
+  - Ranjith Nair
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  publisher: npj Quantum Information
+  date: '2018-12-07'
+  link: https://doi.org/ggrb6g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1812.00355
+  title: Continuous-variable entanglement distillation over a pure loss channel with
+    multiple quantum scissors
+  authors:
+  - Kaushik P. Seshadreesan
+  - Hari Krovi
+  - Saikat Guha
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1811.12393
+  title: Continuous-variable quantum repeater based on quantum scissors and mode multiplexing
+  authors:
+  - Kaushik P. Seshadreesan
+  - Hari Krovi
+  - Saikat Guha
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1809.09264
+  title: Boosting Linear-Optical Bell Measurement Success Probability with Pre-Detection
+    Squeezing and Imperfect Photon-Number-Resolving Detectors
+  authors:
+  - Thomas Kilmer
+  - Saikat Guha
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/twc.2018.2865946
+  title: Covert Wireless Communication With Artificial Noise Generation
+  authors:
+  - Ramin Soltani
+  - Dennis Goeckel
+  - Don Towsley
+  - Boulat A. Bash
+  - Saikat Guha
+  publisher: IEEE Transactions on Wireless Communications
+  date: '2018-11-01'
+  link: https://doi.org/gfpxn3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1808.01302
+  title: Quantum precision of beam pointing
+  authors:
+  - Haoyu Qi
+  - "Kamil Br\xE1dler"
+  - Christian Weedbrook
+  - Saikat Guha
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1807.03650
+  title: On a Class of Stochastic Multilayer Networks
+  authors:
+  - Bo Jiang
+  - Philippe Nain
+  - Don Towsley
+  - Saikat Guha
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/spawc.2018.8445896
+  title: Covert Communications in a Dynamic Interference Environment
+  authors:
+  - Dennis Goeckel
+  - Azadeh Sheikholeslami
+  - Tamara Sobers
+  - Boulat A. Bash
+  - Oon Towsley
+  - Saikat Guha
+  publisher: 2018 IEEE 19th International Workshop on Signal Processing Advances in
+    Wireless Communications (SPAWC)
+  date: '2018-06-01'
+  link: https://doi.org/g8qkdm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2018.8437575
+  title: Noisy Feedback and Loss Unlimited Private Communication
+  authors:
+  - Dawei Ding
+  - Saikat Guha
+  publisher: 2018 IEEE International Symposium on Information Theory (ISIT)
+  date: '2018-06-01'
+  link: https://doi.org/g8qkdn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3219617.3219667
+  title: On a Class of Stochastic Multilayer Networks
+  authors:
+  - Bo Jiang
+  - Philippe Nain
+  - Don Towsley
+  - Saikat Guha
+  publisher: Abstracts of the 2018 ACM International Conference on Measurement and
+    Modeling of Computer Systems
+  date: '2018-06-12'
+  link: https://doi.org/g8qkdp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3292040.3219667
+  title: On a Class of Stochastic Multilayer Networks
+  authors:
+  - Bo Jiang
+  - Philippe Nain
+  - Don Towsley
+  - Saikat Guha
+  publisher: ACM SIGMETRICS Performance Evaluation Review
+  date: '2018-06-12'
+  link: https://doi.org/g8qkdq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3179421
+  title: On a Class of Stochastic Multilayer Networks
+  authors:
+  - Bo Jiang
+  - Philippe Nain
+  - Don Towsley
+  - Saikat Guha
+  publisher: Proceedings of the ACM on Measurement and Analysis of Computing Systems
+  date: '2018-04-03'
+  link: https://doi.org/g8qkdr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/twc.2018.2812881
+  title: Multi-Hop Routing in Covert Wireless Networks
+  authors:
+  - Azadeh Sheikholeslami
+  - Majid Ghaderi
+  - Don Towsley
+  - Boulat A. Bash
+  - Saikat Guha
+  - Dennis Goeckel
+  publisher: IEEE Transactions on Wireless Communications
+  date: '2018-06-01'
+  link: https://doi.org/gdrv7t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1803.04100
+  title: Multi-Hop Routing in Covert Wireless Networks
+  authors:
+  - Azadeh Sheikholeslami
+  - Majid Ghaderi
+  - Don Towsley
+  - Boulat A. Bash
+  - Saikat Guha
+  - Dennis Goeckel
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkds
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1802.02300
+  title: Quantum-optimal detection of one-versus-two incoherent optical sources with
+    arbitrary separation
+  authors:
+  - Xiao-Ming Lu
+  - Hari Krovi
+  - Ranjith Nair
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1801.06602
+  title: Attaining the quantum limit of super resolution in imaging an object's length
+    via pre-detection spatial mode sorting
+  authors:
+  - Zachary Dutton
+  - Ronan Kerviche
+  - Amit Ashok
+  - Saikat Guha
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1801.03996
+  title: Noisy Feedback and Loss Unlimited Private Communication
+  authors:
+  - Dawei Ding
+  - Saikat Guha
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cleo_qels.2018.fth1g.6
+  title: Percolation Based Cluster State Generation by Photon-Mediated Entanglement
+  authors:
+  - Mihir Pant
+  - Hyeongrak Choi
+  - Saikat Guha
+  - Dirk Englund
+  publisher: Conference on Lasers and Electro-Optics
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/ls.2018.lm1b.2
+  title: Quantum-Limited Discrimination between Laser Light and Noise
+  authors:
+  - Jonathan L. Habif
+  - Saikat Guha
+  publisher: Frontiers in Optics / Laser Science
+  date: '2018-01-01'
+  link: https://doi.org/g8qkdz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.96.062306
+  title: Bounding the quantum limits of precision for phase estimation with loss and
+    thermal noise
+  authors:
+  - Christos N. Gagatsos
+  - Boulat A. Bash
+  - Saikat Guha
+  - Animesh Datta
+  publisher: Physical Review A
+  date: '2017-12-04'
+  link: https://doi.org/g8qkd2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/acssc.2017.8335649
+  title: Covert communications on continuous-time channels in the presence of jamming
+  authors:
+  - Tamara V. Sobers
+  - Boulat A. Bash
+  - Saikat Guha
+  - Don Towsley
+  - Dennis Goeckel
+  publisher: 2017 51st Asilomar Conference on Signals, Systems, and Computers
+  date: '2017-10-01'
+  link: https://doi.org/g8qkd3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/acssc.2017.8335648
+  title: Covert active sensing of linear systems
+  authors:
+  - Dennis Goeckel
+  - Boulat A. Bash
+  - Azadeh Sheikholeslami
+  - Saikat Guha
+  - Don Towsley
+  publisher: 2017 51st Asilomar Conference on Signals, Systems, and Computers
+  date: '2017-10-01'
+  link: https://doi.org/g8qkd4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1709.07096
+  title: Covert Wireless Communication with Artificial Noise Generation
+  authors:
+  - Ramin Soltani
+  - Dennis Goeckel
+  - Don Towsley
+  - Boulat Bash
+  - Saikat Guha
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8qkd5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/twc.2017.2720736
+  title: Covert Communication in the Presence of an Uninformed Jammer
+  authors:
+  - Tamara V. Sobers
+  - Boulat A. Bash
+  - Saikat Guha
+  - Don Towsley
+  - Dennis Goeckel
+  publisher: IEEE Transactions on Wireless Communications
+  date: '2017-09-01'
+  link: https://doi.org/gbxf2t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1708.07142
+  title: Routing entanglement in the quantum internet
+  authors:
+  - Mihir Pant
+  - Hari Krovi
+  - Don Towsley
+  - Leandros Tassiulas
+  - Liang Jiang
+  - Prithwish Basu
+  - Dirk Englund
+  - Saikat Guha
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8qkd6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.96.012320
+  title: Capacity of optical communications over a lossy bosonic channel with a receiver
+    employing the most general coherent electro-optic feedback control
+  authors:
+  - Hye Won Chung
+  - Saikat Guha
+  - Lizhong Zheng
+  publisher: Physical Review A
+  date: '2017-07-17'
+  link: https://doi.org/gkp4gf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2017.8007122
+  title: Fundamental limits of quantum-secure covert optical sensing
+  authors:
+  - Boulat A. Bash
+  - Christos N. Gagatsos
+  - Animesh Datta
+  - Saikat Guha
+  publisher: 2017 IEEE International Symposium on Information Theory (ISIT)
+  date: '2017-06-01'
+  link: https://doi.org/g8qkd7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2017.8006658
+  title: A de Bruijn identity for discrete random variables
+  authors:
+  - Oliver Johnson
+  - Saikat Guha
+  publisher: 2017 IEEE International Symposium on Information Theory (ISIT)
+  date: '2017-06-01'
+  link: https://doi.org/g8qkd8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2017.8007045
+  title: Optimal covert communications using pulse-position modulation
+  authors:
+  - Matthieu R. Bloch
+  - Saikat Guha
+  publisher: 2017 IEEE International Symposium on Information Theory (ISIT)
+  date: '2017-06-01'
+  link: https://doi.org/g8qkd9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2017.8006566
+  title: Fundamental limit of resolving two point sources limited by an arbitrary
+    point spread function
+  authors:
+  - Ronan Kerviche
+  - Saikat Guha
+  - Amit Ashok
+  publisher: 2017 IEEE International Symposium on Information Theory (ISIT)
+  date: '2017-06-01'
+  link: https://doi.org/ggrb8t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1704.07292
+  title: Percolation based architecture for cluster state creation using photon-mediated
+    entanglement between atomic memories
+  authors:
+  - Hyeongrak Choi
+  - Mihir Pant
+  - Saikat Guha
+  - Dirk Englund
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8qkfb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1701.07089
+  title: A de Bruijn identity for discrete random variables
+  authors:
+  - Oliver Johnson
+  - Saikat Guha
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8qkfc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1701.06206
+  title: Fundamental limits of quantum-secure covert optical sensing
+  authors:
+  - Boulat A. Bash
+  - Christos N. Gagatsos
+  - Animesh Datta
+  - Saikat Guha
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8qkfd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1701.05518
+  title: Bounding the quantum limits of precision for phase estimation with loss and
+    thermal noise
+  authors:
+  - Christos N. Gagatsos
+  - Boulat A. Bash
+  - Saikat Guha
+  - Animesh Datta
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8qkff
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1701.04913
+  title: Fundamental limit of resolving two point sources limited by an arbitrary
+    point spread function
+  authors:
+  - Ronan Kerviche
+  - Saikat Guha
+  - Amit Ashok
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8qkfg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1701.03775
+  title: Percolation thresholds for photonic quantum computing
+  authors:
+  - Mihir Pant
+  - Don Towsley
+  - Dirk Englund
+  - Saikat Guha
+  publisher: arXiv
+  date: '2017-01-01'
+  link: https://doi.org/g8qkfh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.95.012304
+  title: Rate-distance tradeoff and resource costs for all-optical quantum repeaters
+  authors:
+  - Mihir Pant
+  - Hari Krovi
+  - Dirk Englund
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2017-01-04'
+  link: https://doi.org/g8qkfj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cosi.2017.cw4b.5
+  title: Achieving the Ultimate Limit of Two Point Resolution by Computational Imaging
+  authors:
+  - Ronan Kerviche
+  - Saikat Guha
+  - Amit Ashok
+  publisher: Imaging and Applied Optics 2017 (3D, AIO, COSI, IS, MATH, pcAOP)
+  date: '2017-01-01'
+  link: https://doi.org/gq8t88
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1610.07578
+  title: On capacity of optical communications over a lossy bosonic channel with a
+    receiver employing the most general coherent electro-optic feedback control
+  authors:
+  - Hye Won Chung
+  - Saikat Guha
+  - Lizhong Zheng
+  publisher: arXiv
+  date: '2016-01-01'
+  link: https://doi.org/g8qkfk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1610.00384
+  title: Covert Single-hop Communication in a Wireless Network with Distributed Artificial
+    Noise Generation
+  authors:
+  - Ramin Soltani
+  - Boulat Bash
+  - Dennis Goeckel
+  - Saikat Guha
+  - Don Towsley
+  publisher: arXiv
+  date: '2016-01-01'
+  link: https://doi.org/g8qkfm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1609.00684
+  title: Attaining the quantum limit of passive imaging
+  authors:
+  - Hari Krovi
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  publisher: arXiv
+  date: '2016-01-01'
+  link: https://doi.org/g8qkfn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1608.00698
+  title: Covert Communication in the Presence of an Uninformed Jammer
+  authors:
+  - Tamara V. Sobers
+  - Boulat A. Bash
+  - Saikat Guha
+  - Don Towsley
+  - Dennis Goeckel
+  publisher: arXiv
+  date: '2016-01-01'
+  link: https://doi.org/g8qkfp
+  plugin: sources.py
+  file: sources.yaml
