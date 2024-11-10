@@ -5012,3 +5012,633 @@
   link: https://doi.org/g8qkfp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/tit.2016.2597285
+  title: Superadditivity of Quantum Channel Coding Rate With Finite Blocklength Joint
+    Measurements
+  authors:
+  - Hye Won Chung
+  - Saikat Guha
+  - Lizhong Zheng
+  publisher: IEEE Transactions on Information Theory
+  date: '2016-10-01'
+  link: https://doi.org/f85mnx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2016.7541662
+  title: Covert communication over classical-quantum channels
+  authors:
+  - Azadeh Sheikholeslami
+  - Boulat A. Bash
+  - Don Towsley
+  - Dennis Goeckel
+  - Saikat Guha
+  publisher: 2016 IEEE International Symposium on Information Theory (ISIT)
+  date: '2016-07-01'
+  link: https://doi.org/g8qkfq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2016.7541390
+  title: Thinning, photonic beamsplitting, and a general discrete Entropy power Inequality
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Raul Garcia-Patron Sanchez
+  publisher: 2016 IEEE International Symposium on Information Theory (ISIT)
+  date: '2016-07-01'
+  link: https://doi.org/gkmks6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreve.93.062310
+  title: Spanning connectivity in a multilayer network and its relationship to site-bond
+    percolation
+  authors:
+  - Saikat Guha
+  - Donald Towsley
+  - Philippe Nain
+  - "\xC7a\u011Fatay \xC7apar"
+  - Ananthram Swami
+  - Prithwish Basu
+  publisher: Physical Review E
+  date: '2016-06-14'
+  link: https://doi.org/g8qkfr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1605.07853
+  title: Thinning, photonic beamsplitting, and a general discrete entropy power inequality
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Raul Garcia-Patron Sanchez
+  publisher: arXiv
+  date: '2016-01-01'
+  link: https://doi.org/g8qkfs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1604.08582
+  title: Quantum Key Distribution Using Multiple Gaussian Focused Beams
+  authors:
+  - Boulat A. Bash
+  - Nivedita Chandrasekaran
+  - Jeffrey H. Shapiro
+  - Saikat Guha
+  publisher: arXiv
+  date: '2016-01-01'
+  link: https://doi.org/g8qkft
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00340-015-6297-4
+  title: Practical quantum repeaters with parametric down-conversion sources
+  authors:
+  - Hari Krovi
+  - Saikat Guha
+  - Zachary Dutton
+  - Joshua A. Slater
+  - Christoph Simon
+  - Wolfgang Tittel
+  publisher: Applied Physics B
+  date: '2016-03-01'
+  link: https://doi.org/gnx834
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1603.01353
+  title: Rate-distance tradeoff and resource costs for all-optical quantum repeaters
+  authors:
+  - Mihir Pant
+  - Hari Krovi
+  - Dirk Englund
+  - Saikat Guha
+  publisher: arXiv
+  date: '2016-01-01'
+  link: https://doi.org/g8qkfv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1601.06826
+  title: Covert Communication over Classical-Quantum Channels
+  authors:
+  - Michael S. Bullock
+  - Azadeh Sheikholeslami
+  - Mehrdad Tahmasbi
+  - Robert C. Macdonald
+  - Saikat Guha
+  - Boulat A. Bash
+  publisher: arXiv
+  date: '2016-01-01'
+  link: https://doi.org/g8qkfw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/mcom.2015.7355562
+  title: 'Hiding information in noise: fundamental limits of covert wireless communication'
+  authors:
+  - Boulat A. Bash
+  - Dennis Goeckel
+  - Don Towsley
+  - Saikat Guha
+  publisher: IEEE Communications Magazine
+  date: '2015-12-01'
+  link: https://doi.org/gjwdgz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/lcomm.2015.2507594
+  title: Covert Communications When the Warden Does Not Know the Background Noise
+    Power
+  authors:
+  - Dennis Goeckel
+  - Boulat Bash
+  - Saikat Guha
+  - Don Towsley
+  publisher: IEEE Communications Letters
+  date: '2016-02-01'
+  link: https://doi.org/f8bwk9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.92.062333
+  title: Optimal measurements for symmetric quantum states with applications to optical
+    communication
+  authors:
+  - Hari Krovi
+  - Saikat Guha
+  - Zachary Dutton
+  - Marcus P. da Silva
+  publisher: Physical Review A
+  date: '2015-12-21'
+  link: https://doi.org/g8qkfx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/acssc.2015.7421206
+  title: Covert communication with the help of an uninformed jammer achieves positive
+    rate
+  authors:
+  - Tamara V. Sobers
+  - Boulat A. Bash
+  - Dennis Goeckel
+  - Saikat Guha
+  - Don Towsley
+  publisher: 2015 49th Asilomar Conference on Signals, Systems and Computers
+  date: '2015-11-01'
+  link: https://doi.org/g8qkfz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms9626
+  title: Quantum-secure covert communication on bosonic channels
+  authors:
+  - Boulat A. Bash
+  - Andrei H. Gheorghe
+  - Monika Patel
+  - Jonathan L. Habif
+  - Dennis Goeckel
+  - Don Towsley
+  - Saikat Guha
+  publisher: Nature Communications
+  date: '2015-10-19'
+  link: https://doi.org/f7znwp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/milcom.2015.7357460
+  title: Efficient multicast in hybrid wireless networks
+  authors:
+  - Prithwish Basu
+  - Chi-Kin Chau
+  - Andrei Iu. Bejan
+  - Richard Gibbens
+  - Saikat Guha
+  - Matthew P. Johnson
+  publisher: MILCOM 2015 - 2015 IEEE Military Communications Conference
+  date: '2015-10-01'
+  link: https://doi.org/g8qkf2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.92.022357
+  title: Rate-loss analysis of an efficient quantum repeater architecture
+  authors:
+  - Saikat Guha
+  - Hari Krovi
+  - Christopher A. Fuchs
+  - Zachary Dutton
+  - Joshua A. Slater
+  - Christoph Simon
+  - Wolfgang Tittel
+  publisher: Physical Review A
+  date: '2015-08-31'
+  link: https://doi.org/ggz4gk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1507.04737
+  title: Optimal Measurements for Symmetric Quantum States with Applications to Optical
+    Communication
+  authors:
+  - Hari Krovi
+  - Saikat Guha
+  - Zachary Dutton
+  - Marcus P. da Silva
+  publisher: arXiv
+  date: '2015-01-01'
+  link: https://doi.org/g8qkf3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2015.7282739
+  title: Finite codelength analysis of the sequential waveform nulling receiver for
+    M-ary PSK
+  authors:
+  - Si-Hui Tan
+  - Zachary Dutton
+  - Ranjith Nair
+  - Saikat Guha
+  publisher: 2015 IEEE International Symposium on Information Theory (ISIT)
+  date: '2015-06-01'
+  link: https://doi.org/g8qkf4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1506.00066
+  title: 'Hiding Information in Noise: Fundamental Limits of Covert Wireless Communication'
+  authors:
+  - Boulat A. Bash
+  - Dennis Goeckel
+  - Saikat Guha
+  - Don Towsley
+  publisher: arXiv
+  date: '2015-01-01'
+  link: https://doi.org/g8qkf5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1505.03470
+  title: Practical Quantum Repeaters with Parametric Down-Conversion Sources
+  authors:
+  - Hari Krovi
+  - Saikat Guha
+  - Zachary Dutton
+  - Joshua A. Slater
+  - Christoph Simon
+  - Wolfgang Tittel
+  publisher: arXiv
+  date: '2015-01-01'
+  link: https://doi.org/g8qkf6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1504.06390
+  title: Fundamental rate-loss tradeoff for optical quantum key distribution
+  authors:
+  - Masahiro Takeoka
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: arXiv
+  date: '2015-01-01'
+  link: https://doi.org/g8qkf7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11128-015-0997-x
+  title: Second-order coding rates for pure-loss bosonic channels
+  authors:
+  - Mark M. Wilde
+  - Joseph M. Renes
+  - Saikat Guha
+  publisher: Quantum Information Processing
+  date: '2015-04-21'
+  link: https://doi.org/f8gm3b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/infocom.2015.7218430
+  title: Optimal multicast in dense multi-channel multi-radio wireless networks
+  authors:
+  - Rahul Urgaonkar
+  - Prithwish Basu
+  - Saikat Guha
+  - Ananthram Swami
+  publisher: 2015 IEEE Conference on Computer Communications (INFOCOM)
+  date: '2015-04-01'
+  link: https://doi.org/g8qkf8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevlett.114.080503
+  title: Microwave Quantum Illumination
+  authors:
+  - Shabir Barzanjeh
+  - Saikat Guha
+  - Christian Weedbrook
+  - David Vitali
+  - Jeffrey H. Shapiro
+  - Stefano Pirandola
+  publisher: Physical Review Letters
+  date: '2015-02-27'
+  link: https://doi.org/f7cbz9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.4903144
+  title: Optimal discrimination of M coherent states with a small quantum computer
+  authors:
+  - Marcus P. da Silva
+  - Saikat Guha
+  - Zachary Dutton
+  publisher: AIP Conference Proceedings
+  date: '2014-01-01'
+  link: https://doi.org/g8qkf9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.90.062316
+  title: Gaussian-only regenerative stations cannot act as quantum repeaters
+  authors:
+  - Ryo Namiki
+  - Oleg Gittsovich
+  - Saikat Guha
+  - "Norbert L\xFCtkenhaus"
+  publisher: Physical Review A
+  date: '2014-12-08'
+  link: https://doi.org/ggz3w2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms6235
+  title: Fundamental rate-loss tradeoff for optical quantum key distribution
+  authors:
+  - Masahiro Takeoka
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: Nature Communications
+  date: '2014-10-24'
+  link: https://doi.org/f6n8cw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1410.4008
+  title: Quantum Illumination at the Microwave Wavelengths
+  authors:
+  - Shabir Barzanjeh
+  - Saikat Guha
+  - Christian Weedbrook
+  - David Vitali
+  - Jeffrey H. Shapiro
+  - Stefano Pirandola
+  publisher: arXiv
+  date: '2014-01-01'
+  link: https://doi.org/g8qkgb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1410.0716
+  title: Could Gaussian regenerative stations act as quantum repeaters?
+  authors:
+  - Ryo Namiki
+  - Oleg Gittsovich
+  - Saikat Guha
+  - "Norbert L\xFCtkenhaus"
+  publisher: arXiv
+  date: '2014-01-01'
+  link: https://doi.org/g8qkgc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1408.5328
+  title: Second-order coding rates for pure-loss bosonic channels
+  authors:
+  - Mark M. Wilde
+  - Joseph M. Renes
+  - Saikat Guha
+  publisher: arXiv
+  date: '2014-01-01'
+  link: https://doi.org/g8qkgd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tit.2014.2330313
+  title: The Squashed Entanglement of a Quantum Channel
+  authors:
+  - Masahiro Takeoka
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: IEEE Transactions on Information Theory
+  date: '2014-08-01'
+  link: https://doi.org/f6cr7z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cleo_si.2013.cm2g.2
+  title: Polar Coded Optical Communications with Weak Coherent States
+  authors:
+  - Jonathan L. Habif
+  - Zachary Dutton
+  - Saikat Guha
+  publisher: 'CLEO: 2013'
+  date: '2013-01-01'
+  link: https://doi.org/g8qkgf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/cleo_qels.2013.qm2c.8
+  title: High Photon Information Efficient Imaging using Single Photon Source
+  authors:
+  - Reihaneh Shahrokhshahi
+  - Niranjan Sridhar
+  - Olivier Pfister
+  - Saikat Guha
+  - Jonathan Habif
+  - Aaron Miller
+  - Adriana Lita
+  - Brice Calkins
+  - Thomas Gerrits
+  - Antia Lamas-Linares
+  - Sae Woo Nam
+  publisher: 'CLEO: 2013'
+  date: '2013-01-01'
+  link: https://doi.org/g8qkgg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2014.6874963
+  title: Superadditivity of quantum channel coding rate with finite blocklength quantum
+    measurements
+  authors:
+  - Hye Won Chung
+  - Saikat Guha
+  - Lizhong Zheng
+  publisher: 2014 IEEE International Symposium on Information Theory
+  date: '2014-06-01'
+  link: https://doi.org/g8qkgh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2014.6875344
+  title: Capacity of optical communication in loss and noise with general quantum
+    Gaussian receivers
+  authors:
+  - Masahiro Takeoka
+  - Saikat Guha
+  publisher: 2014 IEEE International Symposium on Information Theory
+  date: '2014-06-01'
+  link: https://doi.org/g8jzjf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2014.6874850
+  title: Optimal measurements for symmetric quantum states with applications to optical
+    quantum communication
+  authors:
+  - Hari Krovi
+  - Saikat Guha
+  - Zachary Dutton
+  - Marcus P. da Silva
+  publisher: 2014 IEEE International Symposium on Information Theory
+  date: '2014-06-01'
+  link: https://doi.org/g8qkgj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2014.6874848
+  title: Squashed entanglement and the two-way assisted capacities of a quantum channel
+  authors:
+  - Masahiro Takeoka
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: 2014 IEEE International Symposium on Information Theory
+  date: '2014-06-01'
+  link: https://doi.org/g8qkgk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1404.7347
+  title: Covert Optical Communication
+  authors:
+  - Boulat A. Bash
+  - Andrei H. Gheorghe
+  - Monika Patel
+  - Jonathan Habif
+  - Dennis Goeckel
+  - Don Towsley
+  - Saikat Guha
+  publisher: arXiv
+  date: '2014-01-01'
+  link: https://doi.org/g8qkgm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1404.7183
+  title: Rate-loss analysis of an efficient quantum repeater architecture
+  authors:
+  - Saikat Guha
+  - Hari Krovi
+  - Christopher A. Fuchs
+  - Zachary Dutton
+  - Joshua A. Slater
+  - Christoph Simon
+  - Wolfgang Tittel
+  publisher: arXiv
+  date: '2014-01-01'
+  link: https://doi.org/g8qkgn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.89.042309
+  title: Capacity of optical communication in loss and noise with general quantum
+    Gaussian receivers
+  authors:
+  - Masahiro Takeoka
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2014-04-10'
+  link: https://doi.org/gks25r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1403.5616
+  title: Quantum-noise limited communication with low probability of detection
+  authors:
+  - Boulat A. Bash
+  - Saikat Guha
+  - Dennis Goeckel
+  - Don Towsley
+  publisher: arXiv
+  date: '2014-01-01'
+  link: https://doi.org/g8qkgp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.89.032318
+  title: Realizable receivers for discriminating coherent and multicopy quantum states
+    near the quantum limit
+  authors:
+  - Ranjith Nair
+  - Saikat Guha
+  - Si-Hui Tan
+  publisher: Physical Review A
+  date: '2014-03-12'
+  link: https://doi.org/g8qkgq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1402.7057
+  title: Spanning connectivity in a multilayer network and its relationship to site-bond
+    percolation
+  authors:
+  - Saikat Guha
+  - Donald Towsley
+  - Philippe Nain
+  - Cagatay Capar
+  - Ananthram Swami
+  - Prithwish Basu
+  publisher: arXiv
+  date: '2014-01-01'
+  link: https://doi.org/g8qkgr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1401.5132
+  title: Capacity of optical communication in loss and noise with general Gaussian
+    receivers
+  authors:
+  - Masahiro Takeoka
+  - Saikat Guha
+  publisher: arXiv
+  date: '2014-01-01'
+  link: https://doi.org/g8qkgs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevx.4.011016
+  title: Quantum Enigma Machines and the Locking Capacity of a Quantum Channel
+  authors:
+  - Saikat Guha
+  - Patrick Hayden
+  - Hari Krovi
+  - Seth Lloyd
+  - Cosmo Lupo
+  - Jeffrey H. Shapiro
+  - Masahiro Takeoka
+  - Mark M. Wilde
+  publisher: Physical Review X
+  date: '2014-01-31'
+  link: https://doi.org/gfkr9t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/allerton.2014.7028575
+  title: Covert single-hop communication in a wireless network with distributed artificial
+    noise generation
+  authors:
+  - Ramin Soltani
+  - Boulat Bash
+  - Dennis Goeckel
+  - Saikat Guha
+  - Don Towsley
+  publisher: 2014 52nd Annual Allerton Conference on Communication, Control, and Computing
+    (Allerton)
+  date: '2014-09-01'
+  link: https://doi.org/gkrfgb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1310.3793
+  title: Superadditivity of Quantum Channel Coding Rate with Finite Blocklength Joint
+    Measurements
+  authors:
+  - Hye Won Chung
+  - Saikat Guha
+  - Lizhong Zheng
+  publisher: arXiv
+  date: '2013-01-01'
+  link: https://doi.org/g8qkgt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1310.0129
+  title: The squashed entanglement of a quantum channel
+  authors:
+  - Masahiro Takeoka
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: arXiv
+  date: '2013-01-01'
+  link: https://doi.org/g8qkgv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1307.5368
+  title: Quantum enigma machines and the locking capacity of a quantum channel
+  authors:
+  - Saikat Guha
+  - Patrick Hayden
+  - Hari Krovi
+  - Seth Lloyd
+  - Cosmo Lupo
+  - Jeffrey H. Shapiro
+  - Masahiro Takeoka
+  - Mark M. Wilde
+  publisher: arXiv
+  date: '2013-01-01'
+  link: https://doi.org/g8qkgw
+  plugin: sources.py
+  file: sources.yaml
