@@ -5642,3 +5642,624 @@
   link: https://doi.org/g8qkgw
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/isit.2013.6620322
+  title: A realizable receiver for discriminating arbitrary coherent states near the
+    quantum limit
+  authors:
+  - Ranjith Nair
+  - Saikat Guha
+  - Si-Hui Tan
+  publisher: 2013 IEEE International Symposium on Information Theory
+  date: '2013-07-01'
+  link: https://doi.org/g8qkgx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2013.6620209
+  title: Achieving the Holevo capacity of a pure state classical-quantum channel via
+    unambiguous state discrimination
+  authors:
+  - Masahiro Takeoka
+  - Hari Krovi
+  - Saikat Guha
+  publisher: 2013 IEEE International Symposium on Information Theory
+  date: '2013-07-01'
+  link: https://doi.org/g8qkgz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2013.6620520
+  title: Quantum noise limited optical communication with low probability of detection
+  authors:
+  - Boulat A. Bash
+  - Saikat Guha
+  - Dennis Goeckel
+  - Don Towsley
+  publisher: 2013 IEEE International Symposium on Information Theory
+  date: '2013-07-01'
+  link: https://doi.org/g8qkg2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.87.062306
+  title: Reading boundless error-free bits using a single photon
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  publisher: Physical Review A
+  date: '2013-06-06'
+  link: https://doi.org/ggxgd3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.87.052320
+  title: Achieving minimum-error discrimination of an arbitrary set of laser-light
+    pulses
+  authors:
+  - Marcus P. da Silva
+  - Saikat Guha
+  - Zachary Dutton
+  publisher: Physical Review A
+  date: '2013-05-23'
+  link: https://doi.org/g8qkg3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tit.2013.2250575
+  title: Polar Codes for Degradable Quantum Channels
+  authors:
+  - Mark M. Wilde
+  - Saikat Guha
+  publisher: IEEE Transactions on Information Theory
+  date: '2013-07-01'
+  link: https://doi.org/f442px
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/fio.2013.fw2c.2
+  title: Attaining the Quantum Limit of Free-space Optical Communication
+  authors:
+  - Saikat Guha
+  publisher: Frontiers in Optics 2013
+  date: '2013-01-01'
+  link: https://doi.org/g8qkg4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1212.2048
+  title: Realizable receivers for discriminating arbitrary coherent-state waveforms
+    and multi-copy quantum states near the quantum limit
+  authors:
+  - Ranjith Nair
+  - Saikat Guha
+  - Si-Hui Tan
+  publisher: arXiv
+  date: '2012-01-01'
+  link: https://doi.org/g8qkg5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.86.062306
+  title: Quantum trade-off coding for bosonic communication
+  authors:
+  - Mark M. Wilde
+  - Patrick Hayden
+  - Saikat Guha
+  publisher: Physical Review A
+  date: '2012-12-06'
+  link: https://doi.org/gknk98
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/allerton.2012.6483269
+  title: Performance of polar codes for quantum and private classical communication
+  authors:
+  - Zachary Dutton
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: 2012 50th Annual Allerton Conference on Communication, Control, and Computing
+    (Allerton)
+  date: '2012-10-01'
+  link: https://doi.org/gkrj3r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tit.2012.2218792
+  title: Polar Codes for Classical-Quantum Channels
+  authors:
+  - Mark M. Wilde
+  - Saikat Guha
+  publisher: IEEE Transactions on Information Theory
+  date: '2013-02-01'
+  link: https://doi.org/f4mrr8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1208.5758
+  title: Achieving minimum-error discrimination of an arbitrary set of laser-light
+    pulses
+  authors:
+  - Marcus P. da Silva
+  - Saikat Guha
+  - Zachary Dutton
+  publisher: arXiv
+  date: '2012-01-01'
+  link: https://doi.org/g8qkg6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.86.022306
+  title: Symmetric<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>M</mml:mi></mml:math>-ary
+    phase discrimination using quantum-optical probe states
+  authors:
+  - Ranjith Nair
+  - Brent J. Yen
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Stefano Pirandola
+  publisher: Physical Review A
+  date: '2012-08-07'
+  link: https://doi.org/gknvwf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1207.6435
+  title: 'Capacity of optical reading, Part 1: Reading boundless error-free bits using
+    a single photon'
+  authors:
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  publisher: arXiv
+  date: '2012-01-01'
+  link: https://doi.org/g8qkg7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2012.6284252
+  title: Quantum M-ary phase shift keying
+  authors:
+  - Ranjith Nair
+  - Brent J. Yen
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Stefano Pirandola
+  publisher: 2012 IEEE International Symposium on Information Theory Proceedings
+  date: '2012-07-01'
+  link: https://doi.org/g8gzf2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2012.6284251
+  title: Explicit capacity-achieving receivers for optical communication and quantum
+    reading
+  authors:
+  - Mark M. Wilde
+  - Saikat Guha
+  - Si-Hui Tan
+  - Seth Lloyd
+  publisher: 2012 IEEE International Symposium on Information Theory Proceedings
+  date: '2012-07-01'
+  link: https://doi.org/ggxgd2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2012.6284250
+  title: Polar coding to achieve the Holevo capacity of a pure-loss optical channel
+  authors:
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: 2012 IEEE International Symposium on Information Theory Proceedings
+  date: '2012-07-01'
+  link: https://doi.org/g8qkg8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1206.4886
+  title: Information trade-offs for optical quantum communication
+  authors:
+  - Mark M. Wilde
+  - Patrick Hayden
+  - Saikat Guha
+  publisher: arXiv
+  date: '2012-01-01'
+  link: https://doi.org/g8qkg9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1206.0673
+  title: Symmetric M-ary phase discrimination using quantum-optical probe states
+  authors:
+  - Ranjith Nair
+  - Brent J. Yen
+  - Saikat Guha
+  - Jeffrey H. Shapiro
+  - Stefano Pirandola
+  publisher: arXiv
+  date: '2012-01-01'
+  link: https://doi.org/g8qkhb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1205.5980
+  title: Performance of polar codes for quantum and private classical communication
+  authors:
+  - Zachary Dutton
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: arXiv
+  date: '2012-01-01'
+  link: https://doi.org/g8qkhc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nphoton.2012.113
+  title: Optical codeword demodulation with error rates below the standard quantum
+    limit using a conditional nulling receiver
+  authors:
+  - Jian Chen
+  - Jonathan L. Habif
+  - Zachary Dutton
+  - Richard Lazarus
+  - Saikat Guha
+  publisher: Nature Photonics
+  date: '2012-05-20'
+  link: https://doi.org/f3z9wh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevlett.108.140501
+  title: Information Trade-Offs for Optical Quantum Communication
+  authors:
+  - Mark M. Wilde
+  - Patrick Hayden
+  - Saikat Guha
+  publisher: Physical Review Letters
+  date: '2012-04-02'
+  link: https://doi.org/f3xjf5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1202.0533
+  title: Polar coding to achieve the Holevo capacity of a pure-loss optical channel
+  authors:
+  - Saikat Guha
+  - Mark M. Wilde
+  publisher: arXiv
+  date: '2012-01-01'
+  link: https://doi.org/g8qkhd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1202.0518
+  title: Explicit capacity-achieving receivers for optical communication and quantum
+    reading
+  authors:
+  - Mark M. Wilde
+  - Saikat Guha
+  - Si-Hui Tan
+  - Seth Lloyd
+  publisher: arXiv
+  date: '2012-01-01'
+  link: https://doi.org/g8qkhf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/comsnets.2012.6151313
+  title: Percolation phenomena in networks under random dynamics
+  authors:
+  - Prithwish Basu
+  - Saikat Guha
+  - Ananthram Swami
+  - Don Towsley
+  publisher: 2012 Fourth International Conference on Communication Systems and Networks
+    (COMSNETS 2012)
+  date: '2012-01-01'
+  link: https://doi.org/g8qkhg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1111.4017
+  title: Optical codeword demodulation with error rates below standard quantum limit
+    using a conditional nulling receiver
+  authors:
+  - Jian Chen
+  - Jonathan L. Habif
+  - Zachary Dutton
+  - Richard Lazarus
+  - Saikat Guha
+  publisher: arXiv
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/1.3630167
+  title: Enhanced Optical Resolution with Phase-Sensitive Preamplification in Coherent
+    Image Detection
+  authors:
+  - Oo-Kaw Lim
+  - Gideon Alon
+  - Chao-Hsiang Chen
+  - Zachary Dutton
+  - Saikat Guha
+  - Michael Vasilyev
+  - Prem Kumar
+  - Timothy Ralph
+  - Ping Koy Lam
+  publisher: AIP Conference Proceedings
+  date: '2011-01-01'
+  link: https://doi.org/bqwr9v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1109.5346
+  title: Polar codes for degradable quantum channels
+  authors:
+  - Mark M. Wilde
+  - Saikat Guha
+  publisher: arXiv
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1109.2591
+  title: Polar codes for classical-quantum channels
+  authors:
+  - Mark M. Wilde
+  - Saikat Guha
+  publisher: arXiv
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/allerton.2011.6120259
+  title: On capacity of optical channels with coherent detection
+  authors:
+  - Hye Won Chung
+  - Saikat Guha
+  - Lizhong Zheng
+  publisher: 2011 49th Annual Allerton Conference on Communication, Control, and Computing
+    (Allerton)
+  date: '2011-09-01'
+  link: https://doi.org/fxr3sb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/jsac.2011.110909
+  title: 'Green Wave Sleep Scheduling: Optimizing Latency and Throughput in Duty Cycling
+    Wireless Networks'
+  authors:
+  - Saikat Guha
+  - Prithwish Basu Basu
+  - Chi-Kin Chau Chau
+  - Richard Gibbens
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2011-09-01'
+  link: https://doi.org/fdk4qw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.903360
+  title: Quantum-enhanced ladar ranging with squeezed-vacuum injection, phase-sensitive
+    amplification, and slow photodetectors
+  authors:
+  - Ranjith Nair
+  - Brent J. Yen
+  - Jeffrey H. Shapiro
+  - Jian Chen
+  - Zachary Dutton
+  - Saikat Guha
+  - Marcus P. da Silva
+  publisher: SPIE Proceedings
+  date: '2011-09-08'
+  link: https://doi.org/bttdq5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.892419
+  title: Quantum enhancement of a coherent ladar receiver using phase-sensitive amplification
+  authors:
+  - Peter A. Wasilousky
+  - Kevin H. Smith
+  - Ryan Glasser
+  - Geoffrey L. Burdge
+  - Lee Burberry
+  - Bill Deibner
+  - Michael Silver
+  - Robert C. Peach
+  - Christopher Visone
+  - Prem Kumar
+  - Oo-Kaw Lim
+  - Gideon Alon
+  - Chao-Hsiang Chen
+  - Amar R. Bhagwat
+  - Paritosh Manurkar
+  - Michael Vasilyev
+  - Muthiah Annamalai
+  - Nikolai Stelmakh
+  - Zachary Dutton
+  - Saikat Guha
+  - "Cesar Santiva\xF1ez"
+  - Jian Chen
+  - Marcus Silva
+  - Will Kelly
+  - Jeffrey H. Shapiro
+  - Ranjith Nair
+  - Brent J. Yen
+  - Franco N. C. Wong
+  publisher: SPIE Proceedings
+  date: '2011-09-08'
+  link: https://doi.org/bdmpnh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.903351
+  title: Quantum enhanced lidar resolution with multi-spatial-mode phase sensitive
+    amplification
+  authors:
+  - Cesar A. Santivanez
+  - Saikat Guha
+  - Zachary Dutton
+  - Muthiah Annamalai
+  - Michael Vasilyev
+  - Brent J. Yen
+  - Ranjith Nair
+  - Jeffrey H. Shapiro
+  publisher: SPIE Proceedings
+  date: '2011-09-08'
+  link: https://doi.org/dz8556
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2011.6034073
+  title: 'On quantum limit of optical communications: Concatenated codes and joint-detection
+    receivers'
+  authors:
+  - Saikat Guha
+  - Zachary Dutton
+  - Jeffrey H. Shapiro
+  publisher: 2011 IEEE International Symposium on Information Theory Proceedings
+  date: '2011-07-01'
+  link: https://doi.org/dxnkbn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2011.6034095
+  title: On capacity of optical channels with coherent detection
+  authors:
+  - ' Hye Won Chung'
+  - Saikat Guha
+  - Lizhong Zheng
+  publisher: 2011 IEEE International Symposium on Information Theory Proceedings
+  date: '2011-07-01'
+  link: https://doi.org/cxpmcb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2011.6033712
+  title: The free space optical interference channel
+  authors:
+  - Saikat Guha
+  - Ivan Savov
+  - Mark M. Wilde
+  publisher: 2011 IEEE International Symposium on Information Theory Proceedings
+  date: '2011-07-01'
+  link: https://doi.org/c443tv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevlett.106.240502
+  title: Structured Optical Receivers to Attain Superadditive Capacity and the Holevo
+    Limit
+  authors:
+  - Saikat Guha
+  publisher: Physical Review Letters
+  date: '2011-06-14'
+  link: https://doi.org/bf38jt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1105.0119
+  title: Quantum trade-off coding for bosonic communication
+  authors:
+  - Mark M. Wilde
+  - Patrick Hayden
+  - Saikat Guha
+  publisher: arXiv
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1102.2627
+  title: The free space optical interference channel
+  authors:
+  - Saikat Guha
+  - Ivan Savov
+  - Mark M. Wilde
+  publisher: arXiv
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/09500340.2010.533204
+  title: Approaching Helstrom limits to optical pulse-position demodulation using
+    single photon detection and optical feedback
+  authors:
+  - Saikat Guha
+  - Jonathan L. Habif
+  - M. Takeoka
+  publisher: Journal of Modern Optics
+  date: '2011-02-10'
+  link: https://doi.org/fbscv5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1102.1963
+  title: 'On quantum limit of optical communications: concatenated codes and joint-detection
+    receivers'
+  authors:
+  - Saikat Guha
+  - Zachary Dutton
+  - Jeffrey H. Shapiro
+  publisher: arXiv
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.1101.1550
+  title: Structured optical receivers to attain superadditive capacity and the Holevo
+    limit
+  authors:
+  - Saikat Guha
+  publisher: arXiv
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/fio.2011.jtua42
+  title: Information in a Photon When Loss Encodes the Bit
+  authors:
+  - Saikat Guha
+  - Zachary Dutton
+  - Jonathan L. Habif
+  publisher: Frontiers in Optics 2011/Laser Science XXVII
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/ls.2011.ltui5
+  title: Superadditive Optical Communications with Joint Detection Receivers and Concatenated
+    Coding
+  authors:
+  - Zachary Dutton
+  - Saikat Guha
+  - Jian Chen
+  - Jonathan L. Habif
+  publisher: Frontiers in Optics 2011/Laser Science XXVII
+  date: '2011-01-01'
+  link: https://doi.org/g8qkhs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/ls.2011.ltuf2
+  title: Information Capacity of Quantum Reading
+  authors:
+  - Saikat Guha
+  - Zachary Dutton
+  - Ranjith Nair
+  - Jeffrey H. Shapiro
+  - Brent J. Yen
+  publisher: Frontiers in Optics 2011/Laser Science XXVII
+  date: '2011-01-01'
+  link: https://doi.org/g8qkht
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/josab.27.002007
+  title: 'LADAR resolution improvement using receivers enhanced with squeezed-vacuum
+    injection and phase-sensitive amplification: erratum'
+  authors:
+  - Zachary Dutton
+  - Jeffrey H. Shapiro
+  - Saikat Guha
+  publisher: Journal of the Optical Society of America B
+  date: '2010-09-15'
+  link: https://doi.org/bww96k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit.2010.5513377
+  title: 'PPM demodulation: On approaching fundamental limits of optical communications'
+  authors:
+  - Saikat Guha
+  - Jonathan L. Habif
+  - Masahiro Takeoka
+  publisher: 2010 IEEE International Symposium on Information Theory
+  date: '2010-06-01'
+  link: https://doi.org/fbqg33
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/josab.27.000a63
+  title: LADAR resolution improvement using receivers enhanced with squeezed-vacuum
+    injection and phase-sensitive amplification
+  authors:
+  - Zachary Dutton
+  - Jeffrey H. Shapiro
+  - Saikat Guha
+  publisher: Journal of the Optical Society of America B
+  date: '2010-03-18'
+  link: https://doi.org/cs6r4v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/infcom.2010.5462011
+  title: 'Green Wave: Latency and Capacity-Efficient Sleep Scheduling for Wireless
+    Networks'
+  authors:
+  - Saikat Guha
+  - Chi-Kin Chau
+  - Prithwish Basu
+  publisher: 2010 Proceedings IEEE INFOCOM
+  date: '2010-03-01'
+  link: https://doi.org/bdkh22
+  plugin: sources.py
+  file: sources.yaml
