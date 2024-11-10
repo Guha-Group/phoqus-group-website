@@ -1817,3 +1817,164 @@
   link: https://doi.org/g8qj53
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/s11128-024-04576-7
+  title: Bayesian quantum phase estimation with fixed photon states
+  authors:
+  - Boyu Zhou
+  - Saikat Guha
+  - Christos N. Gagatsos
+  publisher: Quantum Information Processing
+  date: '2024-10-28'
+  link: https://doi.org/g8qj54
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physrevapplied.22.l041004
+  title: Optimum classical beam-position sensing
+  authors:
+  - Wenhua He
+  - Christos N. Gagatsos
+  - Dalziel J. Wilson
+  - Saikat Guha
+  publisher: Physical Review Applied
+  date: '2024-10-16'
+  link: https://doi.org/g8qj55
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/physreva.110.042430
+  title: Majorization theoretical approach to entanglement enhancement via local filtration
+  authors:
+  - Zacharie Van Herstraeten
+  - Nicolas J. Cerf
+  - Saikat Guha
+  - Christos N. Gagatsos
+  publisher: Physical Review A
+  date: '2024-10-28'
+  link: https://doi.org/g8qj56
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.actaastro.2024.09.064
+  title: 'Multi-aperture telescopes at the quantum limit of superresolution imaging
+    : Detecting subRayleigh object near a star'
+  authors:
+  - Amit Kumar Jha
+  - Stephen Fleming
+  - Nicolas Deshler
+  - Aqil Sajjad
+  - Mark Neifeld
+  - Amit Ashok
+  - Saikat Guha
+  publisher: Acta Astronautica
+  date: '2025-01-01'
+  link: https://doi.org/g8qj57
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1117/12.3019518
+  title: Towards quantum-enhanced long-baseline optical/near-IR interferometry
+  authors:
+  - Jayadev K. Rajagopal
+  - Ryan Lau
+  - Isack Padilla
+  - Stephen T. Ridgway
+  - Choahan Cui
+  - Brittany McClinton
+  - Aqil Sajjad
+  - Stuartt Corder
+  - Mark Rawlings
+  - Fredrik Rantakyro
+  - J. Gabriel Richardson
+  - Amit Ashok
+  - Saikat Guha
+  publisher: Optical and Infrared Interferometry and Imaging IX
+  date: '2024-08-28'
+  link: https://doi.org/g8qj58
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2408.13489
+  title: Quantum Illumination Advantage for Classification Among an Arbitrary Library
+    of Targets
+  authors:
+  - Ali Cox
+  - Quntao Zhuang
+  - Jeffrey H. Shapiro
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj59
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/s0219749924400033
+  title: Classical capacity of quantum non-Gaussian attenuator and amplifier channels
+  authors:
+  - Zacharie Van Herstraeten
+  - Saikat Guha
+  - Nicolas J. Cerf
+  publisher: International Journal of Quantum Information
+  date: '2024-08-01'
+  link: https://doi.org/g8qj6b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2407.15652
+  title: Utilizing probabilistic entanglement between sensors in quantum networks
+  authors:
+  - Emily A. Van Milligen
+  - Christos N. Gagatsos
+  - Eneet Kaur
+  - Don Towsley
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arxiv.2407.12776
+  title: Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial
+    Mode Sorters
+  authors:
+  - Nico Deshler
+  - Itay Ozer
+  - Amit Ashok
+  - Saikat Guha
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8qj6d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit57864.2024.10619446
+  title: Receiver Algorithms to Approach the Quantum Limit of Demodulating Pulse Position
+    Modulation
+  authors:
+  - Leo Bia
+  - Christos N. Gagatsos
+  - Saikat Guha
+  publisher: 2024 IEEE International Symposium on Information Theory (ISIT)
+  date: '2024-07-07'
+  link: https://doi.org/g8qj6f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit57864.2024.10619544
+  title: Quantum Illumination Advantage for Classification Among an Arbitrary Library
+    of Targets
+  authors:
+  - Ali Cox
+  - Quntao Zhuang
+  - Jeffrey H. Shapiro
+  - Saikat Guha
+  publisher: 2024 IEEE International Symposium on Information Theory (ISIT)
+  date: '2024-07-07'
+  link: https://doi.org/g8qj6g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/isit57864.2024.10619666
+  title: Bipartite Entanglement of Noisy Stabilizer States Through the Lens of Stabilizer
+    Codes
+  authors:
+  - Kenneth Goodenough
+  - Aqil Sajjad
+  - Eneet Kaur
+  - Saikat Guha
+  - Don Towsley
+  publisher: 2024 IEEE International Symposium on Information Theory (ISIT)
+  date: '2024-07-07'
+  link: https://doi.org/g8qj6h
+  plugin: sources.py
+  file: sources.yaml
