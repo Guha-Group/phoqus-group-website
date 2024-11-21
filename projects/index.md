@@ -23,7 +23,7 @@ This page shows our upcoming, current and past sponsored research projects.
 
 ## Upcoming
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: upcoming" style="small" %}
 
 {% include section.html %}
 

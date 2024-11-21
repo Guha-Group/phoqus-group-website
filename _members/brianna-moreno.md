@@ -1,0 +1,8 @@
+---
+name: Brianna Moreno
+image: images/brianna.jpeg
+role: alumni
+affiliation: Former Program Coordinator, CQN Senior Coordinator UArizona
+---
+
+Brianna Moreno is currently Senior Coordinator for the NSF ERC [Center for Quantum Networks](www.cqn-erc.org) and manages various functions of the ERC, with special focus on CQN's Education and Workforce Development (EWD) program, for instance the CQN-REU program and the CQN Winter School on Quantum Networks. Brianna is an Experienced Project Coordinator with a demonstrated history of working in the higher education industry. Stoked about the National Quantum Initiative (NQI), Brianna joined our group as the Administrative Coordinator in 2018, and quickly assumed multitudes of roles spanning group administration, financial coordination, pre-award management, student coordination and more. She provided all the administrative functions underlying the two-year proposal process of the CQN ERC that Prof. Guha led as PI/Director, the first ERC in Quantum Technologies. After CQN was awarded, Brianna gradually transitioned into a heavily CQN-centric role, rising the ranks eventually to its Senior Coordinator. Skilled in Event Coordination, Microsoft Word, MathType, Retail, Sales, and Team Building, Brianna is a strong administrative professional with a Bachelor of Science (B.S.) focused in Retailing and Consumer Sciences from The University of Arizona.  

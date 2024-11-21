@@ -1,4 +1,5 @@
 ---
-title: Inspire
+title: Intensity-Squeezed Photonic Integration for Revolutionary Detectors (INSPIRE)
 ---
-hi
+
+Our team's project, titled ``Integrated Squeezed Light Generator and Homodyne Detector (INSIGHT)", is led by Dr. Mo Soltani (RTX BBN, Cambridge MA), with Prof. Guha (UMD), and Dr. Zachary Vernon (Xanadu) as co-PIs. In this program, we are pursuing novel designs of integrated photonic squeezed light sources that could potential achieve upwards of 20dB of quadrature squeezing, to enable applications that range from the traditional photonic sensing applications where squeezed light could be employed (such as the LIGO, fiber optic gyroscopes, beam deflectometry, RF photonic sensors and more) to applications in communications, networking and quantum computing. The UMD subteam's role in INSIGHT is to perform a thorough theoretical analysis of the squeezer incorporating various noise sources in the source and in the detection, as well as detailed performance evaluation and assessment of its use in DoD relevant applications and specific use cases.

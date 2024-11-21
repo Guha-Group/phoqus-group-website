@@ -2,7 +2,7 @@
 name: Corey Ferrier
 image: images/corey.png
 role: phd
-affiliation: University of Maryland, College Park
+affiliation: University of Maryland
 ---
 Corey Ferrier received his B.S. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology and concentrated in Quantum Systems Engineering. As an undergraduate, he did Quantum Computing research via photonic integrated circuits at MITRE and through MIT’s Undergraduate Research Opportunities Program under Professor Dirk Englund. I have always been fascinated with Quantum Computing even before going to MIT and my captivation with it has only grown through my experiences and learning from my colleagues. With a strong foundation in computer science theory and programming, I have developed a deep love and captivation for the theoretical aspects of Quantum Information processing. However, my recent experience in clean room nanofabrication of silicon nitride devices and photonics has sparked a desire to further explore the experimental side whenever possible. I am pursuing a PhD at the University of Maryland’s Electrical and Computer Engineering Department and am currently focusing my research on Quantum Communication and Computing.
 Outside of academics, I love to participate in quantum computing hackathons! My team has come 2nd at the MIT iQuHack 2024 Quantinuum Challenge hackathon and 2nd at the 12th annual NYU Abu Dhabi International Hackathon for Social Good via Quantum Computing and AI.
