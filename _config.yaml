@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Photonic Quantum Systems Group
-subtitle: 
-description: 
+title: Photonic Quantum Systems Group (PhoQuS)
+subtitle: Led by Prof. Saikat Guha at the University of Maryland, College Park (UMD)
+description: Website for the PhoQuS group at UMD, led by Prof. Saikat Guha at UMD College Park. View our research on quantum information, quantum optics, quantum sensing, quantum communication, and quantum computing.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
