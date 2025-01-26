@@ -6,7 +6,7 @@ tags: general
 
 Clark Distinguished Chair Professor Saikat Guha has been named to the IEEE Fellow Class of 2025 for bridging information theory and physics to design quantum-enhanced photonic sensing, communications, and networking systems. Guha is appointed to the Department of Electrical and Computer Engineering (ECE) and leads the University of Maryland Photonic Quantum Systems Group (PhoQuS).
 
-[Link to ClarkNet Post here](https://eng.umd.edu/news/story/saikat-guha-elected-ieee-fellow)
+[Link to ClarkNet Post here](https://clarknet.eng.umd.edu/news/news_story.php?id=16395)
 
 ---
 
