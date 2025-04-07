@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/TIT.2025.3537970
+  title: Fundamental Limits of Covert Communication Over Classical-Quantum Channels
+  authors:
+  - Michael S. Bullock
+  - Azadeh Sheikholeslami
+  - Mehrdad Tahmasbi
+  - Robert C. Macdonald
+  - Saikat Guha
+  - Boulat A. Bash
+  publisher: IEEE Transactions on Information Theory
+  date: '2025-04-01'
+  link: https://doi.org/g89hgg
+  orcid: 0000-0002-2581-4380
+  saikat-guha: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PRXQuantum.6.010339
+  title: Stabilizer Entanglement Distillation and Efficient Fault-Tolerant Encoders
+  authors:
+  - Yu Shi
+  - Ashlesha Patil
+  - Saikat Guha
+  publisher: PRX Quantum
+  date: '2025-03-04'
+  link: https://doi.org/g87kj8
+  orcid: 0000-0002-2581-4380
+  saikat-guha: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1103/PhysRevApplied.22.064085
   title: Utilizing probabilistic entanglement between sensors in quantum networks
   authors:
@@ -713,8 +742,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arxiv.2402.00731
-  title: Resource-efficient and loss-aware photonic graph state preparation using
-    an array of quantum emitters, and application to all-photonic quantum repeaters
+  title: Resource-efficient loss-aware photonic graph state preparation using atomic
+    emitters
   authors:
   - Eneet Kaur
   - Ashlesha Patil
@@ -3636,7 +3665,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arxiv.1601.06826
-  title: Covert Communication over Classical-Quantum Channels
+  title: Fundamental Limits of Covert Communication over Classical-Quantum Channels
   authors:
   - Michael S. Bullock
   - Azadeh Sheikholeslami
