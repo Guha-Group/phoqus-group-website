@@ -1,7 +1,7 @@
 ---
 name: Tiju Cherian John
 image: images/tiju.jpg
-role: researcher
+role: alumni
 affiliation: University of Arizona
 ---
 

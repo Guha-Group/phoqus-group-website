@@ -5,6 +5,8 @@ role: pi
 affiliation: University of Maryland
 links:
   orcid: 0000-0002-2581-4380
+  google-scholar: E4JS8pQAAAAJ
+  email: saikat@umd.edu
 ---
 
 Saikat Guha is Clark Distinguished Chair Professor of Electrical and Computer Engineering at the University of Maryland, College Park. Saikat is an Adjunct Professor of Optical Sciences at the University of Arizona, and an Affiliate Faculty of EECS at MIT. He is co-Director of the NSF Engineering Research Center (ERC), Center for Quantum Networks (CQN), headquartered at the University of Arizona. Prior to joining the University of Maryland, Saikat was Peyghambarian Endowed Chair Professor of Optical Sciences, at the College of Optical Sciences, University of Arizona. Saikat received his Bachelor of Technology (B. Tech.) degree in Electrical Engineering from the Indian Institute of Technology (IIT), Kanpur in 2002, and his S.M. and Ph.D. degrees in Electrical Engineering and Computer Science (EECS) from Massachusetts Institute of Technology (MIT) in 2004 and 2008, respectively. From 2008 to 2017, he worked for Raytheon BBN Technologies, where in his most recent role as Lead Scientist, he led various sponsored projects in topics surrounding quantum-enhanced photonic information processing. He was one of the founding members of the Quantum Information Processing group at BBN, formed in 2009.
