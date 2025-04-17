@@ -1,6 +1,6 @@
 ---
 name: Anjolie Tuazon
-image: images/anjolie.png
+image: images/anjolie.PNG
 role: undergrad
 affiliation: University of Maryland
 
