@@ -39,6 +39,16 @@
   tags:
     - communications
 
+- title: Investigating Adaptive Modal Bases for Intelligent Classification (IAMBIC)
+  subtitle: DARPA
+  group: past
+  image: images/iambic.png
+  link: https://phoqus.us/projects/iambic
+  description: Adaptive spatial mode sorting using multiplane light conversion, for multiple-point-source localization in the subRayleigh regime, where conventional focal-plane imaging fails.
+  repo: Guha-Group
+  tags:
+    - sensing
+
 - title: Center for Quantum Networks (CQN)
   subtitle: NSF
   group: featured
