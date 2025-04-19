@@ -1,6 +1,6 @@
 ---
 name: Parth Darekar
-image: images/
+image: images/parth.jpg
 role: phd
 affiliation: University of Maryland
 ---
