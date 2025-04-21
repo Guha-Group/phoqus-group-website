@@ -1,6 +1,6 @@
 ---
 name: Lavida Cooper
-image: images/
+image: images/lavida.jpg
 role: phd
 affiliation: University of Maryland
 ---
