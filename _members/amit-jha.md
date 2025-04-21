@@ -2,6 +2,8 @@
 name: Amit Jha
 image: images/amit.jpg
 role: phd
+links:
+    google-scholar: 4n8iSk8AAAAJ
 affiliation: University of Arizona
 ---
 
