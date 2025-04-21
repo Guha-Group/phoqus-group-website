@@ -3,6 +3,8 @@ name: Aqil Sajjad
 image: images/aqil.jpeg
 role: faculty
 affiliation: University of Maryland
+links:
+  google-scholar: VA1FnzIAAAAJ
 ---
 
 Aqil Sajjad has a PhD in theoretical particle physics from Harvard University and has recently joined the College of Optical Science in order to work on quantum information theory. He is currently engaged in several research projects related to quantum sensing techniques and quantum entanglement in many-body systems.
