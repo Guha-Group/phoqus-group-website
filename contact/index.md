@@ -19,12 +19,14 @@ Coordinator Office: Room 2140, Kim Engineering Building, 8228 Paint Branch Drive
   text="<smalani@umd.edu>"
   link="<smalani@umd.edu>"
 %}
+
 {%
   include button.html
   type="phone"
   text="(301) 405-0267"
   link="+1-301-405-0267"
 %}
+
 {%
   include button.html
   type="address"
