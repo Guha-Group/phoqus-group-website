@@ -31,7 +31,7 @@ Coordinator Office: Room 2140, Kim Engineering Building, 8228 Paint Branch Drive
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="<https://maps.app.goo.gl/8YHSBYVuRY7BqxoG8>"
+  link="https://maps.app.goo.gl/8YHSBYVuRY7BqxoG8"
 %}
 
 {% include section.html %}
