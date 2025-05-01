@@ -33,6 +33,8 @@ We work with a wide range of outstanding groups from around the world, and we're
 
 {% include section.html %}
 
+{% include gallery.html %}
+
 ## Alumni
 
 {% include list.html data="members" component="portrait" style="small" filters="role: alumni" %}
@@ -43,14 +45,14 @@ Our team thrives on collaboration across disciplines and institutions, bringing 
 
 {% include section.html %}
 
-{% capture content %}
+<!-- {% capture content %}
 
 {% include figure.html image="images/hike1.JPG" %}
 {% include figure.html image="images/group1.jpg" %}
 {% include figure.html image="images/hike2.JPG" %}
 
-{% endcapture %}
+{% endcapture %} -->
 
-{% include gallery.html %}
+
 
 {% include grid.html style="square" content=content %}
