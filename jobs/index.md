@@ -25,9 +25,9 @@ Job postings for postoctoral researchers, graduate students, and undergraduate s
 
 {% include section.html %}
 
-## Active Job Postings
+<!-- ## Active Job Postings
 {% include tags.html tags="postdoc, grad-student, undergrad" %}
 
 {% include search-info.html %}
 
-{% include list.html data="jobs" component="job-excerpt" %}
+{% include list.html data="jobs" component="job-excerpt" %} -->
