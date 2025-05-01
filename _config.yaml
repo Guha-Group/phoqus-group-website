@@ -9,7 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: smalani@umd.edu
-  orcid: 0000-0002-2581-4380
+  # orcid: 0000-0002-2581-4380
+  linkedin: saikat-guha-b44b8118
   google-scholar: E4JS8pQAAAAJ
   github: guha-group
   # twitter: 
