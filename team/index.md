@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 2
   tooltip: About our team
 ---
 
@@ -29,13 +29,15 @@ Our team consists of members from both the University of Maryland and the Univer
 
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives. We want to push the frontier of photonic quantum information and train a new generation of researchers and engineers.
 
-{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="jobs" style="button" %}
 
 {% include section.html %}
 
+{% include gallery.html %}
+
 ## Alumni
 
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{% include list.html data="members" component="portrait" style="small" filters="role: alumni" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -43,12 +45,14 @@ Our team thrives on collaboration across disciplines and institutions, bringing 
 
 {% include section.html %}
 
-{% capture content %}
+<!-- {% capture content %}
 
 {% include figure.html image="images/hike1.JPG" %}
 {% include figure.html image="images/group1.jpg" %}
 {% include figure.html image="images/hike2.JPG" %}
 
-{% endcapture %}
+{% endcapture %} -->
+
+
 
 {% include grid.html style="square" content=content %}
