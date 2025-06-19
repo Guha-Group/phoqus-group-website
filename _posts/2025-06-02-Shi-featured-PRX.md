@@ -1,5 +1,5 @@
 ---
-title: ECE Postdoc Featured in PRX Quantum
+title: Postdoc Yu Shi Featured in PRX Quantum
 tags: general
 image: images/yu.jpg
 ---
