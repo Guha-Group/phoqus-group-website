@@ -1,6 +1,6 @@
 ---
 name: Sara Ahire
-image: images/sara.jpeg
+image: images/sara.png
 role: summer
 affiliation: IIT Bombay, India
 
