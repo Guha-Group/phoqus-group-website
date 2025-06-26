@@ -2,7 +2,7 @@
 name: Yasmin Zare Mehrjerdi
 image: images/yasmin.png
 role: summer
-affiliation: University of Maryland, College Park
+affiliation: University of Maryland
 
 ---
 
