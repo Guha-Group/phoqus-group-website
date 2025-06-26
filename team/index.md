@@ -23,7 +23,7 @@ Our team consists of members from both the University of Maryland and the Univer
 
 ## Students
 
-{% include list.html data="members" component="portrait" filters="role: (phd|undergrad)" %}
+{% include list.html data="members" component="portrait" filters="role: (phd|undergrad|summer)" %}
 
 {% include section.html dark=true %}
 
