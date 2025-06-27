@@ -26,6 +26,10 @@ summer:
   icon: fa-solid fa-sun
   description: Summer Intern
 
+assistant:
+  icon: fa-solid fa-user-tie
+  description: Research Assistant
+
 coordinator:
   icon: fa-solid fa-briefcase
   description: Program Coordinator

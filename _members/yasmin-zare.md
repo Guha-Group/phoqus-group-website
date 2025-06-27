@@ -1,7 +1,7 @@
 ---
 name: Yasmin Zare Mehrjerdi
 image: images/yasmin.png
-role: summer
+role: undergrad
 affiliation: University of Maryland
 
 ---
