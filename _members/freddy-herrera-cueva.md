@@ -1,6 +1,6 @@
 ---
 name: Freddy Herrera Cueva
-image: images/freddy.jpg
+image: images/freddy.png
 role: summer
 affiliation: University of Maryland
 
