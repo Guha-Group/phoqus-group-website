@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Approaching superadditive capacity for space communication with high-speed structured optical receivers | Photonic Quantum Systems Group (PhoQuS)</title>
+
+<link rel="icon" href="/preview/pr-14/images/icon.png">
+
+<meta name="title" content="Approaching superadditive capacity for space communication with high-speed structured optical receivers">
+<meta name="description" content="Led by Prof. Saikat Guha at the University of Maryland, College Park. Learn more about the PhoQuS group and our research in quantum information science and quantum optics">
+
+<meta property="og:title" content="Approaching superadditive capacity for space communication with high-speed structured optical receivers">
+<meta property="og:site_title" content="Photonic Quantum Systems Group (PhoQuS)">
+<meta property="og:description" content="Led by Prof. Saikat Guha at the University of Maryland, College Park. Learn more about the PhoQuS group and our research in quantum information science and quantum optics">
+<meta property="og:url" content="/preview/pr-14">
+<meta property="og:image" content="/preview/pr-14/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="Approaching superadditive capacity for space communication with high-speed structured optical receivers">
+<meta property="twitter:description" content="Led by Prof. Saikat Guha at the University of Maryland, College Park. Learn more about the PhoQuS group and our research in quantum information science and quantum optics">
+<meta property="twitter:url" content="/preview/pr-14">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/preview/pr-14/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "Approaching superadditive capacity for space communication with high-speed structured optical receivers",
+    "description": "Led by Prof. Saikat Guha at the University of Maryland, College Park. Learn more about the PhoQuS group and our research in quantum information science and quantum optics",
+    "headline": "Approaching superadditive capacity for space communication with high-speed structured optical receivers",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/preview/pr-14/images/icon.png" }
+    },
+    "url": "/preview/pr-14"
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="/preview/pr-14/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link href="/preview/pr-14/_styles/-theme.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/alert.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/all.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/anchor.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/background.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/body.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/bold.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/button.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/card.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/checkbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/citation.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/code.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/feature.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/figure.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/float.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/font.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/footer.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/form.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/grid.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/header.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/heading.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/highlight.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/icon.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/image.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/job-excerpt.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/job-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/job-nav.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/link.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/list.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/main.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/paragraph.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/portrait.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/post-excerpt.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/post-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/post-nav.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/quote.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/rule.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/search-box.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/search-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/section.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/table.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/tags.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/textbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/tooltip.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-14/_styles/util.css" rel="stylesheet">
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/preview/pr-14/_scripts/anchors.js"></script>
+
+  <script src="/preview/pr-14/_scripts/dark-mode.js"></script>
+
+  <script src="/preview/pr-14/_scripts/fetch-tags.js"></script>
+
+  <script src="/preview/pr-14/_scripts/search.js"></script>
+
+  <script src="/preview/pr-14/_scripts/site-search.js"></script>
+
+  <script src="/preview/pr-14/_scripts/table-wrap.js"></script>
+
+  <script src="/preview/pr-14/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header class="background" style="--image: url('/preview/pr-14/images/background.jpg')" data-dark="true">
+  <a href="/preview/pr-14/" class="home">
+    
+      <span class="logo">
+        
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 400 120">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <fegaussianblur stddeviation="2.5" result="coloredBlur"></fegaussianblur>
+      <femerge>
+        <femergenode in="coloredBlur"></femergenode>
+        <femergenode in="SourceGraphic"></femergenode>
+      </femerge>
+    </filter>
+    <lineargradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4ecdc4">
+        <animate attributename="stop-color" values="#4ecdc4; #45b7d1; #ff6b6b; #feca57; #4ecdc4" dur="8s" repeatcount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#45b7d1">
+        <animate attributename="stop-color" values="#45b7d1; #ff6b6b; #feca57; #4ecdc4; #45b7d1" dur="8s" repeatcount="indefinite"></animate>
+      </stop>
+    </lineargradient>
+  </defs>
+
+  <!-- Translucent background -->
+  <rect width="400" height="120" fill="rgba(26, 26, 46, 0.6)"></rect>
+  
+  <!-- Letters -->
+  <g id="letters" font-family="'Montserrat', sans-serif" font-weight="900" font-size="72" text-anchor="middle">
+    <text x="200" y="80" fill="url(#textGradient)" filter="url(#glow)">
+      <tspan>P</tspan>
+      <tspan dx="-2">h</tspan>
+      <tspan dx="-2">o</tspan>
+      <tspan dx="-2">Q</tspan>
+      <tspan dx="-2">u</tspan>
+      <tspan dx="-2">S</tspan>
+    </text>
+  </g>
+  
+  <!-- Photons -->
+  <g>
+    <!-- Red photon -->
+    <circle r="4" fill="#ff6b6b" filter="url(#glow)">
+      <animatemotion dur="4s" repeatcount="indefinite" path="M -10 60 Q 200 20, 410 60"></animatemotion>
+    </circle>
+    
+    <!-- Green photon -->
+    <circle r="4" fill="#4ecdc4" filter="url(#glow)">
+      <animatemotion dur="4s" repeatcount="indefinite" path="M 410 30 Q 200 100, -10 70" begin="1s"></animatemotion>
+    </circle>
+    
+    <!-- Blue photon -->
+    <circle r="4" fill="#45b7d1" filter="url(#glow)">
+      <animatemotion dur="4s" repeatcount="indefinite" path="M 200 -10 Q 250 60, 200 130" begin="2s"></animatemotion>
+    </circle>
+    
+    <!-- Yellow photon -->
+    <circle r="4" fill="#feca57" filter="url(#glow)">
+      <animatemotion dur="4s" repeatcount="indefinite" path="M -10 100 Q 200 50, 410 100" begin="3s"></animatemotion>
+    </circle>
+    
+    <!-- Orange photon -->
+    <circle r="4" fill="#ffa500" filter="url(#glow)">
+      <animatemotion dur="4s" repeatcount="indefinite" path="M 410 90 Q 200 60, -10 30" begin="4s"></animatemotion>
+    </circle>
+    
+    <!-- Purple photon -->
+    <circle r="4" fill="#9b59b6" filter="url(#glow)">
+      <animatemotion dur="4s" repeatcount="indefinite" path="M 0 130 Q 200 60, 400 -10" begin="5s"></animatemotion>
+    </circle>
+  </g>
+</svg>
+        
+      </span>
+    
+    
+      <span class="title-text" data-tooltip="Home">
+        
+          <span class="title">Photonic Quantum Systems Group (PhoQuS)</span>
+        
+        
+          <span class="subtitle">Led by Prof. Saikat Guha at the University of Maryland, College Park</span>
+        
+      </span>
+    
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a href="/preview/pr-14/research/" data-tooltip="Overview of Research Areas">
+          Research
+        </a>
+      
+    
+      
+        <a href="/preview/pr-14/team/" data-tooltip="About our team">
+          Team
+        </a>
+      
+    
+      
+        <a href="/preview/pr-14/projects/" data-tooltip="Sponsored research projects">
+          Projects
+        </a>
+      
+    
+      
+        <a href="/preview/pr-14/blog/" data-tooltip="Group updates, events, and announcements">
+          Updates
+        </a>
+      
+    
+      
+        <a href="/preview/pr-14/jobs/" data-tooltip="Job postings, internships, and research opportunities">
+          Join Us
+        </a>
+      
+    
+      
+        <a href="/preview/pr-14/contact/" data-tooltip="Email, address, and location">
+          Contact
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - filter out blank sections
+-->
+
+
+
+
+
+
+  
+  
+  
+
+  <section class="background" data-size="1">
+    <!--
+  background: ;
+  dark: ;
+  size: 1;
+-->
+
+
+<h1 class="center">Approaching superadditive capacity for space communication with high-speed structured optical receivers</h1>
+
+<div class="post-info">
+  
+
+  
+  
+
+  
+
+  
+</div>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+
+<p>Optical receivers can benefit immensely from pre-processing of input light prior to detection, as the detection introduces irreversible noise to the information embedded in optical signals  [1,2]. Such information loss is irreversible and cannot be recovered by signal post-processing in the classical domain. Therefore, structured optical receivers, which process optical signals before detection, can potentially show significant advantages in extracting information from optical signals  [3]. In particular, the advantage provided by structured optical receivers can increase as the quality of optical signal decreases with lower power and higher noise.</p>
+
+<p>This methodology has seen great potential for space communication. Given the large bandwidth and high pointing accuracy, optical communication is highly preferred over the traditional microwave communication  [4]. Still, the intrinsic divergence of optical beams over long distances in space determines that the received optical signal will always be in the photon-starving regime (the average received photon number per channel use is much smaller than one)  [5]. Stray light and daylight operation will also introduce strong background noise  [6], which contaminates optical signals. Such low-power and high-noise features make space communications the ideal application case for structured optical receivers.
+The Holevo limit determines the upper bound to the Shannon capacity of one physical communication channel when the modulation alphabet is composed of quantum states  [7]. To obtain the Helovo limit under practical conditions, the proper choice of the modulation format and codeword protocol (mapping between information alphabet and quantum states) is necessary. Moreover, joint detection over long codeword blocks using structured optical receivers is required  [8–10]. By using joint detection, higher communication capacity can be obtained compared with simple single-block measurement. The improvement of the communication channel with structured optical receivers is referred as superadditivity  [11].</p>
+
+<p>In this project, we propose to conduct a comprehensive study of superadditive capacity from both theoretical and experimental perspectives. We will design and build explicit modulation format, code-words, and structured optical receivers to demonstrate superadditive capacity. We will follow our recent theoretical proposal where superadditive capacity can be obtained with the standard binary-phase-shift keying (BPSK) modulation format and Hadamard code-words  [12]. However, we will incorporate experimental imperfections into the theoretical model, including optical loss, crosstalk, phase drift, detector dark count, etc. This will provide guidelines for device metrics to reach superadditive capacity experimentally. We will further explore a new design for the structured optical receiver, which is resource-efficient and technology-ready. A high-speed reconfigurable fiber-optic interferometer will be built to realize the unitary transformation in the time domain. This converts the Hadamard code-words with BPSK modulation into the standard pulse position modulation (PPM) format, which will be directly detected by superconducting nanowire single-photon detectors (SNSPD) with high efficiency, low noise, and high speed. Our novel design of structured optical receivers can potentially operate with multi-gigahertz rates, which is orders of magnitude higher than previous designs  [12,13]. With the novel structured optical receiver, we will measure the achievable communication capacity and compare it with the capacity obtained using simple single-block direct detection. This will experimentally prove the superadditive behavior of structured optical receivers.</p>
+
+<ul>
+  <li>[1]	C. W. Helstrom, Quantum Detection and Estimation Theory, Journal of Statistical Physics 1, 231 (1969).</li>
+  <li>[2]	J. Shapiro, Quantum Noise and Excess Noise in Optical Homodyne and Heterodyne Receivers, IEEE Journal of Quantum Electronics 21, 237 (1985).</li>
+  <li>[3]	K. Banaszek, L. Kunz, M. Jachura, and M. Jarzyna, Quantum Limits in Optical Communications, J. Lightwave Technol. 38, 2741 (2020).</li>
+  <li>[4]	M. Toyoshima, W. R. Leeb, H. Kunimori, and T. Takano, Comparison of Microwave and Light Wave Communication Systems in Space Applications, OE 46, 015003 (2007).</li>
+  <li>[5]	B. Moision and W. Farr, Range Dependence of the Optical Communications Channel, 10 (n.d.).</li>
+  <li>[6]	C. Leinert and D. Klüppelberg, Stray Light Suppression in Optical Space Experiments, Appl. Opt., AO 13, 556 (1974).</li>
+  <li>[7]	A. S. Holevo, Bounds for the Quantity of Information Transmitted by a Quantum Communication Channel, Problemy Peredachi Informatsii 9, 3 (1973).</li>
+  <li>[8]	S. Guha, Z. Dutton, and J. H. Shapiro, On Quantum Limit of Optical Communications: Concatenated Codes and Joint-Detection Receivers, in 2011 IEEE International Symposium on Information Theory Proceedings (2011), pp. 274–278.</li>
+  <li>[9]	J. Chen, J. L. Habif, Z. Dutton, R. Lazarus, and S. Guha, Optical Codeword Demodulation with Error Rates below the Standard Quantum Limit Using a Conditional Nulling Receiver, Nature Photonics 6, 374 (2012).</li>
+  <li>[10]	M. Takeoka and S. Guha, Capacity of Optical Communication in Loss and Noise with General Quantum Gaussian Receivers, Physical Review A 89, 042309 (2014).</li>
+  <li>[11]	M. Sasaki, K. Kato, M. Izutsu, and O. Hirota, Quantum Channels Showing Superadditivity in Classical Capacity, Phys. Rev. A 58, 146 (1998).</li>
+  <li>[12]	S. Guha, Structured Optical Receivers to Attain Superadditive Capacity and the Holevo Limit, Phys. Rev. Lett. 106, 240502 (2011).</li>
+  <li>[13]	K. Banaszek and M. Jachura, Structured Optical Receivers for Efficient Deep-Space Communication, (2017).</li>
+  <li>[14]	V. Giovannetti, S. Guha, S. Lloyd, L. Maccone, J. H. Shapiro, and H. P. Yuen, Classical Capacity of the Lossy Bosonic Channel: The Exact Solution, Phys. Rev. Lett. 92, 027902 (2004).</li>
+  <li>[15]	S. J. Dolinar, An Optimum Receiver for the Binary Coherent State Quantum Channel, Research Laboratory of Electronics, MIT, Quarterly Progress Report 11, 115 (1973).</li>
+  <li>[16]	R. W. Boyd, Nonlinear Optics (Academic press, 2020).</li>
+  <li>[17]	W. R. Hook and R. P. Hilberg, Lossless KD*P Pockels Cell for High-Power Q Switching, Appl. Opt., AO 10, 1179 (1971).</li>
+  <li>[18]	Pockels Cells, https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6149.</li>
+  <li>[19]	E. L. Wooten et al., A Review of Lithium Niobate Modulators for Fiber-Optic Communications Systems, IEEE Journal of Selected Topics in Quantum Electronics 6, 69 (2000).</li>
+  <li>[20]	1x2 and 2x2 Dual-Output Modulators, https://www.eospace.com/1x2-and-2x2-dual-output-modulator.</li>
+</ul>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+
+<div class="post-nav">
+  <span>
+    
+      <i class="icon fa-solid fa-angle-left"></i> Previous post<br>
+      <a href="/preview/pr-14/projects/onr-sensing.html">
+        Entanglement assisted fiber sensor network
+      </a>
+    
+  </span>
+  <span>
+    
+      Next post <i class="icon fa-solid fa-angle-right"></i><br>
+      <a href="/preview/pr-14/projects/phenom.html">
+        Photon-Efficient Nanoscale Optical Metrology (PHENOM)
+      </a>
+    
+  </span>
+</div>
+  </section>
+
+
+    </main>
+    
+
+
+<footer class="background" style="--image: url('/preview/pr-14/images/background.jpg')" data-dark="true" data-size="wide">
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:smalani@umd.edu" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://www.linkedin.com/in/saikat-guha-b44b8118" data-tooltip="LinkedIn" data-style="bare" aria-label="LinkedIn">
+      <i class="icon fa-brands fa-linkedin"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://scholar.google.com/citations?user=E4JS8pQAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://github.com/guha-group" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+      <i class="icon fa-brands fa-github"></i>
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    © 2025
+    Photonic Quantum Systems Group (PhoQuS)
+      |   Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+</footer>
+
+  </body>
+</html>
