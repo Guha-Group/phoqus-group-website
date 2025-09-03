@@ -1,7 +1,7 @@
 ---
 name: Luke Jennelle
 image: images/luke.jpeg
-role: summer
+role: alumni
 affiliation: Radford University
 ---
 
