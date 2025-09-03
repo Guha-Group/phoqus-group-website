@@ -1,7 +1,7 @@
 ---
 name: Seyede Zahra (Rahin) Zarei
 image: images/rahin.png
-role: phd
+role: 
 affiliation: University of Maryland
 ---
 

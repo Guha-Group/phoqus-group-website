@@ -1,7 +1,7 @@
 ---
 name: Emily Van Milligen
 image: images/emily.jpeg
-role: phd
+role: alumni
 affiliation: University of Arizona
 links:
     google-scholar: QyfJnl4AAAAJ

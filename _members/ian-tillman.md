@@ -1,7 +1,7 @@
 ---
 name: Ian Tillman
 image: images/ian.jpg
-role: phd
+role: alumni
 affiliation: University of Arizona
 links:
     google-scholar: maP_U7YAAAAJ
