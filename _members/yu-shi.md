@@ -1,7 +1,7 @@
 ---
 name: Yu Shi
 image: images/yu.jpg
-role: postdoc
+role: alumni
 affiliation: University of Maryland
 links:
     google-scholar: Mmmx2iYAAAAJ
