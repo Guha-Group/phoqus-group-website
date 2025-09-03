@@ -1,7 +1,7 @@
 ---
 name: Prajit Dhara
 image: images/prajit.jpg
-role: phd
+role: alumni
 affiliation: University of Arizona (Visiting Scholar, University of Maryland)
 links:
     google-scholar: TAa1R2QAAAAJ
