@@ -11,7 +11,12 @@ Job postings for postoctoral researchers, graduate students, and undergraduate s
 
 We look forward to hearing from you!
 
-
+{%
+  include button.html
+  type="email"
+  text="<chaohan@umd.edu>"
+  link="<mailto:chaohan@umd.edu>"
+%}
 
 <!-- ## Active Job Postings
 {% include tags.html tags="postdoc, grad-student, undergrad" %}
