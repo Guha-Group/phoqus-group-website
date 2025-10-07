@@ -16,8 +16,8 @@ Coordinator Office: Room 2140, Kim Engineering Building, 8228 Paint Branch Drive
 {%
   include button.html
   type="email"
-  text="<smalani@umd.edu>"
-  link="<smalani@umd.edu>"
+  text="<chaohan@umd.edu>"
+  link="<chaohan@umd.edu>"
 %}
 
 {%
