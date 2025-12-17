@@ -16,15 +16,15 @@ Coordinator Office: Room 2140, Kim Engineering Building, 8228 Paint Branch Drive
 {%
   include button.html
   type="email"
-  text="<chaohan@umd.edu>"
-  link="<chaohan@umd.edu>"
+  text="<dcampbe9@umd.edu>"
+  link="<dcampbe9@umd.edu>"
 %}
 
 {%
   include button.html
   type="phone"
-  text="(301) 405-0267"
-  link="+1-301-405-0267"
+  text="(301) 405-9614"
+  link="+1-301-405-9614"
 %}
 
 {%
