@@ -1,6 +1,6 @@
 ---
-name: Shirya H. Krishnan
-image: images/shriya.jPG
+name: Shriya H. Krishnan
+image: images/shriya.JPG
 role: undergrad
 affiliation: University of Maryland
 ---
