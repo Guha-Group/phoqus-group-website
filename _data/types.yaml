@@ -41,6 +41,15 @@ mascot:
 faculty:
   icon: fa-solid fa-brain
   description: Research Faculty
+
+
+affiliated:
+  icon: fa-duotone fa-solid fa-user-group
+  description: affiliated
+
+visiting:
+  icon: fa-solid fa-globe-stand
+  description: visiting students
   
 
 link:
