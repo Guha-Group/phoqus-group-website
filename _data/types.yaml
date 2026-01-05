@@ -45,11 +45,11 @@ faculty:
 
 affiliated:
   icon: fa-duotone fa-solid fa-user-group
-  description: affiliated
+  description: Affiliated Student
 
 visiting:
   icon: fa-solid fa-globe-stand
-  description: visiting students
+  description: Visiting Student
   
 
 link:
