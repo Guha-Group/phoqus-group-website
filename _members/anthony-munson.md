@@ -1,7 +1,7 @@
 ---
 name: Anthony Munson
 image: 
-role: phd
+role: affiliated
 affiliation: University of Maryland
 ---
 

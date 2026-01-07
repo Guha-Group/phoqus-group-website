@@ -23,7 +23,11 @@ Our team consists of members from both the University of Maryland and the Univer
 
 ## Students
 
-{% include list.html data="members" component="portrait" filters="role: (phd|undergrad|summer|assistant|affiliated|visiting)" %}
+{% include list.html data="members" component="portrait" filters="role: (phd|undergrad|assistant)" %}
+
+## Affiliated and Visiting Students
+
+{% include list.html data="members" component="portrait" filters="role: (summer|affiliated|visiting)" %}
 
 {% include section.html dark=true %}
 
@@ -34,6 +38,9 @@ We work with a wide range of outstanding groups from around the world, and we're
 {% include section.html %}
 
 {% include gallery.html %}
+
+
+
 
 ## Alumni
 

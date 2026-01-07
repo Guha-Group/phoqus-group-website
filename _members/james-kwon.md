@@ -1,7 +1,7 @@
 ---
 name: James Kwon
 image: images/james.jpg
-role: phd
+role: affiliated
 affiliation: University of Maryland
 ---
 
