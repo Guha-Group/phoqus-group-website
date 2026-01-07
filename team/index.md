@@ -39,9 +39,6 @@ We work with a wide range of outstanding groups from around the world, and we're
 
 {% include gallery.html %}
 
-
-
-
 ## Alumni
 
 {% include list.html data="members" component="portrait" style="small" filters="role: alumni" %}
