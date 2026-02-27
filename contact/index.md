@@ -40,8 +40,8 @@ Coordinator Office: Room 2140, Kim Engineering Building, 8228 Paint Branch Drive
 
 {%
   include figure.html
-  image="images/gcrb.jpeg"
-  caption="Meinel and Grand Challenges Research Building at the University of Arizona"
+  image="images/zupnik.jpg"
+  caption="Zupnik Hall at the University of Maryland, College Park"
 %}
 
 {% endcapture %}
