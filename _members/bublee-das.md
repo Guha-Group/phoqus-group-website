@@ -1,7 +1,7 @@
 ---
 name: Bublee Das
 image: images/bublee.png
-role: summer
+role: phd
 affiliation: University of Maryland
 
 ---
