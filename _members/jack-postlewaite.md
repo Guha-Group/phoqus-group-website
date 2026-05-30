@@ -4,7 +4,7 @@ image: images/jack.jpeg
 role: phd
 affiliation: University of Maryland
 links:
-    google-scholar: SZop_JAAAAAJ
+    google-scholar: kuAFIfcAAAAJ
     linkedin: jack-postlewaite
     twitter: jtpostlewaite
     email: jackpost@umd.edu
