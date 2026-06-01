@@ -1,6 +1,6 @@
 ---
 name: Xinyuan Zheng
-image: images/xinyuan.JPG
+image: images/xinyuan.png
 role: postdoc
 affiliation: University of Maryland
 ---
