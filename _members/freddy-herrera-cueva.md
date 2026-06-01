@@ -1,7 +1,7 @@
 ---
 name: Freddy Herrera Cueva
 image: images/freddy.jpg
-role: assistant
+role: alumni
 affiliation: University of Maryland
 
 ---

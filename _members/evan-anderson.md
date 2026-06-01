@@ -1,7 +1,7 @@
 ---
 name: Evan Anderson
 image: images/evan.jpeg
-role: alumni
+role: postdoc
 affiliation: Former PhD student (joint with Boulat Bash), University of Arizona
 ---
 

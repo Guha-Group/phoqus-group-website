@@ -1,7 +1,7 @@
 ---
 name: Mingyuan Hong
 image: images/mingyuan.png
-role: postdoc
+role: alumni
 affiliation: University of Maryland
 links:
     google-scholar: E1Rszl0AAAAJ
