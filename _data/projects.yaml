@@ -39,6 +39,16 @@
   tags:
     - sensing
 
+- title: ONR-MURI DISCO-DEQS Entanglement Assisted Sensor Networks
+  subtitle: ONR
+  group: featured
+  image: images/ONR-muri.png
+  link: https://phoqus.us/projects/onr-muri
+  description: A MURI project investigating distributed CV and DV hybrid entanglement assisted sensor networks
+  repo: Guha-Group
+  tags:
+    - sensing
+
 - title: Green Machine Receiver for Superadditive Communications
   subtitle: NASA
   group: past
