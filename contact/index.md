@@ -11,7 +11,7 @@ Reach out to us in regards to research, media, and project sponsorship. We are a
 
 Prof. Guha's Office Address: Room 2236, Kim Engineering Building, 8228 Paint Branch Drive, University of Maryland, College Park, MD 20742
 
-Coordinator Office: Room 2140, Kim Engineering Building, 8228 Paint Branch Drive, University of Maryland, College Park, MD 20742
+Coordinator Office: Room 1357, AV Williams Building, 8223 Paint Branch Drive, University of Maryland, College Park, MD 20740
 
 {%
   include button.html
