@@ -9,21 +9,25 @@ nav:
 
 Our team consists of members from both the University of Maryland and the University of Arizona. Find out more about our research group here.
 
-## Principal Investigator
+## Group Leads
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
-## Faculty
+## Research Scientists
 
 {% include list.html data="members" component="portrait" filters="role: faculty" %}
 
-## Administration and Research Staff
+## Administrative Staff
 
-{% include list.html data="members" component="portrait" filters="role: (coordinator|researcher|postdoc)" %}
+{% include list.html data="members" component="portrait" filters="role: (coordinator)" %}
 
-## Students
+## Graduate Students
 
 {% include list.html data="members" component="portrait" filters="role: (phd|undergrad|assistant)" %}
+
+## Undergraduate Students
+
+{% include list.html data="members" component="portrait" filters="role: (undergrad|assistant)" %}
 
 ## Affiliated and Visiting Students
 
