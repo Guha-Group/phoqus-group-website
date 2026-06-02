@@ -1,7 +1,7 @@
 ---
 name: Wenhua He
 image: images/wenhua.jpg
-role: postdoc
+role: post doc
 affiliation: University of Maryland
 ---
 
