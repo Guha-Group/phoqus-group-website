@@ -4,7 +4,6 @@ subtitle: Led by Prof. Saikat Guha at the University of Maryland, College Park
 description: Learn more about the PhoQuS group and our research in quantum information science and quantum optics
 header: images/background.jpg
 footer: images/background.jpg
-proofer: false
 
 # site social media and other links
 links:
@@ -40,11 +39,6 @@ defaults:
       type: "projects"
     values:
       layout: projects
-  # markdown files in /_jobs
-  - scope:
-      type: "jobs"
-    values:
-      layout: jobs
 
 collections:
   # generate page for each member
@@ -55,9 +49,6 @@ collections:
     output: true
   # generate page for each post
   projects:
-    output: true
-  # generate page for each job
-  jobs:
     output: true
 
 # jekyll plugins
@@ -87,4 +78,3 @@ include:
 exclude:
   - README.md
   - LICENSE.md
-  - CITATION.cff
