@@ -19,9 +19,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # for debugging
-      - uses: crazy-max/ghaction-dump-context@v2
-
       - name: Get Pages url
         id: pages
         uses: actions/configure-pages@v4

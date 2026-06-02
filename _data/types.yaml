@@ -175,43 +175,6 @@ error:
   icon: fa-solid fa-ban
   color: "#ef4444"
 
-# publications
-
-paper:
-  icon: fa-solid fa-scroll
-  text: Paper
-  tooltip: Paper
-
-book:
-  icon: fa-solid fa-book
-  text: Book
-  tooltip: Book
-
-article:
-  icon: fa-solid fa-newspaper
-  text: Article
-  tooltip: Article
-
-journal:
-  icon: fa-regular fa-newspaper
-  text: Journal
-  tooltip: Journal
-
-preprint:
-  icon: fa-regular fa-eye
-  text: Preprint
-  tooltip: Preprint
-
-unpublished:
-  icon: fa-regular fa-eye
-  text: Unpublished
-  tooltip: Unpublished
-
-manubot:
-  icon: manubot.svg
-  text: Manubot
-  tooltip: Manubot
-
 # software
 
 docs:
