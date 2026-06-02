@@ -17,10 +17,3 @@ We look forward to hearing from you!
   text="<chaohan@umd.edu>"
   link="<mailto:chaohan@umd.edu>"
 %}
-
-<!-- ## Active Job Postings
-{% include tags.html tags="postdoc, grad-student, undergrad" %}
-
-{% include search-info.html %}
-
-{% include list.html data="jobs" component="job-excerpt" %} -->
