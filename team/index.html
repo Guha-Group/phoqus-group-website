@@ -203,18 +203,6 @@
   
 
   
-    <link href="/_styles/job-excerpt.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/job-info.css" rel="stylesheet">
-  
-
-  
-    <link href="/_styles/job-nav.css" rel="stylesheet">
-  
-
-  
     <link href="/_styles/link.css" rel="stylesheet">
   
 
@@ -344,24 +332,27 @@
   <!-- third party scripts -->
 <script src="https://unpkg.com/@popperjs/core@2" defer></script>
 <script src="https://unpkg.com/tippy.js@6" defer></script>
-<script src="https://unpkg.com/mark.js@8" defer></script>
-
-<!-- include all js in scripts folder -->
 
 
-  <script src="/_scripts/anchors.js"></script>
 
-  <script src="/_scripts/dark-mode.js"></script>
 
-  <script src="/_scripts/fetch-tags.js"></script>
 
-  <script src="/_scripts/search.js"></script>
 
-  <script src="/_scripts/site-search.js"></script>
 
-  <script src="/_scripts/table-wrap.js"></script>
+<!-- site-wide scripts -->
 
-  <script src="/_scripts/tooltip.js"></script>
+
+  <script src="/_scripts/anchors.js" defer></script>
+
+  <script src="/_scripts/dark-mode.js" defer></script>
+
+  <script src="/_scripts/table-wrap.js" defer></script>
+
+  <script src="/_scripts/tooltip.js" defer></script>
+
+
+
+
 
 
 </head>
@@ -1249,317 +1240,90 @@
 -->
 
 <!-- _includes/gallery.html -->
+
 <div class="gallery-container">
-    <div class="gallery">
-      <div class="gallery-item"><img src="" alt="Gallery Image" class="gallery-img"></div>
-      <div class="gallery-item"><img src="" alt="Gallery Image" class="gallery-img"></div>
-      <div class="gallery-item"><img src="" alt="Gallery Image" class="gallery-img"></div>
-    </div>
+  <div class="gallery">
+    
+      <div class="gallery-item">
+        <img src="/images/gallery/team-01.jpg" alt="PhoQuS group photo" class="gallery-img" loading="lazy" decoding="async">
+      </div>
+    
+      <div class="gallery-item">
+        <img src="/images/gallery/team-08.jpg" alt="PhoQuS group photo" class="gallery-img" loading="lazy" decoding="async">
+      </div>
+    
+      <div class="gallery-item">
+        <img src="/images/gallery/team-09.jpg" alt="PhoQuS group photo" class="gallery-img" loading="lazy" decoding="async">
+      </div>
+    
   </div>
+</div>
 
 <style>
-    .gallery-container {
-      width: 100%;
-      margin: 0 auto;
-      overflow: hidden;
-    }
-    .gallery {
-      display: flex;
-      justify-content: space-between;
-      gap: 20px;
-    }
-    .gallery-item {
-      flex: 1;
-      max-width: 33.33%;
-      transition: opacity 1s ease-in-out;
-    }
-    .gallery-img {
-      width: 100%;
-      height: auto;
-      object-fit: contain;
-      border-radius: 8px;
-    }
-    .gallery-item.fade {
-      opacity: 0;
-    }
-  </style>
+  .gallery-container {
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  .gallery {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .gallery-item {
+    flex: 1;
+    max-width: 33.33%;
+    transition: opacity 1s ease-in-out;
+  }
+  .gallery-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+  .gallery-item.fade {
+    opacity: 0;
+  }
+</style>
 
 <script>
-    // List of images in the gallery folder
+  {
     const galleryImages = [
       
-        
+        "/images/gallery/team-01.jpg",
       
-        
+        "/images/gallery/team-08.jpg",
       
-        
+        "/images/gallery/team-09.jpg",
       
-        
+        "/images/gallery/team-10.jpg",
       
-        
+        "/images/gallery/team-11.jpg",
       
-        
+        "/images/gallery/team-12.jpg",
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-          "/images/gallery/Copy of 2024 11 22 Holiday Potluck.jpg",
-        
-      
-        
-          "/images/gallery/Copy of IMG_0612.HEIC",
-        
-      
-        
-          "/images/gallery/Copy of IMG_2798.HEIC",
-        
-      
-        
-          "/images/gallery/Copy of IMG_2895.HEIC",
-        
-      
-        
-          "/images/gallery/Copy of IMG_2929.HEIC",
-        
-      
-        
-          "/images/gallery/Copy of IMG_3225.HEIC",
-        
-      
-        
-          "/images/gallery/Copy of IMG_5516.jpeg",
-        
-      
-        
-          "/images/gallery/Copy of PXL_20221203_193045228.jpg",
-        
-      
-        
-          "/images/gallery/Copy of dji_fly_20230216_131214_204_1676578362530_photo.jpeg",
-        
-      
-        
-          "/images/gallery/group1.jpg",
-        
-      
-        
-          "/images/gallery/hike1.JPG",
-        
-      
-        
-          "/images/gallery/hike2.JPG",
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    ].filter(img => img); // Remove empty entries
-  
-    let currentIndex = 0;
-    const itemsToShow = 3;
-    const galleryItems = document.querySelectorAll('.gallery-item');
-  
+    ];
+
+    let currentIndex = 3;
+    const galleryItems = document.querySelectorAll(".gallery-item");
+
     function updateGallery() {
       galleryItems.forEach((item, i) => {
-        item.classList.add('fade');
+        item.classList.add("fade");
         setTimeout(() => {
           const imgIndex = (currentIndex + i) % galleryImages.length;
-          const img = item.querySelector('img');
+          const img = item.querySelector("img");
           img.src = galleryImages[imgIndex];
-          item.classList.remove('fade');
-        }, 500); // Delay for fade effect
+          item.classList.remove("fade");
+        }, 500);
       });
-  
-      currentIndex = (currentIndex + itemsToShow) % galleryImages.length;
+
+      currentIndex = (currentIndex + galleryItems.length) % galleryImages.length;
     }
-  
-    // Initialize gallery
-    updateGallery();
-  
-    // Rotate every 5 seconds
+
     setInterval(updateGallery, 5000);
-  </script>
+  }
+</script>
 
 <h2 id="alumni">Alumni</h2>
 
