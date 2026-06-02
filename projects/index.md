@@ -19,12 +19,6 @@ This page shows our upcoming, current and past sponsored research projects.
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-<!-- {% include section.html %}
-
-## Upcoming
-
-{% include list.html component="card" data="projects" filters="group: upcoming" style="small" %} -->
-
 {% include section.html %}
 
 ## Past
