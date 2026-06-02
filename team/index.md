@@ -21,6 +21,10 @@ Our team consists of members from both the University of Maryland and the Univer
 
 {% include list.html data="members" component="portrait" filters="role: (coordinator)" %}
 
+## Postdoctoral Researchers
+
+{% include list.html data="members" component="portrait" filters="role: (postdoc)" %}
+
 ## Graduate Students
 
 {% include list.html data="members" component="portrait" filters="role: (phd)" %}
