@@ -1,6 +1,6 @@
 ---
 name: Eric Bouchard
-image: 
+image: images/eric.jpg
 role: coordinator
 affiliation: University of Maryland
 links:
