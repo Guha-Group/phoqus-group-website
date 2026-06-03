@@ -1,6 +1,6 @@
 ---
-title: PhoQuS Awarded DARPA HARQ
-tags: general
+title: Research Faculty Aqil Sajjad Published in the journal Quantum
+tags: papers
 image: images/gGM.jpg
 ---
 
