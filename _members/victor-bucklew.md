@@ -1,7 +1,7 @@
 ---
 name: Victor Bucklew
 image: images/victor.jpg
-role: coordinator
+role: faculty
 affiliation: University of Maryland
 links:
 ---
