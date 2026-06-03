@@ -2,6 +2,7 @@
 name: Jacob Gunnell
 image: images/jacob.jpg
 role: phd
+rank: 2
 affiliation: University of Maryland
 ---
 

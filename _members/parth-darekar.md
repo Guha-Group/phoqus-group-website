@@ -2,6 +2,7 @@
 name: Parth Darekar
 image: images/parth.jpg
 role: phd
+rank: 2
 affiliation: University of Maryland
 ---
 

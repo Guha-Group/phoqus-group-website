@@ -3,6 +3,7 @@ name: Declan Daly
 image: images/declan.png
 role: phd
 affiliation: University of Maryland
+rank: 2
 ---
 
 Declan Daly is a PhD student who worked with Prof. Ron Walsworth at UMD on nuclear magnetic resonance (NMR) spectroscopy of samples using Nitrogen vacancy (NV) centers in diamond. With dynamical decoupling sequences, NVs can be made sensitive to oscillating magnetic fields from

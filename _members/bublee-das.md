@@ -3,7 +3,7 @@ name: Bublee Das
 image: images/bublee.png
 role: phd
 affiliation: University of Maryland
-
+rank: 2
 ---
 
 Bublee earned her B.S. and M.S. in Electrical and Electronic Engineering
