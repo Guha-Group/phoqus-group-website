@@ -5,6 +5,21 @@
   | data_filter: include.filters
 %}
 
+{% if include.sort %}
+  {% assign _sort = include.sort %}
+  {% assign _ranked = "" | split: "" %}
+  {% assign _unranked = "" | split: "" %}
+  {% for item in data %}
+    {% if item[_sort] %}
+      {% assign _ranked = _ranked | push: item %}
+    {% else %}
+      {% assign _unranked = _unranked | push: item %}
+    {% endif %}
+  {% endfor %}
+  {% assign _ranked = _ranked | sort: _sort %}
+  {% assign data = _ranked | concat: _unranked %}
+{% endif %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
