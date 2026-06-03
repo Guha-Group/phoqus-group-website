@@ -1,7 +1,7 @@
 ---
 name: Brianna Moreno
 image: images/brianna.jpeg
-role: alumni
+role: coordinator
 affiliation: Former Program Coordinator, CQN Senior Coordinator UArizona
 ---
 
