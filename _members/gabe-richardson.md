@@ -3,6 +3,7 @@ name: Gabe Richardson
 image: images/gabe.jpg
 role: phd
 affiliation: University of Maryland
+rank: 1
 links:
     google-scholar: h37G8esAAAAJ
 ---

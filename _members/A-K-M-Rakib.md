@@ -3,6 +3,7 @@ name: A K M Rakib
 image: images/Rakib.jpg
 role: phd
 affiliation: University of Maryland
+rank: 2
 links:
     google-scholar: xJnrS_0AAAAJ
     linkedin: a-k-m-rakib-39044b1a2

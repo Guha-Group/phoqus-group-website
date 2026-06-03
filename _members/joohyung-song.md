@@ -3,6 +3,7 @@ name: Joohyung Song
 image: images/joohyung.jpeg
 role: phd
 affiliation: University of Maryland
+rank: 2
 links:
     google-scholar: q5il62MAAAAJ
 ---

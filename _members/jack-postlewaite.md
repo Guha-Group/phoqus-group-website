@@ -3,6 +3,7 @@ name: Jack Postlewaite
 image: images/jack.jpeg
 role: phd
 affiliation: University of Maryland
+rank: 1
 links:
     google-scholar: kuAFIfcAAAAJ
     linkedin: jack-postlewaite
