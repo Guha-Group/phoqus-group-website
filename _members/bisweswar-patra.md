@@ -1,7 +1,7 @@
 ---
 name: Bisweswar Patra
 image: images/bisweswar.png
-role: phd
+role: postdoc
 affiliation: University of Maryland
 rank: 2
 ---
