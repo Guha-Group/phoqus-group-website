@@ -1,7 +1,7 @@
 ---
 name: Chaohan Cui
 image: images/chaohan.jpg
-role: pi
+role: pi-exp
 affiliation: University of Maryland
 links:
     google-scholar: gCe7XR0AAAAJ 

@@ -11,7 +11,7 @@ Our team consists of members from both the University of Maryland and the Univer
 
 ## Group Leads
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: (pi|pi-the|pi-exp)" %}
 
 ## Research Scientists
 
@@ -19,7 +19,7 @@ Our team consists of members from both the University of Maryland and the Univer
 
 ## Administrative Staff
 
-{% include list.html data="members" component="portrait" filters="role: (coordinator)" %}
+{% include list.html data="members" component="portrait" filters="role: (coordinator)" sort="rank" %}
 
 ## Postdoctoral Researchers
 

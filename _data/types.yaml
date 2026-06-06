@@ -6,6 +6,14 @@ pi:
   icon: fa-solid fa-star
   description: Principal Investigator
 
+pi-the:
+  icon: fa-solid fa-star
+  description: Principal Investigator (Theory)
+
+pi-exp:
+  icon: fa-solid fa-star
+  description: Principal Investigator (Experimental)
+
 researcher:
   icon: fa-solid fa-brain
   description: Research Scientist

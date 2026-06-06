@@ -1,6 +1,6 @@
 ---
 name: Tannishtha Saha
-image: 
+image: images/Tannishtha.jpeg
 role: assistant
 affiliation: University of Maryland
 

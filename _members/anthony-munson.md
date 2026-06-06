@@ -1,6 +1,6 @@
 ---
 name: Anthony Munson
-image: 
+image: images/anthony.jpg
 role: affiliated
 affiliation: University of Maryland
 ---

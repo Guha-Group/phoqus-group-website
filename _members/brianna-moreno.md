@@ -2,6 +2,7 @@
 name: Brianna Moreno
 image: images/brianna.jpeg
 role: coordinator
+rank: 1
 affiliation: CQN Administrative Director - UMD & UA
 ---
 

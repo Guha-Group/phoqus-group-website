@@ -2,6 +2,7 @@
 name: Diandrea Campbell
 image: images/Diandrea.jpg
 role: coordinator
+rank: 2
 affiliation: University of Maryland
 links:
 ---

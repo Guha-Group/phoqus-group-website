@@ -1,6 +1,6 @@
 ---
 name: Nico Deshler
-image: 
+image: images/nico.jpg
 role: affiliated
 affiliation: University of Arizona
 ---

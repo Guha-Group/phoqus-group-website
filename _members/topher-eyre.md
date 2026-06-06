@@ -1,6 +1,6 @@
 ---
 name: Topher Eyre
-image: 
+image: images/topher.jpeg
 role: phd
 affiliation: University of Maryland
 rank: 2
