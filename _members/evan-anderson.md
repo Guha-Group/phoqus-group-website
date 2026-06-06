@@ -2,7 +2,7 @@
 name: Evan Anderson
 image: images/evan.jpeg
 role: postdoc
-affiliation: Former PhD student (joint with Boulat Bash), University of Arizona
+affiliation: University of Maryland
 ---
 
 Evan has degrees in Computer Science, Math from Kalamazoo College and studied Physics at the University of Colorado Boulder before coming to the U of A’s College of Optical Sciences. In his free time, Evan enjoys programming, playing soccer, and spending time with his partner and two dogs.
