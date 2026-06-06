@@ -3,6 +3,7 @@ name: Saikat Guha
 image: images/saikat.png
 role: pi-the
 affiliation: University of Maryland
+rank: 1
 links:
   orcid: 0000-0002-2581-4380
   google-scholar: E4JS8pQAAAAJ

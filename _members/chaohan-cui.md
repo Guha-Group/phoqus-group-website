@@ -3,6 +3,7 @@ name: Chaohan Cui
 image: images/chaohan.jpg
 role: pi-exp
 affiliation: University of Maryland
+rank: 2
 links:
     google-scholar: gCe7XR0AAAAJ 
 ---
