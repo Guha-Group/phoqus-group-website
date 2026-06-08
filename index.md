@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to the Photonic Quantum Systems (PhoQuS) group at the University of Maryland, College Park, led by Prof. Saikat Guha. Our group investigates mathematical foundations of quantum information theory, its applications to quantum optics, and experimental system designs for attaining quantum precision limits of photonic information processing.
+Welcome to the Photonic Quantum Systems (PhoQuS) group at the University of Maryland, College Park, led by Prof. Saikat Guha and Dr. Chaohan Cui. Our group investigates mathematical foundations of quantum information theory, its applications to quantum optics, and experimental system designs for attaining quantum precision limits of photonic information processing.
 
 Our work entails scenarios where light is used to extract, carry and process information. Some examples of our research include: 
 1. Designing codes and quantum-enhanced receivers for optical fiber and free-space classical communications.
