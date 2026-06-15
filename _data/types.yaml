@@ -12,7 +12,7 @@ pi-the:
 
 pi-exp:
   icon: fa-solid fa-star
-  description: Principal Investigator (Experimental)
+  description: Principal Investigator (Experiments)
 
 researcher:
   icon: fa-solid fa-brain
@@ -41,6 +41,14 @@ assistant:
 coordinator:
   icon: fa-solid fa-briefcase
   description: Program Coordinator
+
+fin-cord:
+  icon: fa-solid fa-briefcase
+  description: Financial Coordinator
+
+cqn-dir:
+  icon: fa-solid fa-briefcase
+  description: Administrative Director
 
 mascot:
   icon: fa-solid fa-dog

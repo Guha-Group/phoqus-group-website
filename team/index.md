@@ -19,7 +19,7 @@ Our team consists of members from both the University of Maryland and the Univer
 
 ## Administrative Staff
 
-{% include list.html data="members" component="portrait" filters="role: (coordinator)" sort="rank" %}
+{% include list.html data="members" component="portrait" filters="role: (coordinator|fin-cord|cqn-dir)" sort="rank" %}
 
 ## Postdoctoral Researchers
 
