@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="120" fill="#1a1a2e"/>
+  
+  <!-- Letters -->
+  <g id="letters" font-family="'Montserrat', sans-serif" font-weight="900" font-size="72" text-anchor="middle">
+    <text x="200" y="80" fill="#e0e0e0" filter="url(#glow)">
+      <tspan>P</tspan>
+      <tspan dx="-2">h</tspan>
+      <tspan dx="-2">o</tspan>
+      <tspan dx="-2">Q</tspan>
+      <tspan dx="-2">u</tspan>
+      <tspan dx="-2">S</tspan>
+      <animate attributeName="fill" dur="8s" repeatCount="indefinite"
+        values="#e0e0e0;#ff6b6b;#4ecdc4;#45b7d1;#e0e0e0"
+        begin="0s"/>
+    </text>
+  </g>
+  
+  <!-- Photons -->
+  <g>
+    <!-- Red photon -->
+    <circle r="4" fill="#ff6b6b" filter="url(#glow)">
+      <animateMotion dur="4s" repeatCount="indefinite"
+        path="M -10 60 Q 200 20, 410 60" />
+    </circle>
+    
+    <!-- Green photon -->
+    <circle r="4" fill="#4ecdc4" filter="url(#glow)">
+      <animateMotion dur="4s" repeatCount="indefinite"
+        path="M 410 30 Q 200 100, -10 70" begin="1s"/>
+    </circle>
+    
+    <!-- Blue photon -->
+    <circle r="4" fill="#45b7d1" filter="url(#glow)">
+      <animateMotion dur="4s" repeatCount="indefinite"
+        path="M 200 -10 Q 250 60, 200 130" begin="2s"/>
+    </circle>
+    
+    <!-- Yellow photon -->
+    <circle r="4" fill="#feca57" filter="url(#glow)">
+      <animateMotion dur="4s" repeatCount="indefinite"
+        path="M -10 100 Q 200 50, 410 100" begin="3s"/>
+    </circle>
+  </g>
+</svg>
