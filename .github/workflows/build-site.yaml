@@ -22,6 +22,10 @@ jobs:
     steps:
       - name: Checkout branch contents
         uses: actions/checkout@v6.0.3
+        with:
+          # full history so jekyll-last-modified-at can read each file's
+          # real last-commit date instead of falling back to checkout mtime
+          fetch-depth: 0
 
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1.310.0
