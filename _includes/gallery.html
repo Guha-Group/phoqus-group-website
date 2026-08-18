@@ -1,5 +1,5 @@
 <!-- _includes/gallery.html -->
-{% assign gallery_images = "images/gallery/team-01.jpg,images/gallery/team-08.jpg,images/gallery/team-09.jpg,images/gallery/team-10.jpg,images/gallery/team-11.jpg,images/gallery/team-12.jpg" | split: "," %}
+{% assign gallery_images = "images/gallery/team-01.jpg,images/gallery/team-08.jpg,images/gallery/team-09.jpg,images/gallery/team-10.jpg,images/gallery/team-11.jpg,images/gallery/team-12.jpg,images/gallery/team-13.jpg,images/gallery/team-14.jpg,images/gallery/team-15.jpg,images/gallery/team-16.jpg,images/gallery/team-17.jpg,images/gallery/team-18.jpg" | split: "," %}
 
 <div class="gallery-container">
   <div class="gallery">
@@ -45,30 +45,59 @@
 </style>
 
 <script>
-  {
+  (function () {
     const galleryImages = [
       {% for image in gallery_images %}
         "{{ image | relative_url }}",
       {% endfor %}
     ];
 
-    let currentIndex = 3;
     const galleryItems = document.querySelectorAll(".gallery-item");
 
-    function updateGallery() {
-      galleryItems.forEach((item, i) => {
-        item.classList.add("fade");
-        setTimeout(() => {
-          const imgIndex = (currentIndex + i) % galleryImages.length;
-          const img = item.querySelector("img");
-          img.src = galleryImages[imgIndex];
-          item.classList.remove("fade");
-        }, 500);
-      });
-
-      currentIndex = (currentIndex + galleryItems.length) % galleryImages.length;
+    // Nothing to rotate if there are no slots, or not enough extra images
+    // beyond what's already shown to make rotation meaningful.
+    if (galleryItems.length === 0 || galleryImages.length <= galleryItems.length) {
+      return;
     }
 
-    setInterval(updateGallery, 5000);
-  }
+    let currentIndex = galleryItems.length % galleryImages.length;
+    let pendingSwaps = [];
+
+    function updateGallery() {
+      // Clear any swaps still pending from a previous tick so overlapping
+      // ticks (e.g. after the tab was backgrounded) can't race each other.
+      pendingSwaps.forEach(clearTimeout);
+      pendingSwaps = [];
+
+      galleryItems.forEach((item, i) => {
+        item.classList.add("fade");
+        const timeoutId = setTimeout(() => {
+          const img = item.querySelector("img");
+          if (img) {
+            img.src = galleryImages[(currentIndex + i) % galleryImages.length];
+          }
+          item.classList.remove("fade");
+        }, 500);
+        pendingSwaps.push(timeoutId);
+      });
+
+      // Advance by one image per tick (rather than by the number of visible
+      // slots) so the rotation actually cycles through every image instead
+      // of alternating between two fixed groups.
+      currentIndex = (currentIndex + 1) % galleryImages.length;
+    }
+
+    let intervalId = setInterval(updateGallery, 5000);
+
+    // Pause the rotation while the tab isn't visible instead of letting
+    // ticks pile up silently in the background, then resume on return.
+    document.addEventListener("visibilitychange", () => {
+      if (document.hidden) {
+        clearInterval(intervalId);
+        intervalId = null;
+      } else if (intervalId === null) {
+        intervalId = setInterval(updateGallery, 5000);
+      }
+    });
+  })();
 </script>
