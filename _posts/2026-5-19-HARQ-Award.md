@@ -1,6 +1,6 @@
 ---
-title: Research Faculty Aqil Sajjad Published in the journal Quantum
-tags: papers
+title: Chohan Cui Awarded HARQ
+tags: news
 image: images/gGM.jpg
 ---
 
