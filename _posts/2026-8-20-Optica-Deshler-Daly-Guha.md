@@ -1,7 +1,7 @@
 ---
 title: Towards Quantum-Limited Spatial Resolution of NV-Diamond Magnetometry
 tags: papers
-image: 
+image: images/Optica Publishing Group.png
 ---
 PhoQus Group Members Prof. Guha and Students Declan Daly and Nico Deshler have published in the Journal Optica Publishing Group!
 
